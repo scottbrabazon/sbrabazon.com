@@ -1,0 +1,39 @@
+h1, h2, h3, a, p {
+    text-align: center;
+    font-family: 'Rokkitt', serif;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2.5em;
+    line-height: 0.8em;
+    margin: 35px 0 0 0;
+    color: $primary-color;
+    a {color: $primary-color;}
+}
+
+h2 {
+    font-size: 1.8em;
+    line-height: 0.8em;
+    margin: 20px 0 0 0;
+    color: $primary-color;
+    a {color: $primary-color;}
+}
+
+h3 {
+    font-size: 1.5em;
+    line-height: 0.9em;
+    margin: 5px 0 0 0;
+    color: $text-color;
+}
+
+a {
+    margin-top: inherit;
+    color: $text-color;
+    }
+
+p {
+    margin: 5px 0 0 0;
+    padding: 0;
+    color: $text-color;
+}
