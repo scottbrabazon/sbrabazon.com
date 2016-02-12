@@ -1,0 +1,1572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-12 15:37-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juanfra Aldasoro <juanfraa@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:16
+msgid "Category Archives"
+msgstr ""
+
+#: archive.php:16
+msgid "RSS feed for this section"
+msgstr ""
+
+#: archive.php:18
+msgid "Daily Archives"
+msgstr ""
+
+#: archive.php:21
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:24
+msgid "Yearly Archives"
+msgstr ""
+
+#: archive.php:27
+msgid "Archive by Author"
+msgstr ""
+
+#: archive.php:30
+msgid "Tag Archives"
+msgstr ""
+
+#: archive.php:41
+#: index.php:18
+#: index.php:27
+#: search.php:23
+#: taxonomy-menu-category.php:71
+#: taxonomy-menu-category.php:114
+#: template-blog.php:26
+#: template-blog.php:35
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: archive.php:64
+#: index.php:47
+#: search.php:45
+#: template-blog.php:55
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments.php:28
+msgid "on"
+msgstr ""
+
+#: comments.php:29
+msgid "Edit"
+msgstr ""
+
+#: comments.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:78
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:90
+msgid "No comments"
+msgstr ""
+
+#: comments.php:90
+msgid "1 comment"
+msgstr ""
+
+#: comments.php:90
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:106
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:118
+msgid "No comments yet."
+msgstr ""
+
+#: comments.php:122
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:142
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:143
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:144
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:145
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:147
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:148
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:153
+msgid "Name"
+msgstr ""
+
+#: comments.php:154
+msgid "Email"
+msgstr ""
+
+#: comments.php:155
+msgid "Website"
+msgstr ""
+
+#: footer.php:19
+msgid "Client Testimonials"
+msgstr ""
+
+#: footer.php:66
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: footer.php:66
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:67
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: page.php:24
+#: single-menu.php:44
+#: single.php:40
+#: template-contact.php:82
+#: template-feedback.php:28
+msgid "Continue reading"
+msgstr ""
+
+#: page.php:26
+msgid "Pages:"
+msgstr ""
+
+#: page.php:43
+#: template-contact.php:116
+#: template-feedback.php:88
+msgid "Not Found"
+msgstr ""
+
+#: page.php:46
+#: template-contact.php:118
+#: template-feedback.php:90
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: search.php:13
+msgid "Search Results"
+msgstr ""
+
+#: single-menu.php:113
+msgid "Calories"
+msgstr ""
+
+#: single-menu.php:117
+msgid "Gluten Free"
+msgstr ""
+
+#: single-menu.php:119
+#: single-menu.php:127
+msgid "Yes"
+msgstr ""
+
+#: single-menu.php:121
+#: single-menu.php:129
+msgid "No"
+msgstr ""
+
+#: single-menu.php:125
+msgid "Vegetarian"
+msgstr ""
+
+#: single-menu.php:136
+msgid "Spiciness"
+msgstr ""
+
+#: template-contact.php:47
+msgid "Address"
+msgstr ""
+
+#: template-contact.php:54
+msgid "Phone"
+msgstr ""
+
+#: template-contact.php:63
+msgid "Hours"
+msgstr ""
+
+#: template-contact.php:86
+msgid "Thank you for leaving a message."
+msgstr ""
+
+#: template-contact.php:90
+msgid "Your Name"
+msgstr ""
+
+#: template-contact.php:94
+msgid "Subject"
+msgstr ""
+
+#: template-contact.php:98
+msgid "Your E-Mail"
+msgstr ""
+
+#: template-contact.php:102
+msgid "Your Message"
+msgstr ""
+
+#: template-contact.php:106
+msgid "Submit"
+msgstr ""
+
+#: template-feedback.php:72
+msgid "There are no feedback items"
+msgstr ""
+
+#: template-gallery.php:67
+msgid "There are no images for this gallery"
+msgstr ""
+
+#: template-home.php:84
+msgid "Read more"
+msgstr ""
+
+#: template-sitemap.php:38
+msgid "Pages"
+msgstr ""
+
+#: template-sitemap.php:45
+msgid "Categories"
+msgstr ""
+
+#: template-sitemap.php:54
+msgid "Posts per category"
+msgstr ""
+
+#: template-sitemap.php:65
+msgid "Comments"
+msgstr ""
+
+#: engine/admin/medialibrary.php:74
+msgid "Houdini Post Type"
+msgstr ""
+
+#: engine/admin/metaboxes.php:115
+msgid "Select to return to default"
+msgstr ""
+
+#: engine/admin/options.php:50
+msgid "Help"
+msgstr ""
+
+#: engine/admin/options.php:259
+msgid "Upload Image"
+msgstr ""
+
+#: engine/admin/options.php:265
+msgid "Remove Image"
+msgstr ""
+
+#: engine/admin/options.php:511
+msgid "Google Fonts"
+msgstr ""
+
+#: engine/admin/panel.php:28
+#: engine/admin/panel.php:31
+msgid "Theme Options"
+msgstr ""
+
+#: engine/admin/panel.php:34
+msgid "NiceThemes Updates"
+msgstr ""
+
+#: engine/admin/panel.php:34
+msgid "Updates"
+msgstr ""
+
+#: engine/admin/panel.php:37
+msgid "Support Forums"
+msgstr ""
+
+#: engine/admin/panel.php:37
+msgid "Support"
+msgstr ""
+
+#: engine/admin/panel.php:40
+msgid "More Themes"
+msgstr ""
+
+#: engine/admin/panel.php:306
+msgid "Changes saved successfully"
+msgstr ""
+
+#: engine/admin/panel.php:330
+msgid "Save Changes"
+msgstr ""
+
+#: engine/admin/panel.php:586
+msgid "Themes by NiceThemes.com"
+msgstr ""
+
+#: engine/admin/panel.php:600
+msgid "More Info"
+msgstr ""
+
+#: engine/admin/panel.php:607
+msgid "<p>Error: Error when fetching themes.</p>"
+msgstr ""
+
+#: engine/admin/panel.php:632
+msgid "NiceThemes.com Support"
+msgstr ""
+
+#: engine/theming/theming.php:82
+msgid "minutes ago"
+msgstr ""
+
+#: engine/theming/theming.php:86
+msgid "hours ago"
+msgstr ""
+
+#: engine/theming/theming.php:90
+msgid "days ago"
+msgstr ""
+
+#: includes/custom-fields.php:27
+msgid "Page Information"
+msgstr ""
+
+#: includes/custom-fields.php:29
+msgid "<p>You can select the page template from the \"Template\" dropdown on the \"Page Attributes\" box.</p><p>If you are using the \"Gallery Template\" plase be sure to upload images from the \"Add Media\" button at the top of this page. (Don't insert the gallery in the page content, just add the images).</p>"
+msgstr ""
+
+#: includes/custom-fields.php:40
+msgid "Slides use the wordpress featured image as the slide image. Don't know what featured images are? How to use them? <a href='http://en.support.wordpress.com/featured-images/#setting-a-featured-image'>Take a look at wordpress docs on Featured Images</a>."
+msgstr ""
+
+#: includes/custom-fields.php:76
+msgid "Feedback Items use the wordpress featured image as the feedback image. Don't know what featured images are? How to use them? <a href='http://en.support.wordpress.com/featured-images/#setting-a-featured-image'>Take a look at wordpress docs on Featured Images</a>."
+msgstr ""
+
+#: includes/custom-fields.php:80
+msgid "Feedback Author"
+msgstr ""
+
+#: includes/custom-fields.php:82
+msgid "The name of the author of the feedback (e.g. John Doe)"
+msgstr ""
+
+#: includes/custom-fields.php:87
+msgid "Feedback URL"
+msgstr ""
+
+#: includes/custom-fields.php:89
+msgid "The URL to the feedback author e.g. http://www.johndoe.com - (optional)"
+msgstr ""
+
+#: includes/custom-fields.php:100
+msgid "Info Boxes Items use the wordpress featured image as the feedback image. Don't know what featured images are? How to use them? <a href='http://en.support.wordpress.com/featured-images/#setting-a-featured-image'>Take a look at wordpress docs on Featured Images</a>."
+msgstr ""
+
+#: includes/custom-fields.php:106
+msgid "\"Read more\" URL"
+msgstr ""
+
+#: includes/custom-fields.php:108
+msgid "Add an URL for your Read More button in your Info Box on homepage (optional)"
+msgstr ""
+
+#: includes/custom-fields.php:114
+msgid "\"Read more\" Text"
+msgstr ""
+
+#: includes/custom-fields.php:116
+msgid "Add the anchor text for the \"Read More\" link."
+msgstr ""
+
+#: includes/custom-fields.php:128
+msgid "Menu Items use the wordpress featured image as the item image. Don't know what featured images are? How to use them? <a href='http://en.support.wordpress.com/featured-images/#setting-a-featured-image'>Take a look at wordpress docs on Featured Images</a>."
+msgstr ""
+
+#: includes/custom-fields.php:132
+msgid "Drink or non food item"
+msgstr ""
+
+#: includes/custom-fields.php:134
+msgid "This item is not a food item - Checking this option will hide the Gluten Free & Calories options from the template."
+msgstr ""
+
+#: includes/custom-fields.php:138
+msgid "Price"
+msgstr ""
+
+#: includes/custom-fields.php:140
+msgid "Don't include the currency symbol, just the price in numbers. (i.e.: 4.00)"
+msgstr ""
+
+#: includes/custom-fields.php:146
+msgid "Calories per serving."
+msgstr ""
+
+#: includes/custom-fields.php:150
+msgid "Gluten-free"
+msgstr ""
+
+#: includes/custom-fields.php:162
+msgid "Spiciness scale"
+msgstr ""
+
+#: includes/custom-fields.php:164
+msgid "From 1 to 5. Pick a value for spicy foods."
+msgstr ""
+
+#: includes/custom-fields.php:165
+#: includes/options.php:251
+msgid "Select the number from this list"
+msgstr ""
+
+#: includes/custom-fields.php:171
+msgid "Display thumbnail in Menu Template"
+msgstr ""
+
+#: includes/custom-fields.php:177
+msgid "Display thumbnail in Menu Template (List)"
+msgstr ""
+
+#: includes/functions.php:36
+msgid "Older posts"
+msgstr ""
+
+#: includes/functions.php:37
+msgid "Newer posts"
+msgstr ""
+
+#: includes/functions.php:63
+msgid "By"
+msgstr ""
+
+#: includes/functions.php:64
+msgid "On"
+msgstr ""
+
+#: includes/functions.php:65
+msgid "in"
+msgstr ""
+
+#: includes/functions.php:66
+msgid "with"
+msgstr ""
+
+#: includes/functions.php:66
+msgid "No Comments"
+msgstr ""
+
+#: includes/functions.php:66
+msgid "1 Comment"
+msgstr ""
+
+#: includes/functions.php:66
+msgid "% Comments"
+msgstr ""
+
+#: includes/functions.php:67
+msgid "{ Edit }"
+msgstr ""
+
+#: includes/functions.php:99
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: includes/functions.php:201
+msgid "Previous"
+msgstr ""
+
+#: includes/functions.php:202
+msgid "Next"
+msgstr ""
+
+#: includes/functions.php:243
+msgid "Please tell us your name"
+msgstr ""
+
+#: includes/functions.php:246
+msgid "Please tell us your E-Mail address"
+msgstr ""
+
+#: includes/functions.php:249
+msgid "Please add a message"
+msgstr ""
+
+#: includes/functions.php:254
+msgid "New contact form received"
+msgstr ""
+
+#: includes/functions.php:256
+msgid "Name: "
+msgstr ""
+
+#: includes/functions.php:258
+msgid "Subject: "
+msgstr ""
+
+#: includes/functions.php:260
+msgid "Email: "
+msgstr ""
+
+#: includes/functions.php:260
+msgid "Comments: "
+msgstr ""
+
+#: includes/functions.php:262
+msgid "From: "
+msgstr ""
+
+#: includes/functions.php:263
+msgid "Reply-To: "
+msgstr ""
+
+#: includes/functions.php:269
+msgid "There has been an error, please try again."
+msgstr ""
+
+#: includes/functions.php:347
+msgid "Monday"
+msgstr ""
+
+#: includes/functions.php:348
+msgid "Tuesday"
+msgstr ""
+
+#: includes/functions.php:349
+msgid "Wednesday"
+msgstr ""
+
+#: includes/functions.php:350
+msgid "Thursday"
+msgstr ""
+
+#: includes/functions.php:351
+msgid "Friday"
+msgstr ""
+
+#: includes/functions.php:352
+msgid "Saturday"
+msgstr ""
+
+#: includes/functions.php:353
+msgid "Sunday"
+msgstr ""
+
+#: includes/functions.php:366
+#: includes/options.php:393
+#: includes/options.php:410
+#: includes/options.php:427
+#: includes/options.php:444
+#: includes/options.php:461
+#: includes/options.php:478
+#: includes/options.php:495
+msgid "Closed"
+msgstr ""
+
+#: includes/nav-menus.php:7
+msgid "Navigation Menu"
+msgstr ""
+
+#: includes/options.php:30
+msgid "General Settings"
+msgstr ""
+
+#: includes/options.php:33
+msgid "Custom Logo"
+msgstr ""
+
+#: includes/options.php:34
+msgid "Upload a custom logo."
+msgstr ""
+
+#: includes/options.php:40
+msgid "Enable if you want Blog Title and Tagline to be text-based. Setup title/tagline in WP -> Settings -> General."
+msgstr ""
+
+#: includes/options.php:45
+msgid "Site Title Typography"
+msgstr ""
+
+#: includes/options.php:46
+msgid "Change the site title typography. ( Only if Text Title is enabled )"
+msgstr ""
+
+#: includes/options.php:51
+msgid "Sidebar Position"
+msgstr ""
+
+#: includes/options.php:52
+msgid "Select if you want to show the full content or the excerpt on posts."
+msgstr ""
+
+#: includes/options.php:57
+msgid "Sidebar on right side"
+msgstr ""
+
+#: includes/options.php:57
+msgid "Sidebar on left side"
+msgstr ""
+
+#: includes/options.php:59
+msgid "Allow comments on pages"
+msgstr ""
+
+#: includes/options.php:60
+msgid "Checking this option you'll enable comments on pages."
+msgstr ""
+
+#: includes/options.php:66
+msgid "Display Menu Category as the Menu Grid Template"
+msgstr ""
+
+#: includes/options.php:67
+msgid "Display the Food Menu Category template like the \"Menu Grid\" page template."
+msgstr ""
+
+#: includes/options.php:73
+msgid "Display Feedback Above Footer"
+msgstr ""
+
+#: includes/options.php:74
+msgid "This will enable a feedback section above the footer."
+msgstr ""
+
+#: includes/options.php:80
+msgid "Post Author Box"
+msgstr ""
+
+#: includes/options.php:81
+msgid "This will enable the post author box on the single posts page. Edit description in Users > Your Profile."
+msgstr ""
+
+#: includes/options.php:87
+msgid "Tracking Code"
+msgstr ""
+
+#: includes/options.php:88
+msgid "Insert the code if you have one. Google analytics, etc."
+msgstr ""
+
+#: includes/options.php:95
+msgid "Design & Styles"
+msgstr ""
+
+#: includes/options.php:99
+msgid "Accent Color"
+msgstr ""
+
+#: includes/options.php:107
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/options.php:108
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: includes/options.php:114
+#: includes/options.php:120
+msgid "Menu Order"
+msgstr ""
+
+#: includes/options.php:115
+msgid "Select the view order you wish to set for the main navigation. (This will work when you don't setup a WordPress menu.)"
+msgstr ""
+
+#: includes/options.php:120
+#: includes/options.php:152
+msgid "Post Title"
+msgstr ""
+
+#: includes/options.php:120
+msgid "Post/Page ID"
+msgstr ""
+
+#: includes/options.php:124
+msgid "Typography"
+msgstr ""
+
+#: includes/options.php:128
+msgid "Enable Custom Typography"
+msgstr ""
+
+#: includes/options.php:129
+msgid "Enable if you want to pick your fonts."
+msgstr ""
+
+#: includes/options.php:134
+msgid "General Typography"
+msgstr ""
+
+#: includes/options.php:135
+msgid "Change the general font."
+msgstr ""
+
+#: includes/options.php:140
+msgid "Navigation"
+msgstr ""
+
+#: includes/options.php:141
+msgid "Change the navigation font."
+msgstr ""
+
+#: includes/options.php:146
+msgid "Sub Navigation (Submenus)"
+msgstr ""
+
+#: includes/options.php:147
+msgid "Change the navigation submenu font."
+msgstr ""
+
+#: includes/options.php:153
+#: includes/options.php:183
+msgid "Change the post title."
+msgstr ""
+
+#: includes/options.php:158
+msgid "Post Meta"
+msgstr ""
+
+#: includes/options.php:159
+msgid "Change the post meta."
+msgstr ""
+
+#: includes/options.php:164
+msgid "Post Entry"
+msgstr ""
+
+#: includes/options.php:165
+msgid "Change the post entry."
+msgstr ""
+
+#: includes/options.php:170
+msgid "Infoboxes Title"
+msgstr ""
+
+#: includes/options.php:171
+#: includes/options.php:177
+msgid "Change the infoboxes font."
+msgstr ""
+
+#: includes/options.php:176
+msgid "Infoboxes & Menu Content"
+msgstr ""
+
+#: includes/options.php:182
+msgid "Slider Title"
+msgstr ""
+
+#: includes/options.php:188
+msgid "Slider Content"
+msgstr ""
+
+#: includes/options.php:189
+msgid "Change the slider content."
+msgstr ""
+
+#: includes/options.php:194
+msgid "Sidebar Widget Titles"
+msgstr ""
+
+#: includes/options.php:195
+msgid "Change the sidebar widget titles."
+msgstr ""
+
+#: includes/options.php:200
+msgid "Footer Widget Titles"
+msgstr ""
+
+#: includes/options.php:201
+msgid "Change the footer widget titles."
+msgstr ""
+
+#: includes/options.php:206
+msgid "Footer Widget Content"
+msgstr ""
+
+#: includes/options.php:207
+msgid "Change the footer widget content."
+msgstr ""
+
+#: includes/options.php:215
+msgid "Home Options"
+msgstr ""
+
+#: includes/options.php:218
+msgid "Enable Info Boxes"
+msgstr ""
+
+#: includes/options.php:219
+msgid "This will enable the info boxes to be shown in the home page."
+msgstr ""
+
+#: includes/options.php:225
+msgid "Info Boxes Order"
+msgstr ""
+
+#: includes/options.php:226
+msgid "Select the view order you wish to set for the info boxes items on the home page."
+msgstr ""
+
+#: includes/options.php:235
+msgid "Slider Options"
+msgstr ""
+
+#: includes/options.php:238
+msgid "Enable Slider"
+msgstr ""
+
+#: includes/options.php:239
+msgid "Enable the slider on the homepage."
+msgstr ""
+
+#: includes/options.php:245
+msgid "Slider Entries"
+msgstr ""
+
+#: includes/options.php:246
+msgid "Select the number of entries that should appear in the home page slider."
+msgstr ""
+
+#: includes/options.php:258
+msgid "Effect"
+msgstr ""
+
+#: includes/options.php:259
+msgid "Select the animation effect."
+msgstr ""
+
+#: includes/options.php:264
+msgid "Slide"
+msgstr ""
+
+#: includes/options.php:264
+msgid "Fade"
+msgstr ""
+
+#: includes/options.php:266
+msgid "Reverse Order"
+msgstr ""
+
+#: includes/options.php:267
+msgid "Reverse the animation direction."
+msgstr ""
+
+#: includes/options.php:273
+msgid "Hover Pause"
+msgstr ""
+
+#: includes/options.php:274
+msgid "Hovering over slideshow will pause it."
+msgstr ""
+
+#: includes/options.php:280
+msgid "Randomize"
+msgstr ""
+
+#: includes/options.php:281
+msgid "Select to randomize slides."
+msgstr ""
+
+#: includes/options.php:287
+msgid "Animation loop"
+msgstr ""
+
+#: includes/options.php:288
+msgid "Should the animation loop?"
+msgstr ""
+
+#: includes/options.php:294
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/options.php:295
+msgid "The time in <b>miliseconds</b> the animation between frames will take."
+msgstr ""
+
+#: includes/options.php:301
+msgid "Auto Start"
+msgstr ""
+
+#: includes/options.php:302
+msgid "Set the slider to start sliding automatically."
+msgstr ""
+
+#: includes/options.php:308
+msgid "Auto Slide Interval"
+msgstr ""
+
+#: includes/options.php:309
+msgid "The time in <b>milliseconds</b> each slide pauses for, before sliding to the next."
+msgstr ""
+
+#: includes/options.php:315
+msgid "Enable Slider Pagination Bar"
+msgstr ""
+
+#: includes/options.php:316
+msgid "Check this option to enable the pagination bar."
+msgstr ""
+
+#: includes/options.php:322
+msgid "Previous/Next Navigation"
+msgstr ""
+
+#: includes/options.php:323
+msgid "Check this option to enable navigation for previous/next."
+msgstr ""
+
+#: includes/options.php:329
+msgid "Display Caption"
+msgstr ""
+
+#: includes/options.php:330
+msgid "Check this option to display the caption and content for each slide."
+msgstr ""
+
+#: includes/options.php:338
+msgid "Contact Information"
+msgstr ""
+
+#: includes/options.php:341
+msgid "Contact Form Email Address"
+msgstr ""
+
+#: includes/options.php:342
+msgid "Enter the email address where you'd like to receive emails from the contact form, or leave blank to use admin email."
+msgstr ""
+
+#: includes/options.php:348
+msgid "Contact Address"
+msgstr ""
+
+#: includes/options.php:349
+msgid "The physical address for the contact template."
+msgstr ""
+
+#: includes/options.php:355
+msgid "Google Maps Embed Code"
+msgstr ""
+
+#: includes/options.php:356
+msgid "Insert the Google Map embed code for the contact template."
+msgstr ""
+
+#: includes/options.php:363
+msgid "Business Setup"
+msgstr ""
+
+#: includes/options.php:366
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/options.php:367
+msgid "Specify the currency that your menu prices will be shown in."
+msgstr ""
+
+#: includes/options.php:373
+msgid "Phone Number"
+msgstr ""
+
+#: includes/options.php:380
+msgid "Hours Format"
+msgstr ""
+
+#: includes/options.php:381
+msgid "The format in which the business hours will be displayed. Default is \"h:i A\". To customise this field you must understand php's <a href=\"http://php.net/manual/en/function.date.php\" target=\"_blank\">date() formatting</a>."
+msgstr ""
+
+#: includes/options.php:387
+msgid "Monday Business Hours"
+msgstr ""
+
+#: includes/options.php:388
+msgid "Use <strong>CTRL+Click (Windows)</strong> or <strong>CMD+Click (Mac)</strong> to select the times for which your business is open on a Monday."
+msgstr ""
+
+#: includes/options.php:404
+msgid "Tuesday Business Hours"
+msgstr ""
+
+#: includes/options.php:405
+msgid "Use <strong>CTRL+Click (Windows)</strong> or <strong>CMD+Click (Mac)</strong> to select the times for which your business is open on a Tuesday."
+msgstr ""
+
+#: includes/options.php:421
+msgid "Wednesday Business Hours"
+msgstr ""
+
+#: includes/options.php:422
+msgid "Use <strong>CTRL+Click (Windows)</strong> or <strong>CMD+Click (Mac)</strong> to select the times for which your business is open on a Wednesday."
+msgstr ""
+
+#: includes/options.php:438
+msgid "Thursday Business Hours"
+msgstr ""
+
+#: includes/options.php:439
+msgid "Use <strong>CTRL+Click (Windows)</strong> or <strong>CMD+Click (Mac)</strong> to select the times for which your business is open on a Thursday."
+msgstr ""
+
+#: includes/options.php:455
+msgid "Friday Business Hours"
+msgstr ""
+
+#: includes/options.php:456
+msgid "Use <strong>CTRL+Click (Windows)</strong> or <strong>CMD+Click (Mac)</strong> to select the times for which your business is open on a Friday."
+msgstr ""
+
+#: includes/options.php:472
+msgid "Saturday Business Hours"
+msgstr ""
+
+#: includes/options.php:473
+msgid "Use <strong>CTRL+Click (Windows)</strong> or <strong>CMD+Click (Mac)</strong> to select the times for which your business is open on a Saturday."
+msgstr ""
+
+#: includes/options.php:489
+msgid "Sunday Business Hours"
+msgstr ""
+
+#: includes/options.php:490
+msgid "Use <strong>CTRL+Click (Windows)</strong> or <strong>CMD+Click (Mac)</strong> to select the times for which your business is open on a Sunday."
+msgstr ""
+
+#: includes/options.php:507
+msgid "Social Media"
+msgstr ""
+
+#: includes/options.php:510
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/options.php:517
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/options.php:524
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/options.php:531
+msgid "Dribbble URL"
+msgstr ""
+
+#: includes/options.php:538
+msgid "Vimeo URL"
+msgstr ""
+
+#: includes/options.php:545
+msgid "Forrst URL"
+msgstr ""
+
+#: includes/options.php:552
+msgid "Last.fm URL"
+msgstr ""
+
+#: includes/options.php:559
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/options.php:566
+msgid "Flickr URL"
+msgstr ""
+
+#: includes/options.php:573
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/options.php:580
+msgid "Blogger URL"
+msgstr ""
+
+#: includes/options.php:587
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/custom-post-types/feedback.php:13
+msgid "Add New Feedback Item"
+msgstr ""
+
+#: includes/custom-post-types/feedback.php:14
+msgid "Edit Feedback Item"
+msgstr ""
+
+#: includes/custom-post-types/feedback.php:15
+msgid "New Feedback Item"
+msgstr ""
+
+#: includes/custom-post-types/feedback.php:16
+msgid "View Feedback Item"
+msgstr ""
+
+#: includes/custom-post-types/feedback.php:17
+msgid "Search Feedback Item"
+msgstr ""
+
+#: includes/custom-post-types/feedback.php:18
+msgid "No Feedback Items found"
+msgstr ""
+
+#: includes/custom-post-types/feedback.php:19
+msgid "No Feedback Items found in Trash"
+msgstr ""
+
+#: includes/custom-post-types/infobox.php:14
+msgid "Add New Info Box"
+msgstr ""
+
+#: includes/custom-post-types/infobox.php:15
+msgid "Edit Info Box"
+msgstr ""
+
+#: includes/custom-post-types/infobox.php:16
+msgid "New Info Box"
+msgstr ""
+
+#: includes/custom-post-types/infobox.php:17
+msgid "View Info Box"
+msgstr ""
+
+#: includes/custom-post-types/infobox.php:18
+msgid "Search Info Boxes"
+msgstr ""
+
+#: includes/custom-post-types/infobox.php:19
+msgid "No Info Boxes found"
+msgstr ""
+
+#: includes/custom-post-types/infobox.php:20
+msgid "No Info Boxes found in Trash"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:11
+msgid "Food Menu"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:12
+msgid "Menu Item"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:13
+msgid "Add New"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:14
+msgid "Add New Menu Item"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:15
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:16
+msgid "New Menu Item"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:17
+msgid "View Menu Item"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:18
+msgid "Search Menu Items"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:19
+msgid "No Menu Item found"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:20
+msgid "No Menu Items found in Trash"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:46
+#: includes/custom-post-types/menu.php:48
+msgid "Menu Categories"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:47
+msgid "Menu Category"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:49
+msgid "All Menu Categories"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:50
+msgid "Parent Menu Category"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:51
+msgid "Parent Menu Category:"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:52
+msgid "Edit Menu Category"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:53
+msgid "Update Menu Category"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:54
+msgid "Add New Menu Category"
+msgstr ""
+
+#: includes/custom-post-types/menu.php:55
+msgid "New Menu Category"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:14
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:15
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:16
+msgid "New Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:17
+msgid "View Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:18
+msgid "Search Slides"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:19
+msgid "No slides found"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:20
+msgid "No slides found in Trash"
+msgstr ""
+
+#: includes/widgets/widget-adspace.php:14
+msgid "Adspace (NiceThemes)"
+msgstr ""
+
+#: includes/widgets/widget-adspace.php:95
+msgid "Title (optional):"
+msgstr ""
+
+#: includes/widgets/widget-adspace.php:99
+msgid "Code:"
+msgstr ""
+
+#: includes/widgets/widget-adspace.php:102
+msgid "Else, you can use an image"
+msgstr ""
+
+#: includes/widgets/widget-adspace.php:104
+msgid "Image URL:"
+msgstr ""
+
+#: includes/widgets/widget-adspace.php:108
+msgid "Image Alt text:"
+msgstr ""
+
+#: includes/widgets/widget-adspace.php:112
+msgid "Link URL:"
+msgstr ""
+
+#: includes/widgets/widget-adspace.php:116
+msgid "Link Title text:"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:11
+msgid "Blog Author (NiceThemes)"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:54
+msgid "Follow me on twitter"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:93
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:97
+msgid "Bio:"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:101
+msgid "<a href=\"http://twitter.com/\">Twitter</a> Username:"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:105
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:109
+msgid "Gravatar Size:"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:113
+msgid "Gravatar Alignment:"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:115
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:116
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:120
+msgid "Read More Text (optional):"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:124
+msgid "Read More URL (optional):"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:128
+msgid "Visible Pages:"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:130
+msgid "All"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:131
+msgid "Home only"
+msgstr ""
+
+#: includes/widgets/widget-blog-author.php:132
+msgid "Single only"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:11
+msgid "With this widget you can display your feedback in a customised manner."
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:19
+msgid "Feedback (NiceThemes)"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:150
+msgid "Feedback"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:168
+msgid "Limit:"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:173
+msgid "Effect:"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:175
+msgid "None"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:183
+msgid "Enable Pagination"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:184
+msgid "Disabled if the \"limit\" is 1"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:190
+msgid "Display Author"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:196
+msgid "Display URL"
+msgstr ""
+
+#: includes/widgets/widget-feedback.php:199
+#: includes/widgets/widget-tabs.php:190
+msgid "Thumbnail Size, in pixels (0 to disable):"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:9
+msgid "Flickr (NiceThemes)"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:23
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:46
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:50
+msgid "Number:"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:58
+msgid "Type:"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:60
+msgid "User"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:61
+msgid "Group"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:65
+msgid "Sorting:"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:67
+msgid "Latest"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:68
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:72
+msgid "Size:"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:74
+msgid "Square"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:75
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:76
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/widgets/widget-opening-hours.php:14
+msgid "Opening Hours (NiceThemes)"
+msgstr ""
+
+#: includes/widgets/widget-social.php:10
+msgid "Social Widget (NiceThemes)"
+msgstr ""
+
+#: includes/widgets/widget-tabs.php:19
+msgid "Tabs (NiceThemes)"
+msgstr ""
+
+#: includes/widgets/widget-tabs.php:21
+msgid "Tabs Widget. It contains the Popular posts, Recent Posts, Recent comments and a Tag cloud."
+msgstr ""
+
+#: includes/widgets/widget-tabs.php:60
+#: includes/widgets/widget-tabs.php:72
+#: includes/widgets/widget-tabs.php:199
+#: includes/widgets/widget-tabs.php:210
+msgid "Recent"
+msgstr ""
+
+#: includes/widgets/widget-tabs.php:64
+#: includes/widgets/widget-tabs.php:80
+#: includes/widgets/widget-tabs.php:200
+#: includes/widgets/widget-tabs.php:218
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/widget-tabs.php:68
+#: includes/widgets/widget-tabs.php:197
+#: includes/widgets/widget-tabs.php:207
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/widget-tabs.php:185
+msgid "Number of items to list:"
+msgstr ""
+
+#: includes/widgets/widget-tabs.php:195
+msgid "First Visible Tab:"
+msgstr ""
+
+#: includes/widgets/widget-tabs.php:203
+msgid "Hide Tabs:"
+msgstr ""
+
+#: includes/widgets/widget-tabs.php:222
+msgid "Popular limit (days):"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:9
+msgid "Twitter (NiceThemes)"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:9
+msgid "Add your Twitter feed with this widget."
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:27
+msgid "Follow"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:27
+msgid "on Twitter"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:47
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:47
+msgid "optional"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:51
+msgid "Username"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:51
+msgid "without @"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:55
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:57
+msgid "by default, 1"
+msgstr ""
+
