@@ -1,0 +1,34 @@
+=== BBQ Changelog ===
+
+= 1.0.7 (2013.02.22) =
+ * Updated the list view for taxonomy-menu-category.php, if the category has subcategories it'll display them on the floated sidebar.
+ * Updated styles for the new taxonomy-menu-cateogory.php list view feature.
+ * Updated js (/includes/js/custom.js) for the new taxonomy-menu-cateogory.php list view feature.
+ * Removed the "Comments are closed" message from comments.php
+
+= 1.0.6 (2013.02.13) =
+ * Added custom typography options.
+ * Fixed the vertical alignment for the navigation menu, when selected font is big.
+ * Solved slider issue for caption when there's only one slide.
+ * Updated flexlider script.
+ * Fixed bug on Nice Ads widget.
+ * Added options for time format, and hide comments on pages.
+
+= 1.0.5 (2013.01.24) =
+ * Fixed priority bug for custom styling. ( includes/theming.php )
+
+= 1.0.4 (2013.01.23) =
+ * Updated js scripts ( scrollTo, localScroll ) that were causing trouble with jquery v1.8 in WP3.5
+
+= 1.0.3 (2013.01.22) =
+ * Bug fix for accent color (comment form button, thanks message for contact form).
+
+= 1.0.2 (2013.01.06) =
+ * Updated the menu templates.
+
+= 1.0.1 (2013.01.03) =
+ * Updated comments.php - It's now using comment_form() function as WordPress requires.
+ * Updated style.css
+
+= 1.0.0 (2012.12.10) =
+ * First Logged release
