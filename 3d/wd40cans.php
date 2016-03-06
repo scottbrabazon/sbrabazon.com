@@ -32,7 +32,7 @@
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'"/></a></li>
+					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
 					<li><a href="../print">Print</a></li>
 					<li>|</li>		
@@ -61,7 +61,7 @@
 		</div>
 
 		<div class="flourish-tablet-a">
-			<img src="../images/flourish.svg">
+			<img src="../images/flourish.svg" alt="Flourish">
 		</div>
 
 		<div class="blog-homepage">
@@ -78,10 +78,10 @@
 		<footer>
 			<ul>
 				<li>	
-			<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank"><img src="../images/linkedin.png"></a>
+					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank"><img src="../images/linkedin.png" alt="LinkedIn"></a>
 				</li>
 				<li>	
-			<p>&copy; 2016 Scott Brabazon</p>
+					<p>&copy; 2016 Scott Brabazon</p>
 				</li>
 			</ul>
 		</footer>

@@ -31,7 +31,7 @@
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'"/></a></li>
+					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
 					<li><a href="../print">Print</a></li>
 					<li>|</li>		
@@ -63,14 +63,14 @@
 					<p><a href="wd40cans.php"><img src="../images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
 					<a href="wd40cans.php">WD40 Cans</a></p>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg">
+					<img src="../images/flourish.svg" alt="Flourish">
 				</div>
 				</li>	
 			</ul>				
 		</div>
 
 		<div class="flourish-tablet-a">
-			<img src="../images/flourish.svg">
+			<img src="../images/flourish.svg" alt="Flourish">
 		</div>
 
 		<div class="blog-homepage">

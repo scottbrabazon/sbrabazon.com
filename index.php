@@ -30,7 +30,7 @@
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="index.php"><img src="images/home-icon-gold.svg" onmouseover="this.src='images/home-icon-gold.svg'" onmouseout="this.src='images/home-icon-black.svg'"/></a></li>
+					<li><a href="index.php"><img src="images/home-icon-gold.svg" onmouseover="this.src='images/home-icon-gold.svg'" onmouseout="this.src='images/home-icon-black.svg'"/ alt="Home"></a></li>
 					<li>|</li>						
 					<li><a href="print">Print</a></li>
 					<li>|</li>		
@@ -55,63 +55,63 @@
 					<p><a href="print/fifa-world-cup-2010.php"><img src="images/world-cup-thumbnail.png" alt="FIFA World Cup 2010"><br></a>
 					<a href="print/fifa-world-cup-2010.php">FIFA World Cup 2010</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg">
+						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>	
 				<li>
 					<p><a href="3d/wd40cans.php"><img src="images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
 					<a href="3d/wd40cans.php">WD40 Cans</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg">
+						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
 					<p><a href="print/mancitystore.php"><img src="images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
 					<a href="print/mancitystore.php">City Store Shop</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg">
+						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>	
 				<li>
 					<p><a href="3d/guitar.php"><img src="images/guitar_thumbnail.png" alt="Epiphone 335 Dot"><br></a>
 					<a href="3d/guitar.php">Epiphone 335 Dot</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg">
+						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>	
 				<li>
 					<p><a href="print/united-direct.php"><img src="images/mufc2011_thumbnail.png" alt="United Direct"><br></a>
 					<a href="print/united-direct.php">United Direct</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg">
+						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
 					<p><a href="print/argos.php"><img src="images/argos_ss2012_thumbnail.png" alt="Argos Catalogue"><br></a>
 					<a href="print/argos.php">Argos Catalogue</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg">
+						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
 					<p><a href="print/sw6.php"><img src="images/chelsea_thumbnail.png" alt="SW6"><br></a>
 					<a href="print/sw6.php">SW6</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg">
+						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>	
 				<li>
 					<p><a href="print/man-city-store-catalogue.php"><img src="images/mcfc_thumbnail.png" alt="City Store Catalogue"><br></a>
 					<a href="print/man-city-store-catalogue.php">City Store Catalogue</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg">
+						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>	
 			</ul>
 		</div>	
 
 		<div class="flourish-tablet-a">
-			<img src="images/flourish.svg">
+			<img src="images/flourish.svg" alt="Flourish">
 		</div>
 
 		<div class="blog-homepage">
