@@ -12,3 +12,18 @@
  Text Domain:  XXXXXXXXXXX
 */
 
+body {
+	background: #000000;
+}
+
+#logo img {
+	width: 275px;
+}
+
+.menu-image-title {
+	display: none;
+}
+
+#navigation .nav li a {
+	padding: 35px 0 0 0;
+}
