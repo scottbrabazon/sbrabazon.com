@@ -215,6 +215,28 @@ footer {
     }
 }
 
+/* Emails Page */
+
+.emails-page {
+    
+    width: 86%;
+    padding: 0 7%;
+    display: inline-block;
+    vertical-align: top;
+
+    li {
+    list-style: none;
+    display: inline-block;
+    width: 100%;
+    }
+
+    h2 {
+    margin-bottom: 10px; 
+    }
+
+    img {max-width: none;}
+}
+
 /* Archive */
 
 .archive-panel {

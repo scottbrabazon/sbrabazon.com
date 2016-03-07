@@ -47,15 +47,15 @@
 		</div>	
 
 		<header>
-			<h1>HTML Email Csmpaigns</h1>
+			<h1>HTML Email Campaigns</h1>
 		</header>
 			
-		<div class="primary-content">
+		<div class="emails-page">
 				<ul>
-					<li><img src="../images/aflemail.jpg" alt="Aylesworth Fleming Email"></img></li>
 					<li><img src="../images/bikeandgo.jpg" alt="Bike &amp; Go Email"></img></li>
 					<li><img src="../images/joneshomesemail.jpg" alt="Jones Homes Email"></img></li>
 					<li><img src="../images/warren-email-newsletter.jpg" alt="Warren Partners Newsletter Email"></img></li>
+					<li><img src="../images/aflemail.jpg" alt="Aylesworth Fleming Email"></img></li>
 					<li><img src="../images/wd40-email.jpg" alt="WD40 Email"></img></li>
 					<li><img src="../images/warren-email-xmas.jpg" alt="Warren Partners Christmas Email"></img>
 					<div class="flourish-mobile">

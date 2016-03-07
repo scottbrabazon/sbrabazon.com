@@ -1,0 +1,59 @@
+/*
+ Theme Name:   Jesters
+ Theme URI:    ????????????/
+ Description:  Child Theme
+ Author:       Scott Brabazon
+ Author URI:   http://www.scottbrabazon.com
+ Template:     bbq
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  XXXXXXXXXXX
+*/
+
+body { 
+  	background: black;
+}  		
+
+h1, h2, h3, p, a {
+	color: white;
+}
+
+#navigation .nav li a {
+	color: white;
+}
+
+.entry-title {
+	color: white;
+}
+
+.menu-box li .title span {
+	background: black;
+	color: white;
+}
+
+.menu-box li .title a {
+	color: white;
+}
+
+.menu-box li .description {
+	color: white;
+}
+
+.nice-contact-sidebar .box {
+	color: white;
+}
+
+.day .name {
+	color: white;
+}
+
+.nice-contact-form label {
+	color: white;
+}
+
+#footer {
+	background: #c78d54;
+	color: white;
+}

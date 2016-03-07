@@ -262,6 +262,18 @@ body, h1, h2, h3, a, p {
 		display: inline-block;
 	}
 
+/* Email Page */
+
+	.emails-page {
+		width: 86%;
+		float: left;
+		margin: 25px 7% 0 7%;
+		padding: 0;
+		h2 {
+		margin-top: 0;
+		}
+	}
+
 /* General */
 
 	.big-grid {
