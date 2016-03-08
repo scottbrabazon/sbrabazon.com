@@ -1,8 +1,9 @@
 @import url("old-style.css");
 @import url(https://fonts.googleapis.com/css?family=Holtwood+One+SC);
 
-body {
-	background: #333333;
+@font-face {
+    font-family: comiczine;
+    src: url(fonts/comic_zine_ot.otf);
 }
 
 .menu-image-title {display: none;}
@@ -11,15 +12,27 @@ body {
 	padding: 0;
 }
 
-.entry-title span {
-	font-family: font-family: 'Holtwood One SC', serif;
-	color: white;
+body {
+	font-family: "comiczine", sans-serif;
+	color: #FFFFFF;
+	background: #000000;
 }
 
-body {
-	font: 13px/20px "Holtwood One SC", serif;
-	background: #000000;
+h1, h2, h3, h4, h5, h6 {
 	color: #FFFFFF;
 }
 
 .infobox .entry-excerpt {color: #FFFFFF;}
+
+.menu-box li .title span {background: #000000;}
+
+.menu-box li .title a {
+	color: #FFFFFF;
+	font-size: 2em;
+}
+
+.nice-contact-sidebar {color: #FFFFFF;}
+
+.day .name {color: #FFFFFF;}
+
+.nice-contact-form label {color: #FFFFFF;}
