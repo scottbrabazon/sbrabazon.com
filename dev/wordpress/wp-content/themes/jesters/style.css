@@ -13,9 +13,13 @@
 }
 
 body {
-	font-family: "comiczine", sans-serif;
+	font-family: "Holtwood One SC", serif;
 	color: #FFFFFF;
-	background: #000000;
+	background: url(images/chalkboard-bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,11 +28,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .infobox .entry-excerpt {color: #FFFFFF;}
 
-.menu-box li .title span {background: #000000;}
+.menu-box li .title span {background: none;}
 
 .menu-box li .title a {
 	color: #FFFFFF;
-	font-size: 2em;
 }
 
 .nice-contact-sidebar {color: #FFFFFF;}
@@ -36,3 +39,7 @@ h1, h2, h3, h4, h5, h6 {
 .day .name {color: #FFFFFF;}
 
 .nice-contact-form label {color: #FFFFFF;}
+
+.menu-box li .title {
+	background: none;
+}
