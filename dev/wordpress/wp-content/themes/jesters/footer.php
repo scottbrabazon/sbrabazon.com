@@ -63,8 +63,7 @@ if ( ! empty( $_SERVER['SCRIPT_FILENAME'] ) && basename( __FILE__ ) == basename(
 
         <div id="extended-footer">
         	<div class="inner">
-                <p><a href="http://www.vectors4all.net/free-vectors-download/skull+vector" target="_blank" title="Skull Vector">Skull Vector</a>
-                <?php printf( __( 'Powered by %s', 'nicethemes' ), '<a href="http://www.mafiashare.net">WordPress</a>' ); ?>.
+                <p>Site designed by <a href="http://www.scottbrabazon.com" target="_blank">Scott Brabazon</a>
                 </p>
         	</div>
         </div>
