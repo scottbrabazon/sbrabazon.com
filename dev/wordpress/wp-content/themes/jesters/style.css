@@ -4,7 +4,7 @@
 .menu-image-title {display: none;}
 
 #navigation {
-	padding-top: 60px;
+	padding-top: 46px;
 }
 
 #navigation .nav li a {
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .infobox .entry-excerpt {color: #FFFFFF;}
 
-.menu-box li .title span {background: none;}
+.menu-box li .title span {background: #000000;}
 
 .menu-box li .title a {
 	color: #b6883e;
@@ -38,10 +38,6 @@ h1, h2, h3, h4, h5, h6 {
 .day .name {color: #FFFFFF;}
 
 .nice-contact-form label {color: #FFFFFF;}
-
-.menu-box li .title {
-	background: none;
-}
 
 #footer {
 	background: #b6883e;
@@ -125,3 +121,11 @@ input[type=submit], button, #commentform .button, #respond input[type="submit"],
 .entry-title span {
 	display: none;
 }
+
+.entry-title img {
+	width: 100%;
+}
+
+
+
+
