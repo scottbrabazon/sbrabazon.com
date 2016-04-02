@@ -15,6 +15,10 @@ add_filter( 'nice_load_contact_js', '__return_true', 10 );
 
 <?php get_header(); ?>
 
+<header>
+	<h3><?php the_title(); ?></h3>
+</header>
+
 <!-- BEGIN #content -->
 <section id="content" class="full-width <?php echo $post->post_name; ?>">
 
@@ -73,10 +77,7 @@ add_filter( 'nice_load_contact_js', '__return_true', 10 );
 
         	<div class="nice-contact-form">
 
-            	<header>
-            		<h3><?php the_title(); ?></h3>
-            	</header>
-
+    
 
             		<div class="entry">
 						<?php the_content( __( 'Continue reading', 'nicethemes' ) . ' &raquo;' ); ?>

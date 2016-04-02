@@ -3,6 +3,7 @@
 *	Infobox
 */
 
+
 add_action( 'init', 'add_nice_infoboxes' );
 
 function add_nice_infoboxes()

@@ -14,6 +14,7 @@
 body {
 	font-family: "Holtwood One SC", serif;
 	color: #FFFFFF;
+	/*background-image: url("images/dark-textured-background9.jpg");*/
 	background: #000000;
 }
 
@@ -35,24 +36,24 @@ h1, h2, h3, h4, h5, h6 {
 
 .nice-contact-sidebar {color: #FFFFFF;}
 
-.day .name {color: #FFFFFF;}
+.day .name {color: #b6883e;}
 
 .nice-contact-form label {color: #FFFFFF;}
 
 #footer {
-	background: #b6883e;
+	background: transparent;
 }
 
 #footer-widgets .widget_nice_opening_hours .day .name {
-	color: #000000;
+	color: #b6883e;
 }
 
 #footer-widgets .widget {
-	color: #000000;
+	color: #FFFFFF;
 }
 
 #footer-widgets .widget_nice_opening_hours .day {
-	border-bottom-color: #FFFFFF;
+	border-bottom-color: #b6883e;
 }
 
 .textwidget p {
@@ -65,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer {
 	font-family: 'Gudea';
-	color: #000000;
+	color: #FFFFFF;
 	border: none;
 	text-shadow: none;
 	padding-top: 0;
@@ -78,6 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .textwidget span {
 	font-family: "Holtwood One SC", serif;
+	color: #b6883e;
 }
 
 #extended-footer {
@@ -107,11 +109,6 @@ input[type=submit], button, #commentform .button, #respond input[type="submit"],
 	border-color: #FFFFFF;
 }
 
-.infobox li.last, .pre-footer-widgets div.last {
-	border-style: solid;
-	border-color: #FFFFFF;
-}
-
 .entry-title {
 	font-size: 1em;
 	color: #FFFFFF;
@@ -126,6 +123,18 @@ input[type=submit], button, #commentform .button, #respond input[type="submit"],
 	width: 100%;
 }
 
+header span {
+	display: none;
+}
+
+header {
+	margin-bottom: 20px;
+}
 
 
+.entry-title {
+	background-image: url("images/divider-device-down.svg");
+	background-repeat: no-repeat;
+	background-size: contain;
+}
 
