@@ -101,7 +101,8 @@ h1, h2, h3, h4, h5, h6 {
 
 input[type=submit], button, #commentform .button, #respond input[type="submit"], .nice-contact-form input[type="submit"] {
 	background: #b6883e;
-	color: #000000;
+	color: #FFFFFF;
+	font-family: "Holtwood One SC", serif;
 }
 
 .infobox li {
@@ -131,10 +132,81 @@ header {
 	margin-bottom: 20px;
 }
 
-
-.entry-title {
-	background-image: url("images/divider-device-down.svg");
+.menu {
+	background-image: url("images/menu-header.svg");
+	padding-top: 90px;
 	background-repeat: no-repeat;
-	background-size: contain;
 }
 
+.testimonials-header-image {
+	background-image: url("images/testimonials-header.svg");
+	padding-bottom: 120px;
+	background-repeat: no-repeat;
+}
+
+.menu-box {
+	background-image: url("images/divider-device-down.svg");
+	padding-bottom: 70px;
+	margin-bottom: 45px;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	border: none;
+	display: block;
+}
+
+.contact-us {
+	background-image: url("images/contact-us-header.svg");
+	padding-top: 120px;
+	background-repeat: no-repeat;
+}
+
+
+.infobox .entry-title {
+	background-image: url("images/divider-device-up.svg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	border-top-color: transparent;
+}
+
+.infobox .entry-excerpt {
+	text-align: center;
+	background-image: url("images/divider-device-down.svg");
+	padding-bottom: 35px;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+
+.entry-title {
+	text-align: center;
+	display: none;
+}
+
+#wrapper, .infobox .entry-title {
+	border-top: 0;
+}
+
+.infobox .entry-title {
+	padding-top: 50px;
+}
+
+.infobox li {
+	border-style: none;
+}
+
+.infobox li.last, .pre-footer-widgets div.last {
+	border-style: none;
+}
+
+.entry .testimonial blockquote {
+	font-family: "Holtwood One SC", serif;
+	color: #FFFFFF;
+	width: 60%;
+}
+
+ul.three-col-grid {
+	padding-bottom: 0;
+}
+
+ul.three-col-grid li {
+	margin-bottom: 0;
+}

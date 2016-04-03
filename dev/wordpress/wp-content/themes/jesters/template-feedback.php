@@ -18,9 +18,7 @@ Template Name: Testimonials (Feedback)
 
 		<?php while (have_posts()) : the_post(); ?>
 
-            	<header>
-	            	<h1 class="entry-title"><?php the_title(); ?></h1>
-	            </header>
+            	
 
                 <div class="entry">
                 	<?php
@@ -96,4 +94,4 @@ Template Name: Testimonials (Feedback)
 <!-- END #content -->
 </section>
 
-<?php get_footer(); ?>p get_footer(); ?>
+<?php get_footer(); ?>

@@ -15,10 +15,6 @@ add_filter( 'nice_load_contact_js', '__return_true', 10 );
 
 <?php get_header(); ?>
 
-<header>
-	<h3><?php the_title(); ?></h3>
-</header>
-
 <!-- BEGIN #content -->
 <section id="content" class="full-width <?php echo $post->post_name; ?>">
 
@@ -123,5 +119,3 @@ add_filter( 'nice_load_contact_js', '__return_true', 10 );
 
 		<!-- END #content -->
 		</section>
-
-<?php get_footer(); ?>er(); ?>
