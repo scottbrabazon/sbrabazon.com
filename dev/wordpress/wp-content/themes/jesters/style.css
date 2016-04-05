@@ -83,8 +83,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #extended-footer {
-	background: #b6883e;
-	color: #000000;
+	background: transparent;
+	color: #FFFFFF;
+	a {color: #b6883e;}
 }
 
 .nice-contact-sidebar {
@@ -144,8 +145,14 @@ header {
 	background-repeat: no-repeat;
 }
 
+.gallery-header-image {
+	background-image: url("images/gallery-header.svg");
+	padding-bottom: 120px;
+	background-repeat: no-repeat;
+}
+
 .menu-box {
-	background-image: url("images/divider-device-down.svg");
+	background-image: url("images/divider-device.svg");
 	padding-bottom: 70px;
 	margin-bottom: 45px;
 	background-repeat: no-repeat;
@@ -171,7 +178,7 @@ header {
 .infobox .entry-excerpt {
 	text-align: center;
 	background-image: url("images/divider-device-down.svg");
-	padding-bottom: 35px;
+	padding-bottom: 30px;
 	background-repeat: no-repeat;
 	background-position: center bottom;
 }
@@ -189,12 +196,16 @@ header {
 	padding-top: 50px;
 }
 
-.infobox li {
+/*.infobox li {
 	border-style: none;
 }
 
 .infobox li.last, .pre-footer-widgets div.last {
-	border-style: none;
+	border-style-left: none;
+}*/
+
+.infobox li.last, .pre-footer-widgets div.last {
+	border-right: 1px solid #FFFFFF;
 }
 
 .entry .testimonial blockquote {
@@ -209,4 +220,9 @@ ul.three-col-grid {
 
 ul.three-col-grid li {
 	margin-bottom: 0;
+}
+
+.footer-logo img {
+	width: 15%;
+	margin-top: 25px;
 }
