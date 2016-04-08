@@ -86,3 +86,14 @@ Template Name: Gallery
 </section>
 
 <?php get_footer(); ?>
+
+<div id="extended-footer">
+    <div class="inner">
+        <div class="footer-logo">
+            <img src="../../wp-content/themes/jesters/images/logo.svg">
+            <p>25 Church Street, Barnoldswick, BB18 5UR, Phone: 01282 816309</p>
+        </div> 
+        <p>Site designed by <a href="http://www.scottbrabazon.com" target="_blank">Scott Brabazon</a>
+        </p>
+    </div>
+</div>

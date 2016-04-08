@@ -1,4 +1,4 @@
-@import url("old-style.css");
+ @import url("old-style.css");
 @import url(https://fonts.googleapis.com/css?family=Holtwood+One+SC);
 
 .menu-image-title {display: none;}
@@ -225,4 +225,13 @@ ul.three-col-grid li {
 .footer-logo img {
 	width: 15%;
 	margin-top: 25px;
+}
+
+#extended-footer p {
+	font-family: 'Gudea';
+	color: #FFFFFF;
+	border: none;
+	text-shadow: none;
+	padding-top: 0;
+	font-size: 1em;
 }
