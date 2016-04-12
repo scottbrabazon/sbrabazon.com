@@ -66,6 +66,13 @@
 					</div>
 				</li>
 				<li>
+					<p><a href="http://scottbrabazon.com/dev/wordpress/" target="blank"><img src="../images/jesters-thumbnail.png" alt="Jesters Website"><br></a>
+					<a href="http://scottbrabazon.com/dev/wordpress/" target="blank">Jesters Website</a></p>
+					<div class="flourish-mobile">
+						<img src="../images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li>
 					<p><a href="print/mancitystore.php"><img src="images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
 					<a href="print/mancitystore.php">City Store Shop</a></p>
 					<div class="flourish-mobile">
@@ -84,6 +91,13 @@
 					<a href="print/united-direct.php">United Direct</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li>
+					<p><a href="http://www.brandinaction.com/" target="blank"><img src="images/bia-thumbnail.png" alt="Brand In Action Website"><br></a>
+					<a href="http://www.brandinaction.com/" target="blank">Brand In Action Website</a></p>
+					<div class="flourish-mobile">
+						<img src="../images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
