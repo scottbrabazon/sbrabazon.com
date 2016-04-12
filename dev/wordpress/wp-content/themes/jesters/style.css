@@ -1,4 +1,4 @@
- @import url("old-style.css");
+@import url("old-style.css");
 @import url(https://fonts.googleapis.com/css?family=Holtwood+One+SC);
 
 .menu-image-title {display: none;}
@@ -234,4 +234,45 @@ ul.three-col-grid li {
 	text-shadow: none;
 	padding-top: 0;
 	font-size: 1em;
+}
+
+/* ==========================================================================
+	   IPad
+========================================================================== */
+
+@media screen and (max-width: 1024px) {
+
+	.contact-us, .menu, .testimonials-header-image, .gallery-header-image {
+		padding-top: 0;
+		padding-bottom: 0;
+		background-image: none;
+	}
+
+	#logo img {
+		width: 80%;
+	}
+
+	.infobox li.last, .pre-footer-widgets div.last {
+	border-right: none;
+}
+}
+
+body.page-template-template-home-php #container { 
+	border-top: 4px double #eee; padding-top: 10px; 
+	}
+
+/* ==========================================================================
+	   Mobile
+========================================================================== */
+
+@media screen and (max-width: 860px) {
+
+  #extended-footer {
+  	width: 730px;
+  	margin: 0 auto;
+	}
+
+  #logo img {
+	padding-top: 30px;
+	}
 }
