@@ -51,9 +51,25 @@
 		<div class="contact">
 
 				<div class="about">
-					<p>Nullatem arum repudit et rest, none consect uritam volorer nament.
-Tur, venist ium nimpore henecatquati bearibus exped maio erferferia quos dus, ipic tesseritatur soles alitas maio. Odiciat eatiasimpora sed qui rerio in porionsere nis simagnate aut et eatis et desti as poreris si volore perunt. Uci blatenit verumquossit laborepedita venisciis mintur, secatur? Parum inim nobiscieniet pro ipid ut rest ex exere ped magnimostrum quia suntures nonserios molupti ostibusanda que erciisci blabo. Ab inullabo. Nam doluptatum rem demqui ut omnimi, idebitatem dolupta voloreperio. Itatat utas esedi beribusto berspid elendi officaborit, occus as nimi, ommoluptae. Ovit etur alitatem faccupienis magniet ipit et et velitatendit etus. Ficipis ma voloria quam, te magnim est, simus.
-Uciumquis etur, sam facipsunt.</p>
+
+					<h3>Project Expertise</h3>
+						<ul>
+							<li><p>Press Advertising</p></li>
+							<li><p>Direct Mail</p></li>
+							<li><p>Point of Sale</p></li>
+							<li><p>Catalogue Production</p></li>
+							<li><p>Responsive Websites</p></li>
+							<li><p>Content Managed Websites</p></li>
+							<li><p>HTML Email Campaigns</p></li>
+						</ul>	
+					<h3>Technical Expertise</h3>
+						<ul>
+							<li><p>Fast and accurate artwork</p></li>
+							<li><p>Retouching</p></li>
+							<li><p>HTML, CSS, SASS</p></li>
+							<li><p>3D Modelling</p></li>
+							<li><p>Wordpress</p></li>
+						</ul>
 					<h2>+44 (0)796 365 7287</h2>
 					<div class="email">
 						<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
