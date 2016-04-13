@@ -236,6 +236,10 @@ ul.three-col-grid li {
 	font-size: 1em;
 }
 
+body.sidebar-right .single-menu-meta {
+	display: none;
+}
+
 /* ==========================================================================
 	   IPad
 ========================================================================== */
@@ -257,9 +261,9 @@ ul.three-col-grid li {
 }
 }
 
-body.page-template-template-home-php #container { 
-	border-top: 4px double #eee; padding-top: 10px; 
-	}
+	.page-template-template-home-php #container { 
+		border-top: 4px double #eee; padding-top: 10px; 
+		}
 
 /* ==========================================================================
 	   Mobile
@@ -267,12 +271,12 @@ body.page-template-template-home-php #container {
 
 @media screen and (max-width: 860px) {
 
-  #extended-footer {
-  	width: 730px;
-  	margin: 0 auto;
-	}
+	#extended-footer {
+	  	width: 730px;
+	  	margin: 0 auto;
+		}
 
-  #logo img {
-	padding-top: 30px;
+	#logo img {
+		padding-top: 30px;
+		}
 	}
-}

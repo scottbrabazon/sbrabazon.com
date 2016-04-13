@@ -18,11 +18,11 @@
 		<div class="mobile-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php">Home</a></li>						
-					<li><a href="../print">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
+					<li><a href="../index.php">Home</a></li>
+					<li><a href="../print">Print</a></li>
+					<li><a href="../digital" class="selected">Digital</a></li>
 					<li><a href="../3d">3D</a></li>
-					<li><a href="../blog" class="selected">Blog</a></li>
+					<li><a href="../blog">Blog</a></li>
 					<li><a href="../contact.php">Contact</a></li>	
 				</ul>
 			</nav>
