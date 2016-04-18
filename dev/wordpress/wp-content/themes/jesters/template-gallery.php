@@ -18,10 +18,6 @@ Template Name: Gallery
 
 		<?php while (have_posts()) : the_post(); ?>
 
-            	<header>
-	            	<h1 class="entry-title"><?php the_title(); ?></h1>
-	            </header>
-
                 <div class="entry clearfix">
                 	<?php the_content( __( 'Continue reading', 'nicethemes' ) . ' &raquo;' ); ?>
                	</div>

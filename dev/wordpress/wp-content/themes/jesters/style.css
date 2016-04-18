@@ -248,6 +248,10 @@ body.sidebar-right .single-menu-meta {
 	display: none;
 }
 
+body.page-template-template-home-php #container { 
+	border-top: 4px double #b6883e; padding-top: 10px; 
+}
+
 /* ==========================================================================
 	   IPad
 ========================================================================== */
@@ -265,11 +269,7 @@ body.sidebar-right .single-menu-meta {
 	}
 
 	.infobox li.last, .pre-footer-widgets div.last {
-	border-right: none;
-	}
-
-	body.page-template-template-home-php #container { 
-		border-top: 4px double #eee; padding-top: 10px; 
+		border-right: none;
 	}
 
 	.infobox .entry-title {
@@ -319,7 +319,6 @@ body.sidebar-right .single-menu-meta {
 	.infobox .entry-excerpt {
 		padding-bottom: 20px;
 	}
-
 }
 
 @media screen and (max-width: 517px) {	
