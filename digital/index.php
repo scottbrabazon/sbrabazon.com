@@ -52,7 +52,27 @@
 
 		<div class="home-gallery">
 			<ul>
-				<li><p>&nbsp;</p></li>
+				<li>
+					<p><a href="http://www.brandinaction.com/" target="blank"><img src="../images/bia-thumbnail.png" alt="Brand In Action Website"><br></a>
+					<a href="http://www.brandinaction.com/" target="blank">Brand In Action Website</a></p>
+					<div class="flourish-mobile">
+						<img src="../images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li>
+					<p><a href="http://scottbrabazon.com/dev/wordpress/" target="blank"><img src="../images/jesters-thumbnail.png" alt="Jesters Website"><br></a>
+					<a href="http://scottbrabazon.com/dev/wordpress/" target="blank">Jesters Website</a></p>
+					<div class="flourish-mobile">
+						<img src="../images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li>
+					<p><a href="http://www.spacezero.co.uk/" target="blank"><img src="../images/space-zero-thumbnail.png" alt="Space Zero Website"><br></a>
+					<a href="http://www.spacezero.co.uk/" target="blank">Space Zero Website</a></p>
+					<div class="flourish-mobile">
+						<img src="../images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
 			</ul>				
 		</div>
 
