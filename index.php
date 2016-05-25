@@ -57,7 +57,14 @@
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
-				</li>	
+				</li>
+				<li>
+					<p><a href="http://www.spacezero.co.uk/" target="blank"><img src="images/space-zero-thumbnail.png" alt="Space Zero Website"><br></a>
+					<a href="http://www.spacezero.co.uk/" target="blank">Space Zero Website</a></p>
+					<div class="flourish-mobile">
+						<img src="../images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
 				<li>
 					<p><a href="3d/wd40cans.php"><img src="images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
 					<a href="3d/wd40cans.php">WD40 Cans</a></p>

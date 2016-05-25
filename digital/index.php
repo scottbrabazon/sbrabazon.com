@@ -18,11 +18,11 @@
 		<div class="mobile-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php">Home</a></li>
-					<li><a href="../print">Print</a></li>
-					<li><a href="../digital" class="selected">Digital</a></li>
+					<li><a href="../index.php">Home</a></li>						
+					<li><a href="../print">Print</a></li>	
+					<li><a href="../digital">Digital</a></li>		
 					<li><a href="../3d">3D</a></li>
-					<li><a href="../blog">Blog</a></li>
+					<li><a href="../blog" class="selected">Blog</a></li>
 					<li><a href="../contact.php">Contact</a></li>	
 				</ul>
 			</nav>
@@ -62,6 +62,13 @@
 				<li>
 					<p><a href="http://scottbrabazon.com/dev/wordpress/" target="blank"><img src="../images/jesters-thumbnail.png" alt="Jesters Website"><br></a>
 					<a href="http://scottbrabazon.com/dev/wordpress/" target="blank">Jesters Website</a></p>
+					<div class="flourish-mobile">
+						<img src="../images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li>
+					<p><a href="http://www.spacezero.co.uk/" target="blank"><img src="../images/space-zero-thumbnail.png" alt="Space Zero Website"><br></a>
+					<a href="http://www.spacezero.co.uk/" target="blank">Space Zero Website</a></p>
 					<div class="flourish-mobile">
 						<img src="../images/flourish.svg" alt="Flourish">
 					</div>
