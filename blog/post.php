@@ -57,6 +57,9 @@
                 <?php perch_blog_post_tags(perch_get('s')); ?>
             </div>
         </div>
+
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<div class="addthis_sharing_toolbox"></div>
     	
     	<?php perch_blog_post_comments(perch_get('s')); ?>
     	
@@ -86,5 +89,9 @@
 			</ul>
 		</footer>
 	</div>	
+
+	<!-- Go to www.addthis.com/dashboard to customize your tools -->
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5746d2d95835b876"></script>
+
 </body>
 </html>

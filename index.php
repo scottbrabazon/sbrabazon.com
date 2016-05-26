@@ -122,8 +122,8 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="hublot-animation.php"><img src="images/hublot-thumbnail.png" alt="Hublot Animation"><br></a>
-					<a href="hublot-animation.php">Hublot Animation</a></p>
+					<p><a href="3d/hublot-animation.php"><img src="images/hublot-thumbnail.png" alt="Hublot Animation"><br></a>
+					<a href="3d/hublot-animation.php">Hublot Animation</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
