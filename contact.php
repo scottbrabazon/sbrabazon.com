@@ -52,24 +52,18 @@
 
 				<div class="about">
 
-					<h3>Project Expertise</h3>
-						<ul>
-							<li><p>Press Advertising</p></li>
-							<li><p>Direct Mail</p></li>
-							<li><p>Point of Sale</p></li>
-							<li><p>Catalogue Production</p></li>
-							<li><p>Responsive Websites</p></li>
-							<li><p>Content Managed Websites</p></li>
-							<li><p>HTML Email Campaigns</p></li>
-						</ul>	
 					<h3>Technical Expertise</h3>
 						<ul>
-							<li><p>Fast and accurate artwork</p></li>
-							<li><p>Retouching</p></li>
-							<li><p>HTML, CSS, SASS</p></li>
-							<li><p>3D Modelling</p></li>
+							<li><p>HTML</p></li>
+							<li><p>CSS</p></li>
+							<li><p>SASS</p></li>
+							<li><p>Javascript</p></li>
+							<li><p>GIT</p></li>
 							<li><p>Wordpress</p></li>
-						</ul>
+							<li><p>3D (Cinema 4D)</p></li>
+							<li><p>Adobe Illustrator</p></li>
+							<li><p>Adobe Photoshop</p></li>
+						</ul>	
 					<h2>+44 (0)796 365 7287</h2>
 					<div class="email">
 						<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
