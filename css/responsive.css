@@ -160,62 +160,84 @@
   .email h3 {
     font-size: 1.5em;
   }
+
+  /* line 138, ../scss/responsive.scss */
+  .expertise {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  /* line 141, ../scss/responsive.scss */
+  .expertise ul {
+    margin-bottom: 0;
+  }
+
+  /* line 144, ../scss/responsive.scss */
+  .expertise-col {
+    flex: 1;
+    width: 45%;
+    margin-right: 2%;
+    padding: 0 2%;
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: #b6883f;
+    margin-bottom: 30px;
+  }
 }
 @media screen and (min-width: 800px) {
   /* General */
-  /* line 144, ../scss/responsive.scss */
+  /* line 161, ../scss/responsive.scss */
   header {
     margin-bottom: 0;
   }
 
-  /* line 148, ../scss/responsive.scss */
+  /* line 165, ../scss/responsive.scss */
   .flourish-tablet-b {
     display: none;
   }
 
-  /* line 152, ../scss/responsive.scss */
+  /* line 169, ../scss/responsive.scss */
   .paging {
     text-align: left;
   }
 
   /* Home Page */
-  /* line 159, ../scss/responsive.scss */
+  /* line 176, ../scss/responsive.scss */
   .home-gallery ul {
     margin-top: 20px;
   }
-  /* line 162, ../scss/responsive.scss */
+  /* line 179, ../scss/responsive.scss */
   .home-gallery li {
     width: 23%;
     margin: 0 2.666666666% 0 0;
   }
-  /* line 166, ../scss/responsive.scss */
+  /* line 183, ../scss/responsive.scss */
   .home-gallery li:nth-child(3n+3) {
     margin: 0 2.666666666% 0 0;
   }
-  /* line 169, ../scss/responsive.scss */
+  /* line 186, ../scss/responsive.scss */
   .home-gallery li:nth-child(4n+4) {
     margin: 0;
   }
 
-  /* line 174, ../scss/responsive.scss */
+  /* line 191, ../scss/responsive.scss */
   .flourish-tablet {
     padding-top: 40px;
   }
 
   /* Blog Index */
-  /* line 180, ../scss/responsive.scss */
+  /* line 197, ../scss/responsive.scss */
   .blog-index {
     width: 68%;
     float: left;
     margin: 0 0 0 7%;
     padding: 0;
   }
-  /* line 185, ../scss/responsive.scss */
+  /* line 202, ../scss/responsive.scss */
   .blog-index h2 {
     margin-top: 0;
   }
 
-  /* line 190, ../scss/responsive.scss */
+  /* line 207, ../scss/responsive.scss */
   .archive-panel {
     width: 15%;
     float: right;
@@ -225,12 +247,12 @@
     border-width: 0 0 0 1px;
     border-color: #b6883f;
   }
-  /* line 198, ../scss/responsive.scss */
+  /* line 215, ../scss/responsive.scss */
   .archive-panel h2 {
     margin: 0 0 5px 0;
   }
 
-  /* line 203, ../scss/responsive.scss */
+  /* line 220, ../scss/responsive.scss */
   .archive-panel-push {
     width: 15%;
     float: right;
@@ -240,12 +262,12 @@
     border-width: 0 0 0 1px;
     border-color: #b6883f;
   }
-  /* line 211, ../scss/responsive.scss */
+  /* line 228, ../scss/responsive.scss */
   .archive-panel-push h2 {
     margin: 0 0 5px 0;
   }
 
-  /* line 216, ../scss/responsive.scss */
+  /* line 233, ../scss/responsive.scss */
   .primary-content {
     display: inline-block;
     width: 30%;
@@ -258,63 +280,63 @@
   }
 
   /* Contact */
-  /* line 229, ../scss/responsive.scss */
+  /* line 246, ../scss/responsive.scss */
   form {
     margin-top: 0;
   }
 
-  /* line 233, ../scss/responsive.scss */
+  /* line 250, ../scss/responsive.scss */
   .contact-form {
     margin-top: 5px;
   }
 
   /* Blog Post */
-  /* line 239, ../scss/responsive.scss */
+  /* line 256, ../scss/responsive.scss */
   .year_qty {
     color: #FFF;
   }
 
-  /* line 243, ../scss/responsive.scss */
+  /* line 260, ../scss/responsive.scss */
   .contact {
     width: 86%;
     padding: 0 7%;
     margin-top: 20px;
   }
 
-  /* line 249, ../scss/responsive.scss */
+  /* line 266, ../scss/responsive.scss */
   .about {
     width: 45%;
     float: left;
     padding-right: 5%;
   }
 
-  /* line 255, ../scss/responsive.scss */
+  /* line 272, ../scss/responsive.scss */
   .contact-form {
     width: 50%;
     float: right;
   }
 
-  /* line 260, ../scss/responsive.scss */
+  /* line 277, ../scss/responsive.scss */
   .map {
     width: 100%;
     display: inline-block;
   }
 
   /* Email Page */
-  /* line 267, ../scss/responsive.scss */
+  /* line 284, ../scss/responsive.scss */
   .emails-page {
     width: 86%;
     float: left;
     margin: 25px 7% 0 7%;
     padding: 0;
   }
-  /* line 272, ../scss/responsive.scss */
+  /* line 289, ../scss/responsive.scss */
   .emails-page h2 {
     margin-top: 0;
   }
 
   /* General */
-  /* line 279, ../scss/responsive.scss */
+  /* line 296, ../scss/responsive.scss */
   .big-grid {
     margin-top: 25px;
   }
@@ -322,29 +344,29 @@
 /********Desktop Layout*********/
 @media screen and (min-width: 1000px) {
   /* General */
-  /* line 292, ../scss/responsive.scss */
+  /* line 309, ../scss/responsive.scss */
   .flourish-tablet-a {
     display: none;
   }
 
-  /* line 293, ../scss/responsive.scss */
+  /* line 310, ../scss/responsive.scss */
   .flourish-tablet-b {
     display: none;
   }
 
-  /* line 294, ../scss/responsive.scss */
+  /* line 311, ../scss/responsive.scss */
   .flourish-desktop {
     display: inline;
   }
 
-  /* line 296, ../scss/responsive.scss */
+  /* line 313, ../scss/responsive.scss */
   .home-gallery {
     width: 62%;
     float: left;
     padding: 0 0 0 7%;
   }
 
-  /* line 302, ../scss/responsive.scss */
+  /* line 319, ../scss/responsive.scss */
   .blog-homepage {
     width: 19.9%;
     float: right;
@@ -355,13 +377,13 @@
     border-width: 0 0 0 1px;
     border-color: #b6883f;
   }
-  /* line 311, ../scss/responsive.scss */
+  /* line 328, ../scss/responsive.scss */
   .blog-homepage li {
     width: 100%;
     margin-bottom: 15px;
   }
 
-  /* line 317, ../scss/responsive.scss */
+  /* line 334, ../scss/responsive.scss */
   .blog-post-recent {
     width: 21.5%;
     float: right;
@@ -372,41 +394,41 @@
     border-width: 0 0 0 1px;
     border-color: #b6883f;
   }
-  /* line 326, ../scss/responsive.scss */
+  /* line 343, ../scss/responsive.scss */
   .blog-post-recent h2 {
     margin: 0 0 15px 0;
   }
-  /* line 329, ../scss/responsive.scss */
+  /* line 346, ../scss/responsive.scss */
   .blog-post-recent li {
     width: 100%;
     margin-bottom: 15px;
   }
 
-  /* line 335, ../scss/responsive.scss */
+  /* line 352, ../scss/responsive.scss */
   .blog-post {
     width: 60.7%;
     float: left;
     padding: 0 0 0 7%;
   }
 
-  /* line 341, ../scss/responsive.scss */
+  /* line 358, ../scss/responsive.scss */
   .comment-form {
     margin-top: 40px;
   }
 
-  /* line 345, ../scss/responsive.scss */
+  /* line 362, ../scss/responsive.scss */
   .big-grid {
     width: 61.8%;
     float: left;
     padding: 0 0 0 7%;
   }
-  /* line 349, ../scss/responsive.scss */
+  /* line 366, ../scss/responsive.scss */
   .big-grid li {
     width: 48.5%;
     margin: 0 3% 0 0;
     float: left;
   }
-  /* line 354, ../scss/responsive.scss */
+  /* line 371, ../scss/responsive.scss */
   .big-grid li:nth-child(even) {
     margin: 0;
   }
