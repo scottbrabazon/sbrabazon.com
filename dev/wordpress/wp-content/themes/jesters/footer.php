@@ -56,22 +56,10 @@ if ( ! empty( $_SERVER['SCRIPT_FILENAME'] ) && basename( __FILE__ ) == basename(
             </div>
             <div class="fix"></div>
 
-            <div class="footer-logo">
-                <img src="wp-content/themes/jesters/images/logo.svg">
-                <p>25 Church Street, Barnoldswick, BB18 5UR, Phone: 01282 816309</p>
-            </div> 
-
         <!-- END #footer -->
         </div>
 
         <?php endif; ?>
-
-        <div id="extended-footer">
-        	<div class="inner">
-                <p>Site designed by <a href="http://www.scottbrabazon.com" target="_blank">Scott Brabazon</a>
-                </p>
-        	</div>
-        </div>
 
     <!-- END #footer -->
     </footer>

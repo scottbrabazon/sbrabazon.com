@@ -22,6 +22,12 @@ h1, h2, h3, h4, h5, h6 {
 	color: #b6883e;
 }
 
+.responsive-nav select {
+	font-family: "Holtwood One SC", serif;
+	color: #000000;
+	/*background-image: url("images/dark-textured-background9.jpg");*/
+}
+
 .infobox .entry-excerpt {color: #FFFFFF;}
 
 .menu-box li .title span {background: #000000;}
@@ -102,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 
 input[type=submit], button, #commentform .button, #respond input[type="submit"], .nice-contact-form input[type="submit"] {
 	background: #b6883e;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: "Holtwood One SC", serif;
 }
 
@@ -167,21 +173,23 @@ header {
 	background-repeat: no-repeat;
 }
 
-
 .infobox .entry-title {
-	background-image: url("images/divider-device-up.svg");
-	background-repeat: no-repeat;
-	background-size: contain;
-	border-top-color: transparent;
-}
+		background-image: url("images/divider-device-up.svg");
+		background-repeat: no-repeat;
+		background-size: contain;
+		border-top-color: transparent;
+		background-position: center top;
+		padding-top: 90px;
+	}
 
-.infobox .entry-excerpt {
-	text-align: center;
-	background-image: url("images/divider-device-down.svg");
-	padding-bottom: 30px;
-	background-repeat: no-repeat;
-	background-position: center bottom;
-}
+	.infobox .entry-excerpt {
+		text-align: center;
+		background-image: url("images/divider-device-down.svg");
+		padding-bottom: 30px;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: center bottom;
+	}
 
 .entry-title {
 	text-align: center;
@@ -225,4 +233,117 @@ ul.three-col-grid li {
 .footer-logo img {
 	width: 15%;
 	margin-top: 25px;
+}
+
+#extended-footer p {
+	font-family: 'Gudea';
+	color: #FFFFFF;
+	border: none;
+	text-shadow: none;
+	padding: 0;
+	font-size: 1em
+}
+
+body.sidebar-right .single-menu-meta {
+	display: none;
+}
+
+body.page-template-template-home-php #container { 
+	border-top: 4px double #b6883e; padding-top: 10px; 
+}
+
+/* ==========================================================================
+	   IPad
+========================================================================== */
+
+@media screen and (max-width: 1024px) {
+
+	.contact-us, .menu, .testimonials-header-image, .gallery-header-image {
+		padding-top: 0;
+		padding-bottom: 0;
+		background-image: none;
+	}
+
+	#logo img {
+		width: 80%;
+	}
+
+	.infobox li.last, .pre-footer-widgets div.last {
+		border-right: none;
+	}
+
+	.infobox .entry-title {
+		padding-top: 30px;
+	}
+
+	.infobox .entry-excerpt {
+		padding-bottom: 20px;
+	}
+
+	.infobox .entry-title {
+		padding-top: 40px;
+	}
+
+	.infobox .entry-excerpt {
+		padding-bottom: 25px;
+	}
+}	
+
+/* ==========================================================================
+	   Mobile
+========================================================================== */
+
+@media screen and (max-width: 860px) {
+
+  #extended-footer {
+  	width: 730px;
+  	margin: 0 auto;
+}
+
+  #logo img {
+	padding-top: 30px;
+	}
+
+	#extended-footer .inner p {
+		padding: 0;
+	}
+
+	#extended-footer {
+		padding: 0 4%;
+	}
+
+	.infobox .entry-title {
+		padding-top: 30px;
+	}
+
+	.infobox .entry-excerpt {
+		padding-bottom: 20px;
+	}
+}
+
+@media screen and (max-width: 517px) {	
+
+	.infobox .entry-title {
+		padding-top: 70px;
+	}
+
+	.infobox .entry-excerpt {
+		padding-bottom: 50px;
+		background-image: none;
+	}
+
+	.entry .testimonial blockquote {
+		width: 100%
+	}
+}
+
+@media screen and (max-width: 420px) {	
+
+	.infobox .entry-title {
+		padding-top: 50px;
+	}
+
+	.infobox .entry-excerpt {
+		padding-bottom: 30px;
+	}
 }

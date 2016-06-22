@@ -52,57 +52,18 @@
 
 				<div class="about">
 
-					<div class="expertise">
-
-						<div class="development expertise-col">
-							<h3>Development Expertise</h3>
-							<ul>
-								<li><p>HTML</p></li>
-								<li><p>CSS (SASS)</p></li>
-								<li><p>Javascript</p></li>
-								<li><p>jQuery</p></li>
-								<li><p>PHP</p></li>
-								<li><p>GIT</p></li>
-								<li><p>Wordpress</p></li>
-								<li><p>Design</p></li>
-							</ul>	
-						</div>	
-
-						<div class="project expertise-col">	
-							<h3>Project Expertise</h3>
-							<ul>
-								<li><p>Content Managed Websites</p></li>
-								<li><p>Responsive Websites</p></li>
-								<li><p>Responsive Email Campaigns</p></li>
-								<li><p>3D Modelling</p></li>
-								<li><p>3D Animation</p></li>
-								<li><p>Catalogues</p></li>
-								<li><p>POS</p></li>
-								<li><p>Direct Mail</p></li>
-							</ul>
-						</div>	
-
-						<div class="print expertise-col">
-							<h3>Print Expertise</h3>
-							<ul>
-								<li><p>Layout Design</p></li>
-								<li><p>Retouching</p></li>
-								<li><p>Colour Balancing</p></li>
-								<li><p>Print Ready Artwork</p></li>
-							</ul>
-						</div>
-
-						<div class="software expertise-col">	
-							<h3>Software Expertise</h3>
-							<ul>
-								<li><p>Adobe Creative Suite</p></li>
-								<li><p>Microsoft Office</p></li>
-								<li><p>Cinema 4D</p></li>
-							</ul>
-						</div>
-
-					</div>	
-
+					<h3>Technical Expertise</h3>
+						<ul>
+							<li><p>HTML</p></li>
+							<li><p>CSS</p></li>
+							<li><p>SASS</p></li>
+							<li><p>Javascript</p></li>
+							<li><p>GIT</p></li>
+							<li><p>Wordpress</p></li>
+							<li><p>3D (Cinema 4D)</p></li>
+							<li><p>Adobe Illustrator</p></li>
+							<li><p>Adobe Photoshop</p></li>
+						</ul>	
 					<h2>+44 (0)796 365 7287</h2>
 					<div class="email">
 						<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
