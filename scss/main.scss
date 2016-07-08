@@ -371,3 +371,43 @@ form {
     width: 100%;
     }
 }
+
+
+/* Nav Bar */
+
+.mobile-nav {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.mobile-nav button:focus { outline: none; }
+
+.mobile-nav button {
+    text-align: center;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background-color: transparent;
+}
+
+.open-close-button svg g:nth-child(3) {
+  display: inherit;
+}
+
+.open-close-button svg g:nth-child(2) {
+  transform: rotate(0deg);
+  transition: .25s ease-in-out;
+  transform-origin: 50% 50%;
+}
+
+/*.open-close-button.open svg g:nth-child(3) {
+  display: none;
+}*/
+
+.open-close-button.open svg g:nth-child(2) {
+  transform: rotate(90deg);
+  transform-origin: 50% 50%;
+}
+
+.mobile-nav-links {display:none;}
+.mobile-nav-links.open {display:inline-block;}

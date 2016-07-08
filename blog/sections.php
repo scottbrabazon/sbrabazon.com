@@ -51,6 +51,10 @@
 			<small>Copyright &copy; <?php echo date('Y'); ?></small>
 		</div>
 	</footer>
+
+	<script src="../js/jquery-1.11.0.min.js"></script>
+	<script src="../js/menu.js"></script>
+		
 	<?php perch_get_javascript(); ?>
 </body>
 </html>
