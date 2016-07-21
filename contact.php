@@ -24,10 +24,10 @@
 							C56.037,44.357,44.357,56.037,30,56.037z"/>
 						</g>
 						<g class="button-2">
-							<polygon fill="#b6883f" points="32,12.083 28,12.083 28,47.917 32,47.917 "/>
+							<polygon fill="#FFFFFF" points="32,12.083 28,12.083 28,47.917 32,47.917 "/>
 						</g>	
 						<g class="button-3">	
-							<polygon fill="#b6883f" points="12.083,28 12.083,32 47.917,32 47.917,28 "/>
+							<polygon fill="#FFFFFF" points="12.083,28 12.083,32 47.917,32 47.917,28 "/>
 						</g>		
 					</svg>
 				</div>
@@ -121,7 +121,7 @@
 
 					</div>
 
-					<h2>+44 (0)796 365 7287</h2>
+					<h2><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
 					<div class="email">
 						<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
 					</div>	
