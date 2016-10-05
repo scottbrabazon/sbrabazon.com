@@ -72,7 +72,7 @@
 	</header>	
 
 	<div class="blog-index">	
-	    <?php perch_blog_recent_posts(8); ?>
+	    <?php perch_blog_recent_posts(6); ?>
 	</div>
 
     <div class="archive-panel">

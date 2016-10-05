@@ -65,49 +65,52 @@
 			</ul>
 		</nav>
 	</div>	
-	
-	<div class="blog-post">
-    	<?php perch_blog_post(perch_get('s')); ?>
-    	
-    	<div class="meta">
-            <div class="cats">
-                <?php perch_blog_post_categories(perch_get('s')); ?>
-            </div>
-            <div class="tags">
-                <?php perch_blog_post_tags(perch_get('s')); ?>
-            </div>
-        </div>
 
-        <!-- Go to www.addthis.com/dashboard to customize your tools -->
-		<div class="addthis_sharing_toolbox"></div>
-    	
-    	<?php perch_blog_post_comments(perch_get('s')); ?>
-    	
-    	<?php perch_blog_post_comment_form(perch_get('s')); ?>
-    </div> 
+	<div class="blog-wrapper">
+		
+		<div class="blog-post">
+	    	<?php perch_blog_post(perch_get('s')); ?>
+	    	
+	    	<div class="meta">
+	            <div class="cats">
+	                <?php perch_blog_post_categories(perch_get('s')); ?>
+	            </div>
+	            <div class="tags">
+	                <?php perch_blog_post_tags(perch_get('s')); ?>
+	            </div>
+	        </div>
 
-	<div class="blog-post-recent">
-		<h2>Recent Blogs...</h2>	
-			<?php 
-			perch_blog_custom(array(
-				'sort'=>'postDateTime',
-				'sort-order'=>'RAND',
-				'template'=>'blog/post_in_homepage.html',
-				'count'=>'4'
-			)); ?>	
-	</div>	
-	
-	<div class="footer">		
-		<footer>
-			<ul>
-				<li>	
-			<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank"><img src="../images/linkedin.png"></a>
-				</li>
-				<li>	
-			<p>&copy; 2016 Scott Brabazon</p>
-				</li>
-			</ul>
-		</footer>
+	        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+			<div class="addthis_sharing_toolbox"></div>
+	    	
+	    	<?php perch_blog_post_comments(perch_get('s')); ?>
+	    	
+	    	<?php perch_blog_post_comment_form(perch_get('s')); ?>
+	    </div> 
+
+		<div class="blog-post-recent">
+			<h2>Recent Blogs...</h2>	
+				<?php 
+				perch_blog_custom(array(
+					'sort'=>'postDateTime',
+					'sort-order'=>'RAND',
+					'template'=>'blog/post_in_homepage.html',
+					'count'=>'4'
+				)); ?>	
+		</div>	
+		
+		<div class="footer">		
+			<footer>
+				<ul>
+					<li>	
+				<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank"><img src="../images/linkedin.png"></a>
+					</li>
+					<li>	
+				<p>&copy; 2016 Scott Brabazon</p>
+					</li>
+				</ul>
+			</footer>
+		</div>
 	</div>	
 
 	<script src="../js/jquery-1.11.0.min.js"></script>
