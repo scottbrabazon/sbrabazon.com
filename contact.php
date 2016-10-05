@@ -8,8 +8,11 @@
 		<meta name="description" content="Developer and Artworker based in South Manchester." />
 		<title>Scott Brabazon | Artworker/Developer | South Manchester | Contact</title>
 		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="css/main.css">
-		<link rel="stylesheet" href="css/responsive.css">
+		<link rel="stylesheet" href="/css/main.css">
+		<link rel="stylesheet" href="/css/responsive.css">
+		<meta name="viewport" content="user-scalable=yes, width=300" />
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	</head>
 	<body>
 

@@ -9,9 +9,11 @@
 	<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
 	<?php perch_get_css(); ?>
 	<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="../css/normalize.css">
-	<link rel="stylesheet" href="../css/main.css">
-	<link rel="stylesheet" href="../css/responsive.css">
+	<link rel="stylesheet" href="/css/main.css">
+	<link rel="stylesheet" href="/css/responsive.css">
+	<meta name="viewport" content="user-scalable=yes, width=300" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 
 <body>
