@@ -324,7 +324,7 @@ form {
     border-width: 1px;
     border-color: $primary-color;
     border-radius: 10px;
-    padding: 20px 5% 10px 5%;
+    padding: 20px 20px 10px 20px;
     width: 90%;
     margin-top: 35px;
     text-align: left;
@@ -334,9 +334,9 @@ form {
     }    
     input, textarea {
     font-family: 'Rokkitt', serif;
-    width: 100%;
+    width: 98%;
     border: none;
-    padding: 3px 0;
+    padding: 5px 1%;
     }
     textarea {
     height: 200px;

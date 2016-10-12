@@ -2,10 +2,10 @@
     define('PERCH_LICENSE_KEY', 'P21503-CWQ772-WGA970-KGL555-LYK010');
 
     define("PERCH_DB_USERNAME", 'scottbra_perch');
-    define("PERCH_DB_PASSWORD", 'fcomm1');
-    define("PERCH_DB_SERVER", "localhost");
-    define("PERCH_DB_DATABASE", "scottbra_perch_db");
-    define("PERCH_DB_PREFIX", "perch2_");
+    define("PERCH_DB_PASSWORD", 'S0n1cB00m');
+    define("PERCH_DB_SERVER", 'localhost');
+    define("PERCH_DB_DATABASE", 'scottbra_perch_db');
+    define("PERCH_DB_PREFIX", 'perch2_');
     
     define('PERCH_TZ', 'Europe/London');
 

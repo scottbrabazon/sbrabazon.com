@@ -15,7 +15,6 @@
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	</head>
 	<body>
-
 		<div class="mobile-nav">
 			<button class="mobile-nav-toggle">
 				<div class='open-close-button'>
@@ -46,7 +45,6 @@
 				</ul>
 			</nav>
 		</div>	
-
 		<div class="desktop-nav">
 			<nav>
 				<ul>
@@ -64,109 +62,101 @@
 				</ul>
 			</nav>
 		</div>	
-
 		<header>
 			<h1>Contact</h1>
 		</header>
-
 		<div class="contact">
-
-				<div class="about">
-
-					<div class="expertise">
-
-						<div class="development expertise-col">
-							<h3>Development Expertise</h3>
-							<ul>
-								<li><p>HTML</p></li>
-								<li><p>CSS (SASS)</p></li>
-								<li><p>Javascript</p></li>
-								<li><p>jQuery</p></li>
-								<li><p>PHP</p></li>
-								<li><p>GIT</p></li>
-								<li><p>Wordpress</p></li>
-								<li><p>Design</p></li>
-							</ul>	
-						</div>	
-
-						<div class="project expertise-col">	
-							<h3>Project Expertise</h3>
-							<ul>
-								<li><p>Content Managed Websites</p></li>
-								<li><p>Responsive Websites</p></li>
-								<li><p>Responsive Email Campaigns</p></li>
-								<li><p>3D Modelling</p></li>
-								<li><p>3D Animation</p></li>
-								<li><p>Catalogues</p></li>
-								<li><p>POS</p></li>
-								<li><p>Direct Mail</p></li>
-							</ul>
-						</div>	
-
-						<div class="print expertise-col">
-							<h3>Print Expertise</h3>
-							<ul>
-								<li><p>Layout Design</p></li>
-								<li><p>Retouching</p></li>
-								<li><p>Colour Balancing</p></li>
-								<li><p>Print Ready Artwork</p></li>
-							</ul>
-						</div>
-
-						<div class="software expertise-col">	
-							<h3>Software Expertise</h3>
-							<ul>
-								<li><p>Adobe Creative Suite</p></li>
-								<li><p>Microsoft Office</p></li>
-								<li><p>Cinema 4D</p></li>
-							</ul>
-						</div>
-
+			<div class="about">
+				<div class="expertise">
+					<div class="development expertise-col">
+						<h3>Development Expertise</h3>
+						<ul>
+							<li><p>HTML</p></li>
+							<li><p>CSS (SASS)</p></li>
+							<li><p>Javascript</p></li>
+							<li><p>jQuery</p></li>
+							<li><p>PHP</p></li>
+							<li><p>GIT</p></li>
+							<li><p>Wordpress</p></li>
+							<li><p>Design</p></li>
+						</ul>	
 					</div>
-
-					<h2><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
-					<div class="email">
-						<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
+					<div class="project expertise-col">	
+						<h3>Project Expertise</h3>
+						<ul>
+							<li><p>Content Managed Websites</p></li>
+							<li><p>Responsive Websites</p></li>
+							<li><p>Responsive Email Campaigns</p></li>
+							<li><p>3D Modelling</p></li>
+							<li><p>3D Animation</p></li>
+							<li><p>Catalogues</p></li>
+							<li><p>POS</p></li>
+							<li><p>Direct Mail</p></li>
+						</ul>
 					</div>	
+					<div class="print expertise-col">
+						<h3>Print Expertise</h3>
+						<ul>
+							<li><p>Layout Design</p></li>
+							<li><p>Retouching</p></li>
+							<li><p>Colour Balancing</p></li>
+							<li><p>Print Ready Artwork</p></li>
+						</ul>
+					</div>
+					<div class="software expertise-col">	
+						<h3>Software Expertise</h3>
+						<ul>
+							<li><p>Adobe Creative Suite</p></li>
+							<li><p>Microsoft Office</p></li>
+							<li><p>Cinema 4D</p></li>
+						</ul>
+					</div>
 				</div>
-
-				<div class="flourish-mobile">
-					<img src="images/flourish.svg" alt="Flourish">
-				</div>
-				<div class="flourish-tablet-b">
-					<img src="images/flourish.svg" alt="Flourish">
-				</div>
-
-				<div class="contact-form">
-					<?php perch_content('Contact Form'); ?>
-				</div>
-
-				<div class="flourish-mobile">
-					<img src="images/flourish.svg" alt="Flourish">
-				</div>
-				<div class="flourish-tablet-b">
-					<img src="images/flourish.svg" alt="Flourish">
-				</div>
-
-				<div class="map">
-					<?php perch_content('Map'); ?>
-				</div>
-
+				<h2><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
+				<div class="email">
+					<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
+				</div>	
+			</div>
+			<div class="flourish-mobile">
+				<img src="images/flourish.svg" alt="Flourish">
+			</div>
+			<div class="flourish-tablet-b">
+				<img src="images/flourish.svg" alt="Flourish">
+			</div>
+			<div class="contact-form">
+				<?php perch_content('Contact Form'); ?>
+			</div>
+			<div class="flourish-mobile">
+				<img src="images/flourish.svg" alt="Flourish">
+			</div>
+			<div class="flourish-tablet-b">
+				<img src="images/flourish.svg" alt="Flourish">
+			</div>
+			<div class="map">
+				<?php perch_content('Map'); ?>
+			</div>
 		</div>		
-	
 		<footer>
 			<ul>
 				<li>	
-					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank"><img src="images/linkedin.png" alt="LinkedIn"></a>
+					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
+						<img src="images/linkedin.png" alt="LinkedIn">
+					</a>
 				</li>
 				<li>	
 					<p>&copy; 2016 Scott Brabazon</p>
 				</li>
 			</ul>
 		</footer>
-
 		<script src="js/jquery-1.11.0.min.js"></script>
 		<script src="js/menu.js"></script>
-
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-85329524-1', 'auto');
+			ga('send', 'pageview');
+		</script>
 	</body>	
 </html>
