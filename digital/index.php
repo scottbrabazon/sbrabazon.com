@@ -75,7 +75,7 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0" target="popup" onclick="window.open('https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0','Warren Partners Email','width=615,height=800')"><img src="/images/warren-email-xmas-thumbnail.gif" alt="Warren Partners Email"><br></a>
+					<p><a href="https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0" target="popup" onclick="window.open('https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0','Warren Partners Email','width=615,height=800')"><img src="/images/warren-email-xmas-thumbnail.png" alt="Warren Partners Email"><br></a>
 					<a href="https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0" target="popup" onclick="window.open('https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0','Warren Partners Email','width=615,height=800')">Warren Partners Email</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
