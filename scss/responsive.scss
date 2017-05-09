@@ -30,8 +30,7 @@ body, h1, h2, h3, a, p {
 		display: inline;
 		nav {
 		text-align: left;
-		background-color: #FFF;
-	    color: #000;
+	    color: #FFF;
 	    padding: 10px 7%;
 		}
 		nav ul {
@@ -52,7 +51,7 @@ body, h1, h2, h3, a, p {
 	}
 
 	.desktop-nav nav a,
-	.desktop-nav nav a:visited { color: #000 }
+	.desktop-nav nav a:visited { color: #FFF }
 	.desktop-nav nav a.selected,
 	.desktop-nav nav a:hover { color: $primary-color; }
 

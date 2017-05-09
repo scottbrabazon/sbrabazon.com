@@ -91,7 +91,7 @@
 					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank"><img src="../images/linkedin.png" alt="LinkedIn"></a>
 				</li>
 				<li>	
-					<p>&copy; 2016 Scott Brabazon</p>
+					<p>&copy; 2017 Scott Brabazon</p>
 				</li>
 			</ul>
 		</footer>

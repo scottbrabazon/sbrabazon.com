@@ -96,8 +96,8 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="http://scottbrabazon.com/dev/wordpress/" target="blank"><img src="images/jesters-thumbnail.png" alt="Jesters Website"><br></a>
-					<a href="http://scottbrabazon.com/dev/wordpress/" target="blank">Jesters Website</a></p>
+					<p><a href="http://sbrabazon.com/dev/wordpress/" target="blank"><img src="images/jesters-thumbnail.png" alt="Jesters Website"><br></a>
+					<a href="http://sbrabazon.com/dev/wordpress/" target="blank">Jesters Website</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
@@ -216,7 +216,7 @@
 					</a>
 				</li>
 				<li>	
-					<p>&copy; 2016 Scott Brabazon</p>
+					<p>&copy; 2017 Scott Brabazon</p>
 				</li>
 			</ul>
 		</footer>

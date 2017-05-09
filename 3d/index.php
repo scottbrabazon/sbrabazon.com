@@ -112,7 +112,7 @@
 						</a>
 					</li>
 					<li>	
-						<p>&copy; 2016 Scott Brabazon</p>
+						<p>&copy; 2017 Scott Brabazon</p>
 					</li>
 				</ul>	
 			</footer>

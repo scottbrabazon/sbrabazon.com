@@ -74,40 +74,30 @@
 							<li><p>HTML</p></li>
 							<li><p>CSS (SASS)</p></li>
 							<li><p>Javascript</p></li>
-							<li><p>jQuery</p></li>
-							<li><p>PHP</p></li>
 							<li><p>GIT</p></li>
-							<li><p>Wordpress</p></li>
-							<li><p>Design</p></li>
+							<li><p>CMS</p></li>
+							<li><p>Gulp</p></li>
+							<li><p>Responsive Design</p></li>
+							<li><p>Mailchimp</p></li>
+							<li><p>Campaign Monitor</p></li>
 						</ul>	
 					</div>
-					<div class="project expertise-col">	
-						<h3>Project Expertise</h3>
-						<ul>
-							<li><p>Content Managed Websites</p></li>
-							<li><p>Responsive Websites</p></li>
-							<li><p>Responsive Email Campaigns</p></li>
-							<li><p>3D Modelling</p></li>
-							<li><p>3D Animation</p></li>
-							<li><p>Catalogues</p></li>
-							<li><p>POS</p></li>
-							<li><p>Direct Mail</p></li>
-						</ul>
-					</div>	
 					<div class="print expertise-col">
 						<h3>Print Expertise</h3>
 						<ul>
 							<li><p>Layout Design</p></li>
 							<li><p>Retouching</p></li>
-							<li><p>Colour Balancing</p></li>
 							<li><p>Print Ready Artwork</p></li>
 						</ul>
 					</div>
 					<div class="software expertise-col">	
 						<h3>Software Expertise</h3>
 						<ul>
-							<li><p>Adobe Creative Suite</p></li>
+							<li><p>Adobe Photoshop</p></li>
+							<li><p>Adobe Illustrator</p></li>
+							<li><p>Adobe InDesign</p></li>
 							<li><p>Microsoft Office</p></li>
+							<li><p>Final Cut Pro</p></li>
 							<li><p>Cinema 4D</p></li>
 						</ul>
 					</div>
@@ -133,7 +123,8 @@
 				<img src="images/flourish.svg" alt="Flourish">
 			</div>
 			<div class="map">
-				<?php perch_content('Map'); ?>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75981.15562678434!2d-2.3384060218401936!3d53.478983829348365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487baec3817aa7d1%3A0xd560da2e52b21a42!2sShakespeare+Cres%2C+Eccles%2C+Manchester+M30+0PB!5e0!3m2!1sen!2suk!4v1494327703599" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+				</section>
 			</div>
 		</div>		
 		<footer>
@@ -144,7 +135,7 @@
 					</a>
 				</li>
 				<li>	
-					<p>&copy; 2016 Scott Brabazon</p>
+					<p>&copy; 2017 Scott Brabazon</p>
 				</li>
 			</ul>
 		</footer>
