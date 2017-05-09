@@ -1,7 +1,7 @@
 <?php
-	$apps_list = array(
+	$apps_list = [
 		'content', 
 		'categories',
 		'perch_forms',
 		'perch_blog'
-	);
+	];

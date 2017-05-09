@@ -3,24 +3,16 @@
     include('../../../../core/inc/api.php');
     
     $API  = new PerchAPI(1.0, 'perch_blog');
-    $Lang = $API->get('Lang');
-
-    # include your class files
-    include('../PerchBlog_Posts.class.php');
-    include('../PerchBlog_Post.class.php');
-    include('../PerchBlog_Sections.class.php');
-    include('../PerchBlog_Section.class.php');
-    include('../PerchBlog_Cache.class.php');
-    include('../PerchBlog_Comments.class.php');
-    include('../PerchBlog_Comment.class.php');
-    include('../PerchBlog_Authors.class.php');
-    include('../PerchBlog_Author.class.php');
+    $HTML   = $API->get('HTML');
+    $Lang   = $API->get('Lang');
+    $Paging = $API->get('Paging');
 
     # Set the page title
     $Perch->page_title = $Lang->get('Update Blog');
 
 
     # Do anything you want to do before output is started
+    include('../modes/_subnav.php');
     include('../modes/update.pre.php');
     
     
@@ -34,4 +26,3 @@
     
     # Bottom layout
     include(PERCH_CORE . '/inc/btm.php');
-?>

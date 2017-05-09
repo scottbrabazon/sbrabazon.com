@@ -3,19 +3,9 @@
     include('../../../../core/inc/api.php');
     
     $API  = new PerchAPI(1.0, 'perch_blog');
-    $Lang = $API->get('Lang');
-
-    # include your class files
-    include('../PerchBlog_Posts.class.php');
-    include('../PerchBlog_Post.class.php');
-	include('../PerchBlog_Sections.class.php');
-    include('../PerchBlog_Section.class.php');
-    include('../PerchBlog_Comments.class.php');
-    include('../PerchBlog_Comment.class.php');
-    include('../PerchBlog_Authors.class.php');
-    include('../PerchBlog_Author.class.php');
-    include('../PerchBlog_Cache.class.php');
-    include('../PerchBlog_Akismet.class.php');
+    $HTML   = $API->get('HTML');
+    $Lang   = $API->get('Lang');
+    $Paging = $API->get('Paging');
     
     # Set the page title
     $Perch->page_title = $Lang->get('Blog Comments');
@@ -24,6 +14,7 @@
     $Perch->add_javascript($API->app_path().'/assets/js/blog.js');
 
     # Do anything you want to do before output is started
+    include('../modes/_subnav.php');
     include('../modes/comment.list.pre.php');
     
     
@@ -37,4 +28,3 @@
     
     # Bottom layout
     include(PERCH_CORE . '/inc/btm.php');
-?>
