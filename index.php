@@ -96,13 +96,6 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="http://sbrabazon.com/dev/wordpress/" target="blank"><img src="images/jesters-thumbnail.png" alt="Jesters Website"><br></a>
-					<a href="http://sbrabazon.com/dev/wordpress/" target="blank">Jesters Website</a></p>
-					<div class="flourish-mobile">
-						<img src="images/flourish.svg" alt="Flourish">
-					</div>
-				</li>
-				<li>
 					<p><a href="print/mancitystore.php"><img src="images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
 					<a href="print/mancitystore.php">City Store Shop</a></p>
 					<div class="flourish-mobile">
@@ -173,8 +166,8 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="http://footfall.foundrydev.co.uk/" target="blank"><img src="images/footfall-thumbnail.png" alt="Footfall Website"><br></a>
-					<a href="http://footfall.foundrydev.co.uk/" target="blank">Footfall Website</a></p>
+					<p><a href="http://www.footfalluk.co.uk//" target="blank"><img src="images/footfall-thumbnail.png" alt="Footfall Website"><br></a>
+					<a href="http://www.footfalluk.co.uk/" target="blank">Footfall Website</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
@@ -187,8 +180,8 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=23C42938FF8E0CCC&ID=044A11285C0902E1&temp=False&tx=0" target="popup" onclick="window.open('https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=23C42938FF8E0CCC&ID=044A11285C0902E1&temp=False&tx=0','Warren Partners Email','width=615,height=800')"><img src="images/bia-email-thumbnail.png" alt="Brand in Action Email"><br></a>
-					<a href="https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=23C42938FF8E0CCC&ID=044A11285C0902E1&temp=False&tx=0" target="popup" onclick="window.open('https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=23C42938FF8E0CCC&ID=044A11285C0902E1&temp=False&tx=0','Warren Partners Email','width=615,height=800')">Brand in Action Email</a></p>
+					<p><a href="http://www.foundryhealthcare.co.uk/" target="blank"><img src="images/fhc-thumbnail.png" alt="Foundry Healthcare Website"><br></a>
+					<a href="http://www.foundryhealthcare.co.uk/" target="blank">Foundry Healthcare Website</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>

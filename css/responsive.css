@@ -1,6 +1,6 @@
 /* *******Definings******** */
 /********Tablet Layout*********/
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 575px) {
   /* General */
   /* line 9, ../scss/responsive.scss */
   body, h1, h2, h3, a, p {
@@ -182,7 +182,7 @@
     margin-bottom: 30px;
   }
 }
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 890px) {
   /* General */
   /* line 160, ../scss/responsive.scss */
   header {
@@ -341,7 +341,7 @@
   }
 }
 /********Desktop Layout*********/
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1200px) {
   /* General */
   /* line 308, ../scss/responsive.scss */
   .flourish-tablet-a {
