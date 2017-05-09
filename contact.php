@@ -102,10 +102,16 @@
 						</ul>
 					</div>
 				</div>
+				<p>Download my latest CV by clicking <a href="/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
 				<h2><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
 				<div class="email">
 					<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
-				</div>	
+				</div>
+				<p>19 Shakespeare Cresent,<br />
+					Eccles,<br />
+					Salford,<br />
+					Greater Manchester<br />
+					M30 0PB</p>
 			</div>
 			<div class="flourish-mobile">
 				<img src="images/flourish.svg" alt="Flourish">

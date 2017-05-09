@@ -117,10 +117,31 @@
 					</div>
 				</li>
 				<li>
+					<p><a href="http://www.premierpetcareplan.com/gb/" target="blank"><img src="/images/ppcp-thumbnail.png" alt="Premier Pet Care Plan Website"><br></a>
+					<a href="http://www.premierpetcareplan.com/gb/" target="blank">Premier Pet Care Plan Website</a></p>
+					<div class="flourish-mobile">
+						<img src="/images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li>
 					<p><a href="http://www.foundryhealthcare.co.uk/" target="blank"><img src="/images/fhc-thumbnail.png" alt="Foundry Healthcare Website"><br></a>
 					<a href="http://www.foundryhealthcare.co.uk/" target="blank">Foundry Healthcare Website</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li>
+					<p><a href="support-for-life.php" target="blank"><img src="/images/support-for-life-thumbnail.png" alt="Support For Life Video"><br></a>
+					<a href="support-for-life.php" target="blank">Support For Life Video</a></p>
+					<div class="flourish-mobile">
+						<img src="images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li>
+					<p><a href="calculator" target="popup" onclick="window.open('calculator','Javascript Calculator','width=615,height=800')"><img src="/images/calculator-thumbnail.png" alt="Javascript Calculator"><br></a>
+					<a href="calculator" target="popup" onclick="window.open('calculator','Javascript Calculator','width=615,height=800')">Javascript Calculator</a></p>
+					<div class="flourish-mobile">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 			</ul>				

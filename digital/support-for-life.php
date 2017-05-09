@@ -38,8 +38,8 @@
 				<ul>
 					<li><a href="../index.php">Home</a></li>
 					<li><a href="../print">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
-					<li><a href="../3d" class="selected">3D</a></li>
+					<li><a href="../digital" class="selected">Digital</a></li>		
+					<li><a href="../3d">3D</a></li>
 					<li><a href="../blog">Blog</a></li>
 					<li><a href="../contact.php">Contact</a></li>	
 				</ul>
@@ -63,7 +63,7 @@
 			</nav>
 		</div>	
 		<header>
-			<h1>Support for Life Video</h1>
+			<h1>Support For Life Video</h1>
 		</header>
 		<div class="big-grid">
 			<div class="container">
