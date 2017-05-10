@@ -107,7 +107,7 @@
 				<div class="email">
 					<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
 				</div>
-				<p>19 Shakespeare Cresent,<br />
+				<p>19 Shakespeare Crescent,<br />
 					Eccles,<br />
 					Salford,<br />
 					Greater Manchester<br />
