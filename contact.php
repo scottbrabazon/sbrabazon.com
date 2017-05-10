@@ -69,7 +69,7 @@
 			<div class="about">
 				<div class="expertise">
 					<div class="development expertise-col">
-						<h3>Development Expertise</h3>
+						<h3>Digital Expertise</h3>
 						<ul>
 							<li><p>HTML</p></li>
 							<li><p>CSS (SASS)</p></li>
@@ -102,16 +102,18 @@
 						</ul>
 					</div>
 				</div>
-				<p>Download my latest CV by clicking <a href="/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
+				<p>
+					19 Shakespeare Crescent,<br />
+					Eccles,<br />
+					Salford,<br />
+					Greater Manchester<br />
+					M30 0PB
+				</p>
 				<h2><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
 				<div class="email">
 					<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
 				</div>
-				<p>19 Shakespeare Crescent,<br />
-					Eccles,<br />
-					Salford,<br />
-					Greater Manchester<br />
-					M30 0PB</p>
+				<p>Download my latest CV by clicking <a href="/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
 			</div>
 			<div class="flourish-mobile">
 				<img src="images/flourish.svg" alt="Flourish">

@@ -200,9 +200,9 @@
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
-				<li>
-					<p><a href="digital/calculator" target="popup" onclick="window.open('digital/calculator','Javascript Calculator','width=615,height=687')"><img src="images/calculator-thumbnail.png" alt="Javascript Calculator"><br></a>
-					<a href="digital/calculator" target="popup" onclick="window.open('digital/calculator','Javascript Calculator','width=615,height=687')">Javascript Calculator</a></p>
+				<li style="cursor: pointer;">
+					<p><a target="popup" onclick="window.open('digital/calculator','Javascript Calculator','width=615,height=688')"><img src="images/calculator-thumbnail.png" alt="Javascript Calculator"><br></a>
+					<a target="popup" onclick="window.open('digital/calculator','Javascript Calculator','width=615,height=688')">Javascript Calculator</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
