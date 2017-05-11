@@ -3,5 +3,6 @@
 		'content', 
 		'categories',
 		'perch_forms',
-		'perch_blog'
+		'perch_blog',
+		'perch_kraken'
 	];
