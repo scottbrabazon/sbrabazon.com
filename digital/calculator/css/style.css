@@ -46,7 +46,7 @@
 	text-overflow: ellipsis;
 	overflow: hidden;
 }
-input {
+button {
 	width: 22%;
 	margin: 30px 4% 0 0;
 	border-radius: 5px;
@@ -63,10 +63,10 @@ input {
 	display: block;
 	float: left;
 }
-input:nth-child(4n) {
+button:nth-child(4n) {
 	margin-right: 0%;
 }
-input:last-child {
+button:last-child {
 	margin-right: 0%;
 }
 .number {
