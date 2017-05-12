@@ -3,8 +3,8 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Scott Brabazon | Artworker/Developer | South Manchester | Blog Archive</title>
-		<meta name="description" content="Developer and Artworker based in South Manchester. Read my blogs covering the latest industry developments." />
+		<title>Scott Brabazon | Artworker/Developer | Manchester | Blog Archive</title>
+		<meta name="description" content="Developer and Artworker based in Manchester. Read my blogs covering the latest industry developments." />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
 		<?php perch_get_css(); ?>
@@ -17,7 +17,7 @@
 	</head>
 	<body>
 		<div class="mobile-nav">
-			<button class="mobile-nav-toggle">
+			<div class="mobile-nav-toggle">
 				<div class='open-close-button'>
 					<svg version="1.1" id="_x2014_ÎÓÈ_x5F_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 					x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
@@ -34,7 +34,7 @@
 						</g>		
 					</svg>
 				</div>
-			</button>
+			</div>
 			<nav class="mobile-nav-links">
 				<ul>
 					<li><a href="../index.php">Home</a></li>
