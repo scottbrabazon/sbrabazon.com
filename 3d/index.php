@@ -68,21 +68,21 @@
 		<div class="home-gallery">
 			<ul>
 				<li>
-					<p><a href="guitar.php"><img src="../images/guitar_thumbnail.png" alt="Epiphone 335 Dot"><br></a>
+					<p><a href="guitar.php" class="grow-rotate"><img src="../images/guitar_thumbnail.png" alt="Epiphone 335 Dot"><br></a>
 					<a href="guitar.php">Epiphone 335 Dot</a></p>
 					<div class="flourish-mobile">
 						<img src="../images/flourish.svg">
 					</div>	
 				</li>
 				<li>
-					<p><a href="hublot-animation.php"><img src="../images/hublot-thumbnail.png" alt="Hublot Animation"><br></a>
+					<p><a href="hublot-animation.php" class="grow-rotate"><img src="../images/hublot-thumbnail.png" alt="Hublot Animation"><br></a>
 					<a href="hublot-animation.php">Hublot Animation</a></p>
 					<div class="flourish-mobile">
 						<img src="../images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="wd40cans.php"><img src="../images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
+					<p><a href="wd40cans.php" class="grow-rotate"><img src="../images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
 					<a href="wd40cans.php">WD40 Cans</a></p>
 					<div class="flourish-mobile">
 						<img src="../images/flourish.svg" alt="Flourish">

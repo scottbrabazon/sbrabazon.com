@@ -68,42 +68,42 @@
 		<div class="home-gallery">
 			<ul>
 				<li>
-					<p><a href="mancitystore.php"><img src="../images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
+					<p><a href="mancitystore.php" class="grow-rotate"><img src="../images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
 					<a href="mancitystore.php">City Store Shop</a></p>
 				<div class="flourish-mobile">
 					<img src="../images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="fifa-world-cup-2010.php"><img src="../images/world-cup-thumbnail.png" alt="FIFA World Cup 2010"><br></a>
+					<p><a href="fifa-world-cup-2010.php" class="grow-rotate"><img src="../images/world-cup-thumbnail.png" alt="FIFA World Cup 2010"><br></a>
 					<a href="fifa-world-cup-2010.php">FIFA World Cup 2010</a></p>
 				<div class="flourish-mobile">
 					<img src="../images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="united-direct.php"><img src="../images/mufc2011_thumbnail.png" alt="United Direct"><br></a>
+					<p><a href="united-direct.php" class="grow-rotate"><img src="../images/mufc2011_thumbnail.png" alt="United Direct"><br></a>
 					<a href="united-direct.php">United Direct</a></p>
 				<div class="flourish-mobile">
 					<img src="../images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="argos.php"><img src="../images/argos_ss2012_thumbnail.png" alt="Argos Catalogue"><br></a>
+					<p><a href="argos.php" class="grow-rotate"><img src="../images/argos_ss2012_thumbnail.png" alt="Argos Catalogue"><br></a>
 					<a href="argos.php">Argos Catalogue</a></p>
 				<div class="flourish-mobile">
 					<img src="../images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="sw6.php"><img src="../images/chelsea_thumbnail.png" alt="SW6"><br></a>
+					<p><a href="sw6.php" class="grow-rotate"><img src="../images/chelsea_thumbnail.png" alt="SW6"><br></a>
 					<a href="sw6.php">SW6</a></p>
 				<div class="flourish-mobile">
 					<img src="../images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="man-city-store-catalogue.php"><img src="../images/mcfc_thumbnail.png" alt="City Store Catalogue"><br></a>
+					<p><a href="man-city-store-catalogue.php" class="grow-rotate"><img src="../images/mcfc_thumbnail.png" alt="City Store Catalogue"><br></a>
 					<a href="man-city-store-catalogue.php">City Store Catalogue</a></p>
 				<div class="flourish-mobile">
 					<img src="../images/flourish.svg" alt="Flourish">

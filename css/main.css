@@ -1015,8 +1015,9 @@ footer li {
   padding: 0;
   list-style: none;
 }
-/* line 159, ../scss/main.scss */
-.home-gallery p {
+
+/* line 160, ../scss/main.scss */
+p {
   color: #FFF;
 }
 

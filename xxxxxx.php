@@ -48,7 +48,7 @@
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="index.php"><img src="images/home-icon-gold.svg" onmouseover="this.src='images/home-icon-gold.svg'" onmouseout="this.src='images/home-icon-black.svg'"/ alt="Home"></a></li>
+					<li><a href="index.php"><img src="images/home-icon-gold.svg" onmouseover="this.src='images/home-icon-gold.svg'" onmouseout="this.src='images/home-icon-black.svg'" alt="Home"></a></li>
 					<li>|</li>						
 					<li><a href="print">Print</a></li>
 					<li>|</li>		
