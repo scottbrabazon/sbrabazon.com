@@ -173,7 +173,7 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="print/man-city-store-catalogue.php"><img src="images/mcfc_thumbnail.png" alt="City Store Catalogue" class="grow-rotate"><br></a>
+					<p><a href="print/man-city-store-catalogue.php" class="grow-rotate"><img src="images/mcfc_thumbnail.png" alt="City Store Catalogue"><br></a>
 					<a href="print/man-city-store-catalogue.php">City Store Catalogue</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
@@ -201,7 +201,7 @@
 					</div>
 				</li>
 				<li style="cursor: pointer;">
-					<p><a target="popup" onclick="window.open('digital/calculator','Javascript Calculator','width=615,height=688')"><img src="images/calculator-thumbnail.png" alt="Javascript Calculator" class="grow-rotate"><br></a>
+					<p><a target="popup" onclick="window.open('digital/calculator','Javascript Calculator','width=615,height=688')" class="grow-rotate"><img src="images/calculator-thumbnail.png" alt="Javascript Calculator"><br></a>
 					<a target="popup" onclick="window.open('digital/calculator','Javascript Calculator','width=615,height=688')">Javascript Calculator</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
