@@ -221,6 +221,16 @@ p {
     max-width: none;
     width: 100%;
     }
+
+    h3 {
+    margin-top: 30px;
+    color: $primary-color;
+    }
+
+    ul {
+    list-style-type: circle;
+    margin-left: 7px;
+    }
 }
 
 .blog-post-recent {

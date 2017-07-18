@@ -111,7 +111,7 @@
 				</p>
 				<h2><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
 				<div class="email">
-					<a href="mailto:scott.brabazon@googlemail.com"><h3>scott.brabazon@googlemail.com</h3></a>
+					<a href="mailto:hello@sbrabazon.com"><h3>hello@sbrabazon.com</h3></a>
 				</div>
 				<p>Download my latest CV by clicking <a href="/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
 			</div>

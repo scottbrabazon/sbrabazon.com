@@ -3,7 +3,7 @@
 @media screen and (min-width: 575px) {
   /* General */
   /* line 9, ../scss/responsive.scss */
-  body, h1, h2, h3, a, p {
+  body, h1, h2, h3, a, p, li {
     text-align: left;
   }
 
