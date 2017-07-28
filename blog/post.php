@@ -14,6 +14,9 @@
 		<meta name="viewport" content="user-scalable=yes, width=300" />
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<script src="../js/jquery-1.11.0.min.js"></script>
+		<script src="../js/menu.js"></script>
+		<script src="../js/image-effects.js"></script>
 	</head>
 	<body>
 		<div class="mobile-nav">
@@ -103,8 +106,6 @@
 				</footer>
 			</div>
 		</div>	
-		<script src="../js/jquery-1.11.0.min.js"></script>
-		<script src="../js/menu.js"></script>
 		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5746d2d95835b876"></script>
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

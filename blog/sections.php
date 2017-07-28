@@ -8,6 +8,9 @@
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
 		<?php perch_get_css(); ?>
 		<link rel="stylesheet" href="blog.css" type="text/css" />
+		<script src="../js/jquery-1.11.0.min.js"></script>
+		<script src="../js/menu.js"></script>
+		<script src="../js/image-effects.js"></script>
 	</head>
 	<body>
 		<header class="layout-header">
@@ -51,9 +54,6 @@
 				<small>Copyright &copy; <?php echo date('Y'); ?></small>
 			</div>
 		</footer>
-
-		<script src="../js/jquery-1.11.0.min.js"></script>
-		<script src="../js/menu.js"></script>
 			
 		<?php perch_get_javascript(); ?>
 	</body>
