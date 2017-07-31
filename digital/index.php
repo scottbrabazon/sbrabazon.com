@@ -5,17 +5,23 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name=viewport content="width=device-width, initial-scale=1">
-		<title>Scott Brabazon | Artworker/Developer | Manchester | Digital</title>
 		<meta name="description" content="Developer and Artworker based in Manchester. Specialising in Wordpress development." />
-		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="/css/main.css">
-		<link rel="stylesheet" href="/css/responsive.css">
 		<meta name="viewport" content="user-scalable=yes, width=300" />
+		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
+		<title>Scott Brabazon | Artworker/Developer | Manchester | Digital</title>
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
+		<!-- Favicon -->
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
-		<script src="../js/jquery-1.11.0.min.js"></script>
-		<script src="../js/menu.js"></script>
-		<script src="../js/image-effects.js"></script>
+		<!-- Javascript -->
+		<script src="/js/jquery-1.11.0.min.js"></script>
+		<script src="/js/menu.js"></script>
+		<script src="/js/lightbox/js/lightbox.min.js"></script>
+		<!-- CSS -->
+		<link rel="stylesheet" href="/css/main.css">
+		<link rel="stylesheet" href="/css/responsive.css">
+		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
 	</head>
 	<body>
 		<div class="mobile-nav">
@@ -123,14 +129,14 @@
 					<p><a href="http://www.foundryhealthcare.co.uk/" target="blank" class="grow-rotate"><img src="/images/fhc-thumbnail.png" alt="Foundry Healthcare Website"><br></a>
 					<a href="http://www.foundryhealthcare.co.uk/" target="blank">Foundry Healthcare Website</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
 					<p><a href="support-for-life.php" target="blank" class="grow-rotate"><img src="/images/support-for-life-thumbnail.png" alt="Support For Life Video"><br></a>
 					<a href="support-for-life.php" target="blank">Support For Life Video</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li style="cursor: pointer;">

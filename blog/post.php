@@ -3,20 +3,24 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Scott Brabazon | Artworker/Developer | Manchester | Blog | <?php perch_blog_post_field(perch_get('s'), 'postTitle'); ?></title>
-		<meta name="description" content="Developer and Artworker based in Manchester. Please have a read of my latest blogs covering the latest industry news." />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
-		<?php perch_get_css(); ?>
-		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="/css/main.css">
-		<link rel="stylesheet" href="/css/responsive.css">
+		<meta name=viewport content="width=device-width, initial-scale=1">
+		<meta name="description" content="Developer and Artworker based in Manchester. Read my blogs covering the latest industry developments." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
+		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
+		<title>Scott Brabazon | Artworker/Developer | Manchester | Blog | <?php perch_blog_post_field(perch_get('s'), 'postTitle'); ?></title>
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
+		<!-- Favicon -->
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
-		<script src="../js/jquery-1.11.0.min.js"></script>
-		<script src="../js/menu.js"></script>
-		<script src="../js/image-effects.js"></script>
+		<!-- Javascript -->
+		<script src="/js/jquery-1.11.0.min.js"></script>
+		<script src="/js/menu.js"></script>
+		<script src="/js/lightbox/js/lightbox.min.js"></script>
+		<!-- CSS -->
+		<link rel="stylesheet" href="/css/main.css">
+		<link rel="stylesheet" href="/css/responsive.css">
+		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
 	</head>
 	<body>
 		<div class="mobile-nav">
