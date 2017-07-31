@@ -116,7 +116,7 @@
 				<div class="email">
 					<a href="mailto:hello@sbrabazon.com"><h3>hello@sbrabazon.com</h3></a>
 				</div>
-				<p>Download my latest CV by clicking <a href="/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
+				<p>Download my latest CV by clicking <a href="/downloads/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
 			</div>
 			<div class="flourish-mobile">
 				<img src="images/flourish.svg" alt="Flourish">
