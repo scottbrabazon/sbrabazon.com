@@ -20,7 +20,6 @@
 		<script src="/js/lightbox/js/lightbox.min.js"></script>
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/main.css">
-		<link rel="stylesheet" href="/css/responsive.css">
 		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
 	</head>
 	<body>
