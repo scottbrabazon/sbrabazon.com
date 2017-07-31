@@ -3,20 +3,24 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Scott Brabazon | Artworker/Developer | Manchester | Blog Archive</title>
+		<meta name=viewport content="width=device-width, initial-scale=1">
 		<meta name="description" content="Developer and Artworker based in Manchester. Read my blogs covering the latest industry developments." />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
-		<?php perch_get_css(); ?>
-		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="/css/main.css">
-		<link rel="stylesheet" href="/css/responsive.css">
 		<meta name="viewport" content="user-scalable=yes, width=300" />
+		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
+		<title>Scott Brabazon | Artworker/Developer | Manchester | Blog Archive</title>
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
+		<!-- Favicon -->
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
-		<script src="../js/jquery-1.11.0.min.js"></script>
-		<script src="../js/menu.js"></script>
-		<script src="../js/image-effects.js"></script>
+		<!-- Javascript -->
+		<script src="/js/jquery-1.11.0.min.js"></script>
+		<script src="/js/menu.js"></script>
+		<script src="/js/lightbox/js/lightbox.min.js"></script>
+		<!-- CSS -->
+		<link rel="stylesheet" href="/css/main.css">
+		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
 	</head>
 	<body>
 		<div class="mobile-nav">
@@ -40,29 +44,29 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="../index.php">Home</a></li>
-					<li><a href="../print">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
-					<li><a href="../3d">3D</a></li>
-					<li><a href="../blog" class="selected">Blog</a></li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/index.php">Home</a></li>
+					<li><a href="/print">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d">3D</a></li>
+					<li><a href="/blog" class="selected">Blog</a></li>
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'"/></a></li>
+					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'"/></a></li>
 					<li>|</li>						
-					<li><a href="../print">Print</a></li>
+					<li><a href="/print">Print</a></li>
 					<li>|</li>		
-					<li><a href="../digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="../3d">3D</a></li>
+					<li><a href="/3d">3D</a></li>
 					<li>|</li>
-					<li><a href="../blog" class="selected">Blog</a></li>
+					<li><a href="/blog" class="selected">Blog</a></li>
 					<li>|</li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -215,7 +219,8 @@
 				<ul>
 					<li>	
 						<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-							<img src="../images/linkedin.png">
+							<img src="
+							/images/linkedin.png">
 						</a>
 					</li>
 					<li>	

@@ -44,29 +44,29 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="../index.php">Home</a></li>
-					<li><a href="../print">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
-					<li><a href="../3d" class="selected">3D</a></li>
-					<li><a href="../blog">Blog</a></li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/index.php">Home</a></li>
+					<li><a href="/print">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d" class="selected">3D</a></li>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
-					<li><a href="../print">Print</a></li>
+					<li><a href="/print">Print</a></li>
 					<li>|</li>		
-					<li><a href="../digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="../3d" class="selected">3D</a></li>
+					<li><a href="/3d" class="selected">3D</a></li>
 					<li>|</li>
-					<li><a href="../blog">Blog</a></li>
+					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -76,13 +76,13 @@
 		<div class="big-grid">
 			<section>
 				<ul>
-					<li><img src="../images/wd40cans1.jpg" alt="WD40 Cans, Framework"></li>
-					<li><img src="../images/wd40cans2.jpg" alt="WD40 Cans, Rendered"></li>
+					<li><img src="/images/wd40cans1.jpg" alt="WD40 Cans, Framework"></li>
+					<li><img src="/images/wd40cans2.jpg" alt="WD40 Cans, Rendered"></li>
 				</ul>	
 			</section>
 		</div>
 		<div class="flourish-tablet-a">
-			<img src="../images/flourish.svg" alt="Flourish">
+			<img src="/images/flourish.svg" alt="Flourish">
 		</div>
 		<div class="blog-homepage">
 			<h2>Recent Blogs...</h2>	
@@ -98,7 +98,7 @@
 			<ul>
 				<li>	
 					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-						<img src="../images/linkedin.png" alt="LinkedIn">
+						<img src="/images/linkedin.png" alt="LinkedIn">
 					</a>
 				</li>
 				<li>	

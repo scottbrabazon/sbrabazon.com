@@ -44,29 +44,29 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="../index.php">Home</a></li>
-					<li><a href="../print">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
-					<li><a href="../3d" class="selected">3D</a></li>
-					<li><a href="../blog">Blog</a></li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/index.php">Home</a></li>
+					<li><a href="/print">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d" class="selected">3D</a></li>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
-					<li><a href="../print">Print</a></li>
+					<li><a href="/print">Print</a></li>
 					<li>|</li>		
-					<li><a href="../digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="../3d" class="selected">3D</a></li>
+					<li><a href="/3d" class="selected">3D</a></li>
 					<li>|</li>
-					<li><a href="../blog">Blog</a></li>
+					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -75,18 +75,18 @@
 		</header>
 		<div class="big-grid">
 			<ul>
-				<li><img src="../images/guitar2.jpg" alt="Epiphone 335 Dot Body, Framework"></img></li>
-				<li><img src="../images/guitar1.jpg" alt="Epiphone 335 Dot Body, Rendered"></img></li>
-				<li><img src="../images/guitar4.jpg" alt="Epiphone 335 Dot Head, Framework"></img></li>
-				<li><img src="../images/guitar3.jpg" alt="Epiphone 335 Dot Head, Rendered"></img></li>
-				<li><img src="../images/guitar6.jpg" alt="Epiphone 335 Dot Bridge, Framework"></img></li>
-				<li><img src="../images/guitar5.jpg" alt="Epiphone 335 Dot Bridge, Rendered"></img></li>
-				<li><img src="../images/guitar7.jpg" alt="Epiphone 335 Dot Pickup, Framework"></img></li>
-				<li><img src="../images/guitar8.jpg" alt="Epiphone 335 Dot Pickup, Rendered"></img></li>
+				<li><img src="/images/guitar2.jpg" alt="Epiphone 335 Dot Body, Framework"></img></li>
+				<li><img src="/images/guitar1.jpg" alt="Epiphone 335 Dot Body, Rendered"></img></li>
+				<li><img src="/images/guitar4.jpg" alt="Epiphone 335 Dot Head, Framework"></img></li>
+				<li><img src="/images/guitar3.jpg" alt="Epiphone 335 Dot Head, Rendered"></img></li>
+				<li><img src="/images/guitar6.jpg" alt="Epiphone 335 Dot Bridge, Framework"></img></li>
+				<li><img src="/images/guitar5.jpg" alt="Epiphone 335 Dot Bridge, Rendered"></img></li>
+				<li><img src="/images/guitar7.jpg" alt="Epiphone 335 Dot Pickup, Framework"></img></li>
+				<li><img src="/images/guitar8.jpg" alt="Epiphone 335 Dot Pickup, Rendered"></img></li>
 			</ul>	
 		</div>	
 		<div class="flourish-tablet-a">
-			<img src="../images/flourish.svg" alt="Flourish">
+			<img src="/images/flourish.svg" alt="Flourish">
 		</div>
 		<div class="blog-homepage">
 			<h2>Recent Blogs...</h2>	
@@ -102,7 +102,7 @@
 			<ul>
 				<li>	
 					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-						<img src="../images/linkedin.png" alt="LinkedIn">
+						<img src="/images/linkedin.png" alt="LinkedIn">
 					</a>
 				</li>
 				<li>	

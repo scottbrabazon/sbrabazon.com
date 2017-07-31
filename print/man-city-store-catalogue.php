@@ -44,29 +44,29 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="../index.php">Home</a></li>
-					<li><a href="../print" class="selected">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
-					<li><a href="../3d">3D</a></li>
-					<li><a href="../blog">Blog</a></li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/index.php">Home</a></li>
+					<li><a href="/print" class="selected">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d">3D</a></li>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
-					<li><a href="../print" class="selected">Print</a></li>
+					<li><a href="/print" class="selected">Print</a></li>
 					<li>|</li>		
-					<li><a href="../digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="../3d">3D</a></li>
+					<li><a href="/3d">3D</a></li>
 					<li>|</li>
-					<li><a href="../blog">Blog</a></li>
+					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -75,26 +75,26 @@
 		</header>
 		<div class="home-gallery">
 			<ul>
-				<li><a href="../images/mcfc_084_001_front_back.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_084_001_front_back.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_002_003_intro.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_002_003_intro.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_004_005_intro_2.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_004_005_intro_2.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_008_009_home_kit.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_008_009_home_kit.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_014_015_personalisation.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_014_015_personalisation.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_024_025_my_first_game.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_024_025_my_first_game.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_026_027_retro.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_026_027_retro.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_034_035_essentials.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_034_035_essentials.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_038_039_essentials_2for20.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_038_039_essentials_2for20.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_040_041_essentials_2for15.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_040_041_essentials_2for15.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_046_047_essentials_womens_2for20.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_046_047_essentials_womens_2for20.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_052_053_accessories.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_052_053_accessories.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_058_059_keyrings_badges.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_058_059_keyrings_badges.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_068_069_christmas_soft_toys.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_068_069_christmas_soft_toys.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_062_063_soft_toys_stationery.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_062_063_soft_toys_stationery.jpg" alt="City Store Catalogue 2010/11"></a></li>
-				<li><a href="../images/mcfc_072_073_mugs_retro_gifts.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="../images/mcfc_072_073_mugs_retro_gifts.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_084_001_front_back.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_084_001_front_back.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_002_003_intro.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_002_003_intro.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_004_005_intro_2.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_004_005_intro_2.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_008_009_home_kit.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_008_009_home_kit.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_014_015_personalisation.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_014_015_personalisation.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_024_025_my_first_game.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_024_025_my_first_game.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_026_027_retro.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_026_027_retro.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_034_035_essentials.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_034_035_essentials.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_038_039_essentials_2for20.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_038_039_essentials_2for20.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_040_041_essentials_2for15.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_040_041_essentials_2for15.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_046_047_essentials_womens_2for20.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_046_047_essentials_womens_2for20.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_052_053_accessories.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_052_053_accessories.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_058_059_keyrings_badges.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_058_059_keyrings_badges.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_068_069_christmas_soft_toys.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_068_069_christmas_soft_toys.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_062_063_soft_toys_stationery.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_062_063_soft_toys_stationery.jpg" alt="City Store Catalogue 2010/11"></a></li>
+				<li><a href="/images/mcfc_072_073_mugs_retro_gifts.jpg" data-lightbox="wc" data-title="City Store Catalogue 2011"><img src="/images/mcfc_072_073_mugs_retro_gifts.jpg" alt="City Store Catalogue 2010/11"></a></li>
 			</ul>	
 		</div>
 		<div class="flourish-tablet-a">
-			<img src="../images/flourish.svg" alt="Flourish">
+			<img src="/images/flourish.svg" alt="Flourish">
 		</div>
 		<div class="blog-homepage">
 			<h2>Recent Blogs...</h2>	
@@ -111,7 +111,7 @@
 				<ul>
 					<li>	
 						<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-							<img src="../images/linkedin.png" alt="LinkedIn">
+							<img src="/images/linkedin.png" alt="LinkedIn">
 						</a>
 					</li>
 					<li>	

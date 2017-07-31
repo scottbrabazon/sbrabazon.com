@@ -44,29 +44,29 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="../index.php">Home</a></li>
-					<li><a href="../print" class="selected">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
-					<li><a href="../3d">3D</a></li>
-					<li><a href="../blog">Blog</a></li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/index.php">Home</a></li>
+					<li><a href="/print" class="selected">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d">3D</a></li>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
-					<li><a href="../print" class="selected">Print</a></li>
+					<li><a href="/print" class="selected">Print</a></li>
 					<li>|</li>		
-					<li><a href="../digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="../3d">3D</a></li>
+					<li><a href="/3d">3D</a></li>
 					<li>|</li>
-					<li><a href="../blog">Blog</a></li>
+					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -76,50 +76,50 @@
 		<div class="home-gallery">
 			<ul>
 				<li>
-					<a href="../images/argos_ss2012_009.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="../images/argos_ss2012_009.jpg" alt="Argos Catalogue"></a>
+					<a href="/images/argos_ss2012_009.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="/images/argos_ss2012_009.jpg" alt="Argos Catalogue"></a>
 					<div class="flourish-mobile">
-						<img src="../images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div></li>
 				<li>
-					<a href="../images/argos_ss2012_013.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="../images/argos_ss2012_013.jpg" alt="Argos Catalogue"></a>
+					<a href="/images/argos_ss2012_013.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="/images/argos_ss2012_013.jpg" alt="Argos Catalogue"></a>
 					<div class="flourish-mobile">
-						<img src="../images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div></li>
 				<li>
-					<a href="../images/argos_ss2012_031.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="../images/argos_ss2012_031.jpg" alt="Argos Catalogue"></a>
+					<a href="/images/argos_ss2012_031.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="/images/argos_ss2012_031.jpg" alt="Argos Catalogue"></a>
 					<div class="flourish-mobile">
-						<img src="../images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div></li>
 				<li>
-					<a href="../images/argos_ss2012_034.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="../images/argos_ss2012_034.jpg" alt="Argos Catalogue"></a>
+					<a href="/images/argos_ss2012_034.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="/images/argos_ss2012_034.jpg" alt="Argos Catalogue"></a>
 					<div class="flourish-mobile">
-						<img src="../images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div></li>
 				<li>
-					<a href="../images/argos_ss2012_036.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="../images/argos_ss2012_036.jpg" alt="Argos Catalogue"></a>
+					<a href="/images/argos_ss2012_036.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="/images/argos_ss2012_036.jpg" alt="Argos Catalogue"></a>
 					<div class="flourish-mobile">
-						<img src="../images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div></li>
 				<li>
-					<a href="../images/argos_ss2012_039.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="../images/argos_ss2012_039.jpg" alt="Argos Catalogue"></a>
+					<a href="/images/argos_ss2012_039.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="/images/argos_ss2012_039.jpg" alt="Argos Catalogue"></a>
 					<div class="flourish-mobile">
-						<img src="../images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div></li>
 				<li>
-					<a href="../images/argos_ss2012_044.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="../images/argos_ss2012_044.jpg" alt="Argos Catalogue"></a>
+					<a href="/images/argos_ss2012_044.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="/images/argos_ss2012_044.jpg" alt="Argos Catalogue"></a>
 					<div class="flourish-mobile">
-						<img src="../images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div></li>
 				<li>
-					<a href="../images/argos_ss2012_051.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="../images/argos_ss2012_051.jpg" alt="Argos Catalogue"></a>
+					<a href="/images/argos_ss2012_051.jpg" data-lightbox="wc" data-title="Argos Catalogue"><img src="/images/argos_ss2012_051.jpg" alt="Argos Catalogue"></a>
 					<div class="flourish-mobile">
-						<img src="../images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 			</ul>	
 		</div>
 		<div class="flourish-tablet-a">
-			<img src="../images/flourish.svg">
+			<img src="/images/flourish.svg">
 		</div>
 		<div class="blog-homepage">
 			<h2>Recent Blogs...</h2>	
@@ -136,7 +136,7 @@
 				<ul>
 					<li>	
 						<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-							<img src="../images/linkedin.png" alt="LinkedIn">
+							<img src="/images/linkedin.png" alt="LinkedIn">
 						</a>
 					</li>
 					<li>	

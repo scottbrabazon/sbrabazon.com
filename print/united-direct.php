@@ -44,29 +44,29 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="../index.php">Home</a></li>
-					<li><a href="../print" class="selected">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
-					<li><a href="../3d">3D</a></li>
-					<li><a href="../blog">Blog</a></li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/index.php">Home</a></li>
+					<li><a href="/print" class="selected">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d">3D</a></li>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
-					<li><a href="../print" class="selected">Print</a></li>
+					<li><a href="/print" class="selected">Print</a></li>
 					<li>|</li>		
-					<li><a href="../digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="../3d">3D</a></li>
+					<li><a href="/3d">3D</a></li>
 					<li>|</li>
-					<li><a href="../blog">Blog</a></li>
+					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/contact.php">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -75,62 +75,62 @@
 		</header>
 		<div class="home-gallery">
 			<ul>
-				<li><a href="../images/mufc20112.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc20112.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc20112.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc20112.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc20113.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc20113.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc20113.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc20113.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc20114.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc20114.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc20114.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc20114.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc20115.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc20115.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc20115.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc20115.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc20116.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc20116.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc20116.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc20116.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc20117.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc20117.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc20117.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc20117.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc20118.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc20118.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc20118.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc20118.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc201110.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc201110.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc201110.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc201110.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc201115.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc201115.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc201115.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc201115.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc201117.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc201117.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc201117.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc201117.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc201120.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc201120.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc201120.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc201120.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc201121.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc201121.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc201121.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc201121.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
-				<li><a href="../images/mufc201145.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="../images/mufc201145.jpg" alt="United Direct 2011/12"></a>
+				<li><a href="/images/mufc201145.jpg" data-lightbox="wc" data-title="United Direct 2011"><img src="/images/mufc201145.jpg" alt="United Direct 2011/12"></a>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div></li>
 			</ul>	
 		</div>
 		<div class="flourish-tablet-a">
-			<img src="../images/flourish.svg" alt="Flourish">
+			<img src="/images/flourish.svg" alt="Flourish">
 		</div>
 		<div class="blog-homepage">
 			<h2>Recent Blogs...</h2>	
@@ -147,7 +147,7 @@
 				<ul>
 					<li>	
 						<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-							<img src="../images/linkedin.png" alt="LinkedIn">
+							<img src="/images/linkedin.png" alt="LinkedIn">
 						</a>
 					</li>
 					<li>	
