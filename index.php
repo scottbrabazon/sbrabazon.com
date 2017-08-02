@@ -94,8 +94,8 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="print/mancitystore" class="grow-rotate"><img src="images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
-					<a href="print/mancitystore">City Store Shop</a></p>
+					<p><a href="print/man-city-store" class="grow-rotate"><img src="images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
+					<a href="print/man-city-store">City Store Shop</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>

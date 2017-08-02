@@ -39,7 +39,7 @@
 					<li><a href="/digital">Digital</a></li>		
 					<li><a href="/3d">3D</a></li>
 					<li><a href="/blog" class="selected">Blog</a></li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	

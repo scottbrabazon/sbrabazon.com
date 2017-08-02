@@ -123,7 +123,7 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="support-for-life.php" target="blank" class="grow-rotate"><img src="/images/support-for-life-thumbnail.png" alt="Support For Life Video"><br></a>
+					<p><a href="support-for-life" target="blank" class="grow-rotate"><img src="/images/support-for-life-thumbnail.png" alt="Support For Life Video"><br></a>
 					<a href="support-for-life" target="blank">Support For Life Video</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
