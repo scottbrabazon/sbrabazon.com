@@ -35,19 +35,19 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="/index.php">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li><a href="/print">Print</a></li>	
 					<li><a href="/digital" class="selected">Digital</a></li>		
 					<li><a href="/3d">3D</a></li>
 					<li><a href="/blog">Blog</a></li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
 					<li><a href="/print">Print</a></li>
 					<li>|</li>		
@@ -57,7 +57,7 @@
 					<li>|</li>
 					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -124,7 +124,7 @@
 				</li>
 				<li>
 					<p><a href="support-for-life.php" target="blank" class="grow-rotate"><img src="/images/support-for-life-thumbnail.png" alt="Support For Life Video"><br></a>
-					<a href="support-for-life.php" target="blank">Support For Life Video</a></p>
+					<a href="support-for-life" target="blank">Support For Life Video</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>

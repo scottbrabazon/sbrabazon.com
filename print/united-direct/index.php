@@ -1,4 +1,4 @@
-<?php include('../perch/runtime.php');?>
+<?php include('../../perch/runtime.php');?>
 
 <!DOCTYPE html>
 <html>
@@ -35,19 +35,19 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="/index.php">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li><a href="/print" class="selected">Print</a></li>	
 					<li><a href="/digital">Digital</a></li>		
 					<li><a href="/3d">3D</a></li>
 					<li><a href="/blog">Blog</a></li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
 					<li><a href="/print" class="selected">Print</a></li>
 					<li>|</li>		
@@ -57,7 +57,7 @@
 					<li>|</li>
 					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	

@@ -34,29 +34,29 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="index.php" class="selected">Home</a></li>
-					<li><a href="print">Print</a></li>	
-					<li><a href="digital">Digital</a></li>		
-					<li><a href="3d">3D</a></li>
-					<li><a href="blog">Blog</a></li>
-					<li><a href="contact.php">Contact</a></li>	
+					<li><a href="/" class="selected">Home</a></li>
+					<li><a href="/print">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d">3D</a></li>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="index.php"><img src="images/home-icon-gold.svg" onmouseover="this.src='images/home-icon-gold.svg'" onmouseout="this.src='images/home-icon-black.svg'" alt="Home"></a></li>
+					<li><a href="/"><img src="images/home-icon-gold.svg" onmouseover="this.src='images/home-icon-gold.svg'" onmouseout="this.src='images/home-icon-black.svg'" alt="Home"></a></li>
 					<li>|</li>						
-					<li><a href="print">Print</a></li>
+					<li><a href="/print">Print</a></li>
 					<li>|</li>		
-					<li><a href="digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="3d">3D</a></li>
+					<li><a href="/3d">3D</a></li>
 					<li>|</li>
-					<li><a href="blog">Blog</a></li>
+					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -66,8 +66,8 @@
 		<div class="home-gallery">
 			<ul>
 				<li>
-					<p><a href="print/fifa-world-cup-2010.php" class="grow-rotate"><img src="images/world-cup-thumbnail.png" alt="FIFA World Cup 2010"><br></a>
-					<a href="print/fifa-world-cup-2010.php">FIFA World Cup 2010</a></p>
+					<p><a href="print/fifa-world-cup-2010" class="grow-rotate"><img src="images/world-cup-thumbnail.png" alt="FIFA World Cup 2010"><br></a>
+					<a href="print/fifa-world-cup-2010">FIFA World Cup 2010</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
@@ -87,15 +87,15 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="3d/wd40cans.php" class="grow-rotate"><img src="images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
-					<a href="3d/wd40cans.php">WD40 Cans</a></p>
+					<p><a href="3d/wd40cans" class="grow-rotate"><img src="images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
+					<a href="3d/wd40cans">WD40 Cans</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="print/mancitystore.php" class="grow-rotate"><img src="images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
-					<a href="print/mancitystore.php">City Store Shop</a></p>
+					<p><a href="print/mancitystore" class="grow-rotate"><img src="images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
+					<a href="print/mancitystore">City Store Shop</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
@@ -115,22 +115,22 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="3d/guitar.php" class="grow-rotate"><img src="images/guitar_thumbnail.png" alt="Epiphone 335 Dot"><br></a>
-					<a href="3d/guitar.php">Epiphone 335 Dot</a></p>
+					<p><a href="3d/guitar" class="grow-rotate"><img src="images/guitar_thumbnail.png" alt="Epiphone 335 Dot"><br></a>
+					<a href="3d/guitar">Epiphone 335 Dot</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>	
 				<li>
-					<p><a href="print/united-direct.php" class="grow-rotate"><img src="images/mufc2011_thumbnail.png" alt="United Direct"><br></a>
-					<a href="print/united-direct.php">United Direct</a></p>
+					<p><a href="print/united-direct" class="grow-rotate"><img src="images/mufc2011_thumbnail.png" alt="United Direct"><br></a>
+					<a href="print/united-direct">United Direct</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="3d/hublot-animation.php" class="grow-rotate"><img src="images/hublot-thumbnail.png" alt="Hublot Animation"><br></a>
-					<a href="3d/hublot-animation.php">Hublot Animation</a></p>
+					<p><a href="3d/hublot-animation" class="grow-rotate"><img src="images/hublot-thumbnail.png" alt="Hublot Animation"><br></a>
+					<a href="3d/hublot-animation">Hublot Animation</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
@@ -143,8 +143,8 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="print/argos.php" class="grow-rotate"><img src="images/argos_ss2012_thumbnail.png" alt="Argos Catalogue"><br></a>
-					<a href="print/argos.php">Argos Catalogue</a></p>
+					<p><a href="print/argos" class="grow-rotate"><img src="images/argos_ss2012_thumbnail.png" alt="Argos Catalogue"><br></a>
+					<a href="print/argos">Argos Catalogue</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
@@ -157,8 +157,8 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="print/sw6.php" class="grow-rotate"><img src="images/chelsea_thumbnail.png" alt="SW6"><br></a>
-					<a href="print/sw6.php">SW6</a></p>
+					<p><a href="print/sw6" class="grow-rotate"><img src="images/chelsea_thumbnail.png" alt="SW6"><br></a>
+					<a href="print/sw6">SW6</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
@@ -171,8 +171,8 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="print/man-city-store-catalogue.php" class="grow-rotate"><img src="images/mcfc_thumbnail.png" alt="City Store Catalogue"><br></a>
-					<a href="print/man-city-store-catalogue.php">City Store Catalogue</a></p>
+					<p><a href="print/man-city-store-catalogue" class="grow-rotate"><img src="images/mcfc_thumbnail.png" alt="City Store Catalogue"><br></a>
+					<a href="print/man-city-store-catalogue">City Store Catalogue</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>
@@ -192,8 +192,8 @@
 					</div>
 				</li>
 				<li>
-					<p><a href="digital/support-for-life.php" target="blank" class="grow-rotate"><img src="images/support-for-life-thumbnail.png" alt="Support For Life Video"><br></a>
-					<a href="digital/support-for-life.php" target="blank">Support For Life Video</a></p>
+					<p><a href="digital/support-for-life" target="blank" class="grow-rotate"><img src="images/support-for-life-thumbnail.png" alt="Support For Life Video"><br></a>
+					<a href="digital/support-for-life" target="blank">Support For Life Video</a></p>
 					<div class="flourish-mobile">
 						<img src="images/flourish.svg" alt="Flourish">
 					</div>

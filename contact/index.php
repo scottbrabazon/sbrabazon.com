@@ -1,4 +1,4 @@
-<?php include('perch/runtime.php');?>
+<?php include('../perch/runtime.php');?>
 
 <!DOCTYPE html>
 <html>
@@ -34,29 +34,29 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="index.php">Home</a></li>
-					<li><a href="print">Print</a></li>	
-					<li><a href="digital">Digital</a></li>		
-					<li><a href="3d">3D</a></li>
-					<li><a href="blog">Blog</a></li>
-					<li><a href="contact.php" class="selected">Contact</a></li>	
+					<li><a href="/">Home</a></li>
+					<li><a href="/print">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d">3D</a></li>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/contact" class="selected">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="index.php"><img src="images/home-icon-black.svg" onmouseover="this.src='images/home-icon-gold.svg'" onmouseout="this.src='images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
-					<li><a href="print">Print</a></li>
+					<li><a href="/print">Print</a></li>
 					<li>|</li>		
-					<li><a href="digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="3d">3D</a></li>
+					<li><a href="/3d">3D</a></li>
 					<li>|</li>
-					<li><a href="blog">Blog</a></li>
+					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="contact.php" class="selected">Contact</a></li>	
+					<li><a href="/contact" class="selected">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -109,7 +109,7 @@
 				</p>
 				<h2><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
 				<div class="email">
-					<a href="mailto:hello@sbrabazon.com"><h3>hello@sbrabazon.com</h3></a>
+					<a href="mailto:hello@scottbrabazon.com"><h3>hello@scottbrabazon.com</h3></a>
 				</div>
 				<p>Download my latest CV by clicking <a href="/downloads/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
 			</div>
@@ -137,7 +137,7 @@
 			<ul>
 				<li>	
 					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-						<img src="images/linkedin.png" alt="LinkedIn">
+						<img src="/images/linkedin.png" alt="LinkedIn">
 					</a>
 				</li>
 				<li>	

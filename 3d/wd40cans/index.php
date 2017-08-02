@@ -1,14 +1,14 @@
-<?php include('../perch/runtime.php');?>
+<?php include('../../perch/runtime.php');?>
 
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
 		<meta name=viewport content="width=device-width, initial-scale=1">
-		<meta name="description" content="Developer and Artworker based in Manchester. Specialising in video production." />
+		<meta name="description" content="Developer and Artworker based in Manchester. Specialising in Cinema 4D modelling and animation." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
 		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
-		<title>Scott Brabazon | Artworker/Developer | Manchester | Digital</title>
+		<title>Scott Brabazon | Artworker/Developer | Manchester | 3D | WD40 Cans</title>
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
@@ -35,41 +35,42 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="/index.php">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li><a href="/print">Print</a></li>	
-					<li><a href="/digital" class="selected">Digital</a></li>		
-					<li><a href="/3d">3D</a></li>
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d" class="selected">3D</a></li>
 					<li><a href="/blog">Blog</a></li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
 					<li><a href="/print">Print</a></li>
 					<li>|</li>		
-					<li><a href="/digital" class="selected">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="/3d">3D</a></li>
+					<li><a href="/3d" class="selected">3D</a></li>
 					<li>|</li>
 					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
 		<header>
-			<h1>Support For Life Video</h1>
+			<h1>WD40 Cans</h1>
 		</header>
 		<div class="big-grid">
-			<div class="container">
-				<iframe src="http://www.youtube.com/embed/klbjW4Lb7Sg?showinfo=0&modestbranding=1&autohide=1&rel=0" 
-					frameborder="0" allowfullscreen class="video">
-				</iframe>
-			</div>
+			<section>
+				<ul>
+					<li><img src="/images/wd40cans1.jpg" alt="WD40 Cans, Framework"></li>
+					<li><img src="/images/wd40cans2.jpg" alt="WD40 Cans, Rendered"></li>
+				</ul>	
+			</section>
 		</div>
 		<div class="flourish-tablet-a">
 			<img src="/images/flourish.svg" alt="Flourish">
@@ -87,7 +88,9 @@
 		<footer>
 			<ul>
 				<li>	
-					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank"><img src="/images/linkedin.png" alt="LinkedIn"></a>
+					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
+						<img src="/images/linkedin.png" alt="LinkedIn">
+					</a>
 				</li>
 				<li>	
 					<p>&copy; 2017 Scott Brabazon</p>

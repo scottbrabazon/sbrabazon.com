@@ -35,19 +35,19 @@
 			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="/index.php">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li><a href="/print">Print</a></li>	
 					<li><a href="/digital">Digital</a></li>		
 					<li><a href="/3d" class="selected">3D</a></li>
 					<li><a href="/blog">Blog</a></li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
 					<li><a href="/print">Print</a></li>
 					<li>|</li>		
@@ -57,7 +57,7 @@
 					<li>|</li>
 					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -67,22 +67,22 @@
 		<div class="home-gallery">
 			<ul>
 				<li>
-					<p><a href="guitar.php" class="grow-rotate"><img src="../images/guitar_thumbnail.png" alt="Epiphone 335 Dot"><br></a>
-					<a href="guitar.php">Epiphone 335 Dot</a></p>
+					<p><a href="guitar" class="grow-rotate"><img src="/images/guitar_thumbnail.png" alt="Epiphone 335 Dot"><br></a>
+					<a href="guitar">Epiphone 335 Dot</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg">
 					</div>	
 				</li>
 				<li>
-					<p><a href="hublot-animation.php" class="grow-rotate"><img src="/images/hublot-thumbnail.png" alt="Hublot Animation"><br></a>
-					<a href="hublot-animation.php">Hublot Animation</a></p>
+					<p><a href="hublot-animation" class="grow-rotate"><img src="/images/hublot-thumbnail.png" alt="Hublot Animation"><br></a>
+					<a href="hublot-animation">Hublot Animation</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="wd40cans.php" class="grow-rotate"><img src="/images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
-					<a href="wd40cans.php">WD40 Cans</a></p>
+					<p><a href="wd40cans" class="grow-rotate"><img src="/images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
+					<a href="wd40cans">WD40 Cans</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>

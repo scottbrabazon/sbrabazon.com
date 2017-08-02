@@ -13,7 +13,7 @@
     define('PERCH_EMAIL_FROM_NAME', 'Scott Brabazon');
 
     define('PERCH_EMAIL_METHOD', 'smtp');
-    define('PERCH_EMAIL_HOST', 'mail.scottbrabazon.com');
+    define('PERCH_EMAIL_HOST', 'srv601.webhostingforstudents.com');
     define('PERCH_EMAIL_AUTH', TRUE);
     define('PERCH_EMAIL_SECURE', 'ssl');
     define('PERCH_EMAIL_PORT', 465);
