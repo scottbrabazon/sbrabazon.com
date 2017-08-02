@@ -20,7 +20,7 @@
 	</p>
     <perch:if exists="image">
         <div>
-            <img src="<perch:blog id="image" type="image" label="Image (Must be 728px x 294px)" order="4" />" alt="<perch:blog id="postTitle" />" />
+            <img src="<perch:blog id="image" type="image" label="Image (Main image: Must be 728px x 294px)" order="4" />" alt="<perch:blog id="postTitle" />" />
         </div>
     </perch:if>
     <div class="description e-content">
@@ -28,5 +28,5 @@
     </div>
 </article>
 
-<perch:blog id="excerpt" type="textarea" label="Excerpt" markdown="true" order="3" suppress="true" size="s" />
-<perch:blog id="image" type="image" width="50" height="50" crop="true" suppress="true" />
+<perch:blog id="excerpt" type="textarea" label="Excerpt" markdown="true" order="5" suppress="true" size="s" />
+<perch:blog id="teaser-image" type="image" label="Image (Teaser image: Must be 481px x 194px)" order="2" alt="<perch:blog id="postTitle" />" />

@@ -2,8 +2,11 @@
 <ul class="hfeed listing"></perch:before>
     <li class="hentry">
         <h3><a href="<perch:blog id="postURL" />" rel="bookmark" class="entry-title"><perch:blog id="postTitle" /></a></h3>
-        <perch:if exists="image"><img src="<perch:blog id="image" type="image" width="50" height="50" />" alt="<perch:blog id="postTitle" />" /></perch:if>
-        <div class="description entry-summary">
+
+         <perch:if exists="image"><img src="<perch:blog id="teaser-image" type="image" label="Image (Teaser image: Must be 481px x 194px)" order="5" />" alt="<perch:blog id="postTitle" />" /></perch:if>
+
+<!--         <perch:if exists="image"><img src="<perch:blog id="image" type="image" width="50" height="50" />" alt="<perch:blog id="postTitle" />" /></perch:if>
+ -->        <div class="description entry-summary">
         <perch:blog id="excerpt" type="textarea" textile="true" />
         </div>
         <div class="flourish-mobile">
