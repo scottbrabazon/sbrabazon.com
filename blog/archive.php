@@ -9,17 +9,8 @@
 		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
 		<title>Scott Brabazon | Artworker/Developer | Manchester | Blog Archive</title>
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
-		<!-- Fonts -->
-		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-		<!-- Favicon -->
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
-		<!-- Javascript -->
-		<script src="/js/jquery-1.11.0.min.js"></script>
-		<script src="/js/menu.js"></script>
-		<script src="/js/lightbox/js/lightbox.min.js"></script>
 		<!-- CSS -->
-		<link rel="stylesheet" href="/css/main.css">
+		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
 	</head>
 	<body>
@@ -228,7 +219,17 @@
 					</li>
 				</ul>
 			</footer>
-		</div>	
+		</div>
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<!-- Javascript -->
+		<script src="/js/jquery-1.11.0.min.js"></script>
+		<script src="/js/menu.js"></script>
+		<script src="/js/lightbox/js/lightbox.min.js"></script>
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
+		<!-- Google Analytics -->
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

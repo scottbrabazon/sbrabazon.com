@@ -9,15 +9,15 @@
     
     define('PERCH_TZ', 'UTC');
 
-    define('PERCH_EMAIL_FROM', 'hello@sbrabazon.com');
+    define('PERCH_EMAIL_FROM', 'hello@scottbrabazon.com');
     define('PERCH_EMAIL_FROM_NAME', 'Scott Brabazon');
 
     define('PERCH_EMAIL_METHOD', 'smtp');
-    define('PERCH_EMAIL_HOST', 'mail.sbrabazon.com');
+    define('PERCH_EMAIL_HOST', 'mail.scottbrabazon.com');
     define('PERCH_EMAIL_AUTH', TRUE);
     define('PERCH_EMAIL_SECURE', 'ssl');
     define('PERCH_EMAIL_PORT', 465);
-    define('PERCH_EMAIL_USERNAME', 'hello@sbrabazon.com');
+    define('PERCH_EMAIL_USERNAME', 'hello@scottbrabazon.com');
     define('PERCH_EMAIL_PASSWORD', 'S0n1cB00m');
 
     define('PERCH_LOGINPATH', '/perch');

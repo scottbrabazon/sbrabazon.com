@@ -1,12 +1,3 @@
-/* *******Global******** */
-@import "_normalize.scss";
-
-/* *******Definings******** */
-@import "_variables.scss";
-@import "_type.scss";
-
-/* *******General******** */
-
 html { background-color: #000 }
 
 img {
@@ -433,5 +424,3 @@ form {
 
 .mobile-nav-links {display:none;}
 .mobile-nav-links.open {display:inline-block;}
-
-@import "_responsive.scss";
