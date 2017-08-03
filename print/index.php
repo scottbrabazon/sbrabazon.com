@@ -4,19 +4,18 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<meta name=viewport content="wclassth=device-wclassth, initial-scale=1">
-		<title>Scott Brabazon | Artworker/Developer | South Manchester | Print</title>
-		<meta name="description" content="Developer and Artworker based in South Manchester. Specialising in retouching and print ready artwork." />
-		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="/css/main.css">
-		<link rel="stylesheet" href="/css/responsive.css">
+		<meta name=viewport content="width=device-width, initial-scale=1">
+		<meta name="description" content="Developer and Artworker based in Manchester. Specialising in retouching and print ready artwork." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
+		<title>Scott Brabazon | Artworker/Developer | Manchester | Print</title>
+		<!-- CSS -->
+		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
 	</head>
 	<body>
 		<div class="mobile-nav">
-			<button class="mobile-nav-toggle">
+			<div class="mobile-nav-toggle">
 				<div class='open-close-button'>
 					<svg version="1.1" id="_x2014_ÎÓÈ_x5F_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 					x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
@@ -33,32 +32,32 @@
 						</g>		
 					</svg>
 				</div>
-			</button>
+			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="../index.php">Home</a></li>
-					<li><a href="../print" class="selected">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
-					<li><a href="../3d">3D</a></li>
-					<li><a href="../blog">Blog</a></li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/">Home</a></li>
+					<li><a href="/print" class="selected">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d">3D</a></li>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
-					<li><a href="../print" class="selected">Print</a></li>
+					<li><a href="/print" class="selected">Print</a></li>
 					<li>|</li>		
-					<li><a href="../digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="../3d">3D</a></li>
+					<li><a href="/3d">3D</a></li>
 					<li>|</li>
-					<li><a href="../blog">Blog</a></li>
+					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -68,51 +67,51 @@
 		<div class="home-gallery">
 			<ul>
 				<li>
-					<p><a href="mancitystore.php"><img src="../images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
-					<a href="mancitystore.php">City Store Shop</a></p>
+					<p><a href="man-city-store" class="grow-rotate"><img src="/images/mancitystore_thumbnail.png" alt="City Store Shop"><br></a>
+					<a href="man-city-store">City Store Shop</a></p>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="fifa-world-cup-2010.php"><img src="../images/world-cup-thumbnail.png" alt="FIFA World Cup 2010"><br></a>
-					<a href="fifa-world-cup-2010.php">FIFA World Cup 2010</a></p>
+					<p><a href="fifa-world-cup-2010" class="grow-rotate"><img src="/images/world-cup-thumbnail.png" alt="FIFA World Cup 2010"><br></a>
+					<a href="fifa-world-cup-2010">FIFA World Cup 2010</a></p>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="united-direct.php"><img src="../images/mufc2011_thumbnail.png" alt="United Direct"><br></a>
-					<a href="united-direct.php">United Direct</a></p>
+					<p><a href="united-direct" class="grow-rotate"><img src="/images/mufc2011_thumbnail.png" alt="United Direct"><br></a>
+					<a href="united-direct">United Direct</a></p>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="argos.php"><img src="../images/argos_ss2012_thumbnail.png" alt="Argos Catalogue"><br></a>
-					<a href="argos.php">Argos Catalogue</a></p>
+					<p><a href="argos" class="grow-rotate"><img src="/images/argos_ss2012_thumbnail.png" alt="Argos Catalogue"><br></a>
+					<a href="argos">Argos Catalogue</a></p>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="sw6.php"><img src="../images/chelsea_thumbnail.png" alt="SW6"><br></a>
-					<a href="sw6.php">SW6</a></p>
+					<p><a href="sw6" class="grow-rotate"><img src="/images/chelsea_thumbnail.png" alt="SW6"><br></a>
+					<a href="sw6">SW6</a></p>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 				<li>
-					<p><a href="man-city-store-catalogue.php"><img src="../images/mcfc_thumbnail.png" alt="City Store Catalogue"><br></a>
-					<a href="man-city-store-catalogue.php">City Store Catalogue</a></p>
+					<p><a href="man-city-store-catalogue" class="grow-rotate"><img src="/images/mcfc_thumbnail.png" alt="City Store Catalogue"><br></a>
+					<a href="man-city-store-catalogue">City Store Catalogue</a></p>
 				<div class="flourish-mobile">
-					<img src="../images/flourish.svg" alt="Flourish">
+					<img src="/images/flourish.svg" alt="Flourish">
 				</div>
 				</li>
 			</ul>	
 		</div>	
 		<div class="flourish-tablet-a">
-			<img src="../images/flourish.svg" alt="Flourish">
+			<img src="/images/flourish.svg" alt="Flourish">
 		</div>
 		<div class="blog-homepage">
 			<h2>Recent Blogs...</h2>	
@@ -129,7 +128,7 @@
 				<ul>
 					<li>	
 						<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-							<img src="../images/linkedin.png" alt="LinkedIn">
+							<img src="/images/linkedin.png" alt="LinkedIn">
 						</a>
 					</li>
 					<li>	
@@ -138,9 +137,16 @@
 				</ul>
 			</footer>
 		</div>
-		<script src="../js/jquery-1.11.0.min.js"></script>
-		<script src="../js/lightbox.js"></script>
-		<script src="../js/menu.js"></script>
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<!-- Javascript -->
+		<script src="/js/jquery-1.11.0.min.js"></script>
+		<script src="/js/menu.js"></script>
+		<script src="/js/lightbox/js/lightbox.min.js"></script>
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
+		<!-- Google Analytics -->
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

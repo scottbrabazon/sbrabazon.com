@@ -5,18 +5,17 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name=viewport content="width=device-width, initial-scale=1">
-		<title>Scott Brabazon | Artworker/Developer | South Manchester | Digital</title>
-		<meta name="description" content="Developer and Artworker based in South Manchester. Specialising in Wordpress development." />
-		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="/css/main.css">
-		<link rel="stylesheet" href="/css/responsive.css">
+		<meta name="description" content="Developer and Artworker based in Manchester. Specialising in Wordpress development." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
+		<title>Scott Brabazon | Artworker/Developer | Manchester | Digital</title>
+		<!-- CSS -->
+		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
 	</head>
 	<body>
 		<div class="mobile-nav">
-			<button class="mobile-nav-toggle">
+			<div class="mobile-nav-toggle">
 				<div class='open-close-button'>
 					<svg version="1.1" id="_x2014_ÎÓÈ_x5F_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 					x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
@@ -33,22 +32,22 @@
 						</g>		
 					</svg>
 				</div>
-			</button>
+			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="/index.php">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li><a href="/print">Print</a></li>	
 					<li><a href="/digital" class="selected">Digital</a></li>		
 					<li><a href="/3d">3D</a></li>
 					<li><a href="/blog">Blog</a></li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="/index.php"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
+					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
 					<li>|</li>						
 					<li><a href="/print">Print</a></li>
 					<li>|</li>		
@@ -58,7 +57,7 @@
 					<li>|</li>
 					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
-					<li><a href="/contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -68,78 +67,78 @@
 		<div class="home-gallery">
 			<ul>
 				<li>
-					<p><a href="https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0" target="popup" onclick="window.open('https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0','Warren Partners Email','width=615,height=800')"><img src="/images/warren-email-xmas-thumbnail.png" alt="Warren Partners Email"><br></a>
+					<p><a href="https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0" target="popup" onclick="window.open('https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0','Warren Partners Email','width=615,height=800')" class="grow-rotate"><img src="/images/warren-email-xmas-thumbnail.png" alt="Warren Partners Email"><br></a>
 					<a href="https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0" target="popup" onclick="window.open('https://thefoundrycommunicationsltd.createsend.com/campaigns/reports/viewCampaign.aspx?d=y&c=A3938B31DD12D0E0&ID=7313905F54A57F95&temp=False&tx=0','Warren Partners Email','width=615,height=800')">Warren Partners Email</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="https://www.localpensionspartnership.org.uk/" target="blank"><img src="/images/lpp-thumbnail.png" alt="LPP Website"><br></a>
+					<p><a href="https://www.localpensionspartnership.org.uk/" target="blank" class="grow-rotate"><img src="/images/lpp-thumbnail.png" alt="LPP Website"><br></a>
 					<a href="https://www.localpensionspartnership.org.uk/" target="blank">LPP Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="http://www.brandinaction.com/" target="blank"><img src="/images/bia-thumbnail.png" alt="Brand In Action Website"><br></a>
+					<p><a href="http://www.brandinaction.com/" target="blank" class="grow-rotate"><img src="/images/bia-thumbnail.png" alt="Brand In Action Website"><br></a>
 					<a href="http://www.brandinaction.com/" target="blank">Brand In Action Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="http://footfall.foundrydev.co.uk/" target="blank"><img src="/images/footfall-thumbnail.png" alt="Footfall Website"><br></a>
+					<p><a href="http://footfall.foundrydev.co.uk/" target="blank" class="grow-rotate"><img src="/images/footfall-thumbnail.png" alt="Footfall Website"><br></a>
 					<a href="http://footfall.foundrydev.co.uk/" target="blank">Footfall Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="http://www.spacezero.co.uk/" target="blank"><img src="/images/space-zero-thumbnail.png" alt="Space Zero Website"><br></a>
+					<p><a href="http://www.spacezero.co.uk/" target="blank" class="grow-rotate"><img src="/images/space-zero-thumbnail.png" alt="Space Zero Website"><br></a>
 					<a href="http://www.spacezero.co.uk/" target="blank">Space Zero Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="http://www.warrenpartners.co.uk/" target="blank"><img src="/images/warren-website-thumbnail.png" alt="Warren Partners Website"><br></a>
+					<p><a href="http://www.warrenpartners.co.uk/" target="blank" class="grow-rotate"><img src="/images/warren-website-thumbnail.png" alt="Warren Partners Website"><br></a>
 					<a href="http://www.warrenpartners.co.uk/" target="blank">Warren Partners Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="http://www.foundrycomms.co.uk/" target="blank"><img src="/images/foundry_thumbnail.gif" alt="Foundry Website"><br></a>
+					<p><a href="http://www.foundrycomms.co.uk/" target="blank" class="grow-rotate"><img src="/images/foundry_thumbnail.gif" alt="Foundry Website"><br></a>
 					<a href="http://www.foundrycomms.co.uk/" target="blank">Foundry Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="http://www.premierpetcareplan.com/gb/" target="blank"><img src="/images/ppcp-thumbnail.png" alt="Premier Pet Care Plan Website"><br></a>
-					<a href="http://www.premierpetcareplan.com/gb/" target="blank">Premier Pet Care Plan Website</a></p>
+					<p><a href="http://www.foundryhealthcare.co.uk/" target="blank" class="grow-rotate"><img src="/images/fhc-thumbnail.png" alt="Foundry Healthcare Website"><br></a>
+					<a href="http://www.foundryhealthcare.co.uk/" target="blank">Foundry Healthcare Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="http://www.foundryhealthcare.co.uk/" target="blank"><img src="/images/fhc-thumbnail.png" alt="Foundry Healthcare Website"><br></a>
-					<a href="http://www.foundryhealthcare.co.uk/" target="blank">Foundry Healthcare Website</a></p>
+					<p><a href="support-for-life" target="blank" class="grow-rotate"><img src="/images/support-for-life-thumbnail.png" alt="Support For Life Video"><br></a>
+					<a href="support-for-life" target="blank">Support For Life Video</a></p>
 					<div class="flourish-mobile">
-						<img src="images/flourish.svg" alt="Flourish">
+						<img src="/images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li style="cursor: pointer;">
+					<p><a target="popup" onclick="window.open('calculator','Javascript Calculator','width=615,height=688')" class="grow-rotate"><img src="/images/calculator-thumbnail.png" alt="Javascript Calculator"><br></a>
+					<a target="popup" onclick="window.open('calculator','Javascript Calculator','width=615,height=688')">Javascript Calculator</a></p>
+					<div class="flourish-mobile">
+						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
 				</li>
 				<li>
-					<p><a href="support-for-life.php" target="blank"><img src="/images/support-for-life-thumbnail.png" alt="Support For Life Video"><br></a>
-					<a href="support-for-life.php" target="blank">Support For Life Video</a></p>
-					<div class="flourish-mobile">
-						<img src="images/flourish.svg" alt="Flourish">
-					</div>
-				</li>
-				<li>
-					<p><a href="calculator" target="popup" onclick="window.open('calculator','Javascript Calculator','width=615,height=800')"><img src="/images/calculator-thumbnail.png" alt="Javascript Calculator"><br></a>
-					<a href="calculator" target="popup" onclick="window.open('calculator','Javascript Calculator','width=615,height=800')">Javascript Calculator</a></p>
+					<p><a href="http://www.premierpetcareplan.com/gb/" target="blank" class="grow-rotate"><img src="/images/ppcp-thumbnail.png" alt="Premier Pet Care Plan Website"><br></a>
+					<a href="http://www.premierpetcareplan.com/gb/" target="blank">Premier Pet Care Plan Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
@@ -173,8 +172,16 @@
 				</ul>
 			</footer>
 		</div>
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<!-- Javascript -->
 		<script src="/js/jquery-1.11.0.min.js"></script>
-		<script src="/js/menu.js"></script>	
+		<script src="/js/menu.js"></script>
+		<script src="/js/lightbox/js/lightbox.min.js"></script>
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
+		<!-- Google Analytics -->
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

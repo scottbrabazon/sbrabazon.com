@@ -3,21 +3,18 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Scott Brabazon | Artworker/Developer | South Manchester | Blog | <?php perch_blog_post_field(perch_get('s'), 'postTitle'); ?></title>
-		<meta name="description" content="Developer and Artworker based in South Manchester. Please have a read of my latest blogs covering the latest industry news." />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.php" />
-		<?php perch_get_css(); ?>
-		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="/css/main.css">
-		<link rel="stylesheet" href="/css/responsive.css">
+		<meta name=viewport content="width=device-width, initial-scale=1">
+		<meta name="description" content="Developer and Artworker based in Manchester. Read my blogs covering the latest industry developments." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
+		<title>Scott Brabazon | Artworker/Developer | Manchester | Blog | <?php perch_blog_post_field(perch_get('s'), 'postTitle'); ?></title>
+		<!-- CSS -->
+		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
 	</head>
 	<body>
 		<div class="mobile-nav">
-			<button class="mobile-nav-toggle">
+			<div class="mobile-nav-toggle">
 				<div class='open-close-button'>
 					<svg version="1.1" id="_x2014_ÎÓÈ_x5F_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 					x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
@@ -34,32 +31,32 @@
 						</g>		
 					</svg>
 				</div>
-			</button>
+			</div>
 			<nav class="mobile-nav-links">
 				<ul>
-					<li><a href="../index.php">Home</a></li>
-					<li><a href="../print">Print</a></li>	
-					<li><a href="../digital">Digital</a></li>		
-					<li><a href="../3d">3D</a></li>
-					<li><a href="../blog" class="selected">Blog</a></li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/">Home</a></li>
+					<li><a href="/print">Print</a></li>	
+					<li><a href="/digital">Digital</a></li>		
+					<li><a href="/3d">3D</a></li>
+					<li><a href="/blog" class="selected">Blog</a></li>
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
 		<div class="desktop-nav">
 			<nav>
 				<ul>
-					<li><a href="../index.php"><img src="../images/home-icon-black.svg" onmouseover="this.src='../images/home-icon-gold.svg'" onmouseout="this.src='../images/home-icon-black.svg'"/></a></li>
+					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'"/></a></li>
 					<li>|</li>						
-					<li><a href="../print">Print</a></li>
+					<li><a href="/print">Print</a></li>
 					<li>|</li>		
-					<li><a href="../digital">Digital</a></li>
+					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
-					<li><a href="../3d">3D</a></li>
+					<li><a href="/3d">3D</a></li>
 					<li>|</li>
-					<li><a href="../blog" class="selected">Blog</a></li>
+					<li><a href="/blog" class="selected">Blog</a></li>
 					<li>|</li>
-					<li><a href="../contact.php">Contact</a></li>	
+					<li><a href="/contact">Contact</a></li>	
 				</ul>
 			</nav>
 		</div>	
@@ -93,7 +90,7 @@
 					<ul>
 						<li>	
 							<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-								<img src="../images/linkedin.png">
+								<img src="/images/linkedin.png">
 							</a>
 						</li>
 						<li>	
@@ -102,10 +99,17 @@
 					</ul>
 				</footer>
 			</div>
-		</div>	
-		<script src="../js/jquery-1.11.0.min.js"></script>
-		<script src="../js/menu.js"></script>
-		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5746d2d95835b876"></script>
+		</div>
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<!-- Javascript -->
+		<script src="/js/jquery-1.11.0.min.js"></script>
+		<script src="/js/menu.js"></script>
+		<script src="/js/lightbox/js/lightbox.min.js"></script>
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
+		<!-- Google Analytics -->
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -114,5 +118,6 @@
 			ga('create', 'UA-85329524-1', 'auto');
 			ga('send', 'pageview');
 		</script>
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5746d2d95835b876"></script>
 	</body>
 </html>
