@@ -185,6 +185,13 @@
 					</div>
 				</li>
 				<li>
+					<p><a href="http://www.salts.co.uk/" target="blank" class="grow-rotate"><img src="/images/salts-thumbnail.png" alt="Salts Website"><br></a>
+					<a href="http://www.salts.co.uk/" target="blank">Salts Website</a></p>
+					<div class="flourish-mobile">
+						<img src="/images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+				<li>
 					<p><a href="http://www.premierpetcareplan.com/gb/" target="blank" class="grow-rotate"><img src="images/ppcp-thumbnail.png" alt="Premier Pet Care Plan Website"><br></a>
 					<a href="http://www.premierpetcareplan.com/gb/" target="blank">Premier Pet Care Plan Website</a></p>
 					<div class="flourish-mobile">
