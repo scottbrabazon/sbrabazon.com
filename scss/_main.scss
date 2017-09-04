@@ -147,6 +147,10 @@ footer {
     padding: 0;
     list-style: none;
     }
+
+    img {
+        width: 100%;
+    }
 }
 
 p {
@@ -182,6 +186,7 @@ p {
     li {
         list-style: none;
         display: inline-block; 
+        img {width: 100%;}
     }
 
     h2 {

@@ -571,6 +571,8 @@ footer {
   .home-gallery ul {
     padding: 0;
     list-style: none; }
+  .home-gallery img {
+    width: 100%; }
 
 p {
   color: #FFF; }
@@ -595,6 +597,8 @@ p {
   .blog-index li {
     list-style: none;
     display: inline-block; }
+    .blog-index li img {
+      width: 100%; }
   .blog-index h2 {
     margin-bottom: 10px; }
   .blog-index a {
