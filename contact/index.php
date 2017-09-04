@@ -1,5 +1,15 @@
 <?php include('../perch/runtime.php');?>
 
+
+<?php
+	// Defaults, which can be overridden
+	$domain = 'http://'.$_SERVER["HTTP_HOST"];
+	$url = $domain.$_SERVER["REQUEST_URI"];
+	
+	PerchSystem::set_var('domain',$domain);
+	PerchSystem::set_var('url',$url);
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -114,53 +124,26 @@
 				<p>Download my latest CV by clicking <a href="/downloads/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
 			</div>
 			<div class="flourish-mobile">
-				<img src="images/flourish.svg" alt="Flourish">
+				<img src="/images/flourish.svg" alt="Flourish">
 			</div>
 			<div class="flourish-tablet-b">
-				<img src="images/flourish.svg" alt="Flourish">
+				<img src="/images/flourish.svg" alt="Flourish">
 			</div>
 			<div class="contact-form">
 				<?php perch_content('Contact Form'); ?>
 			</div>
 			<div class="flourish-mobile">
-				<img src="images/flourish.svg" alt="Flourish">
+				<img src="/images/flourish.svg" alt="Flourish">
 			</div>
 			<div class="flourish-tablet-b">
-				<img src="images/flourish.svg" alt="Flourish">
+				<img src="/images/flourish.svg" alt="Flourish">
 			</div>
 			<div class="map">
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75981.15562678434!2d-2.3384060218401936!3d53.478983829348365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487baec3817aa7d1%3A0xd560da2e52b21a42!2sShakespeare+Cres%2C+Eccles%2C+Manchester+M30+0PB!5e0!3m2!1sen!2suk!4v1494327703599" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 				</section>
 			</div>
 		</div>		
-		<footer>
-			<ul>
-				<li>	
-					<a href="https://uk.linkedin.com/in/scottbrabazon" target="blank">
-						<img src="/images/linkedin.png" alt="LinkedIn">
-					</a>
-				</li>
-				<li>	
-					<p>&copy; 2017 Scott Brabazon</p>
-				</li>
-			</ul>
-		</footer>
-		<!-- Favicon -->
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
-		<!-- Javascript -->
-		<script src="/js/jquery-1.11.0.min.js"></script>
-		<script src="/js/menu.js"></script>
-		<!-- Fonts -->
-		<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-		<!-- Google Analytics -->
-		<script>
-			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-			ga('create', 'UA-85329524-1', 'auto');
-			ga('send', 'pageview');
-		</script>
+		<!-- Footer -->
+		<?php include_once($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>	
 	</body>	
 </html>

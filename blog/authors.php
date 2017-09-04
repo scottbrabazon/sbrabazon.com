@@ -1,4 +1,14 @@
 <?php include('../perch/runtime.php'); ?>
+
+<?php
+	// Defaults, which can be overridden
+	$domain = 'http://'.$_SERVER["HTTP_HOST"];
+	$url = $domain.$_SERVER["REQUEST_URI"];
+	
+	PerchSystem::set_var('domain',$domain);
+	PerchSystem::set_var('url',$url);
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -52,18 +62,8 @@
 			    <?php perch_blog_date_archive_months(); ?>
 	    	</nav>
 		</div>
-		<footer class="layout-footer">
-			<div class="wrapper">
-				<ul class="social-links">
-					<li class="twitter"><a href="#" rel="me">Twitter</a></li>
-					<li class="facebook"><a href="#" rel="me">Facebook</a></li>
-					<li class="flickr"><a href="#" rel="me">Flickr</a></li>
-					<li class="linkedin"><a href="#" rel="me">LinkedIn</a></li>
-					<li class="rss"><a href="#">RSS</a></li>
-				</ul>
-				<small>Copyright &copy; <?php echo date('Y'); ?></small>
-			</div>
-		</footer>
+		<!-- Footer -->
+		<?php include_once($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>	
 		<?php perch_get_javascript(); ?>
 	</body>
 </html>
