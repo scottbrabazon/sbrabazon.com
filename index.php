@@ -227,14 +227,20 @@
 			<img src="images/flourish.svg" alt="Flourish">
 		</div>
 		<div class="blog-homepage">
-			<!-- <h2>Latest Industry Tweets...</h2>
-			<div>
-	            <a class="twitter-timeline" href="https://twitter.com/hashtag/FrontEnd" data-widget-id="900714695769960448" data-chrome="noheader">#FrontEnd Tweets</a>
-	            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-	            </script>
-	        </div> -->
-			<div>
-				<h2>Recent Blogs...</h2>	
+	<!-- 		<div class="twitter-widget">
+				<h2>Latest Tweets...</h2>
+				<div class="tweets-container">
+		            <p>Loading...</p>
+		        </div>
+		    </div> -->
+		    <div class="flourish-mobile">
+					<img src="images/flourish.svg" alt="Flourish">
+				</div>
+		    <div class="flourish-tablet-a">
+				<img src="images/flourish.svg" alt="Flourish">
+			</div>
+			<div class="recent-blogs">
+				<h2>Latest Blogs...</h2>	
 				<?php 
 				perch_blog_custom(array(
 					'sort'=>'postDateTime',

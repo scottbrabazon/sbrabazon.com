@@ -117,7 +117,7 @@
 					Greater Manchester<br />
 					M30 0PB
 				</p>
-				<h2><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
+				<h2 class="phone-number"><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
 				<div class="email">
 					<a href="mailto:hello@scottbrabazon.com"><h3>hello@scottbrabazon.com</h3></a>
 				</div>

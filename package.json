@@ -4,7 +4,8 @@
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify js/weather.js -o js/bundle.js"
   },
   "repository": {
     "type": "git",
@@ -17,11 +18,14 @@
   },
   "homepage": "https://github.com/scottbrabazon/scottbrabazon.com#readme",
   "devDependencies": {
+    "browserify": "^14.4.0",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.7.0",
     "gulp-sass": "^3.1.0"
   },
   "dependencies": {
+    "datapoint-js": "^0.2.1",
+    "jquery": "^3.2.1",
     "oauth": "^0.9.15"
   }
 }

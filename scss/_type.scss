@@ -7,7 +7,7 @@ h1, h2, h3, a, p, li {
 h1 {
     font-size: 2.5em;
     line-height: 0.8em;
-    margin: 35px 0 0 0;
+    margin: 0 0 0.7em 0;
     color: $primary-color;
     a {color: $primary-color;}
 }
@@ -15,7 +15,7 @@ h1 {
 h2 {
     font-size: 1.8em;
     line-height: 0.8em;
-    margin: 20px 0 0 0;
+    margin: 0 0 0.7em 0;
     color: $primary-color;
     a {color: $primary-color;}
 }
@@ -23,7 +23,7 @@ h2 {
 h3 {
     font-size: 1.5em;
     line-height: 0.9em;
-    margin: 5px 0 0 0;
+    margin: 0 0 0.5em 0;
     color: $text-color;
 }
 
@@ -33,7 +33,17 @@ a {
     }
 
 p {
-    margin: 5px 0 0 0;
+    margin: 0 0 0.7em 0;
     padding: 0;
     color: $text-color;
+}
+
+li {
+    margin: 0 0 0.7em 0;
+    padding: 0;
+    color: $text-color;
+}
+
+h1:last-child, h2:last-child, h3:last-child, a:last-child, p:last-child, li:last-child {
+    margin: 0;
 }

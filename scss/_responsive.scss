@@ -126,10 +126,6 @@ body, h1, h2, h3, a, p, li {
 
 /* Blog Index */
 
-	.blog-index h2 {
-		margin-top: 35px;
-	}
-
 	.archive-panel li {
 		text-align: left;
 	}
@@ -216,9 +212,6 @@ body, h1, h2, h3, a, p, li {
 		float: left;
 		margin: 0 0 0 7%;
 		padding: 0;
-		h2 {
-		margin-top: 0;
-		}
 	}
 
 	.archive-panel {
@@ -229,9 +222,6 @@ body, h1, h2, h3, a, p, li {
 		border-style: solid;
 		border-width: 0 0 0 1px;
 		border-color: $primary-color;
-		h2 {
-		margin: 0 0 5px 0;
-		}
 	}
 
 	.archive-panel-push {
@@ -242,9 +232,6 @@ body, h1, h2, h3, a, p, li {
 		border-style: solid;
 		border-width: 0 0 0 1px;
 		border-color: $primary-color;
-		h2 {
-		margin: 0 0 5px 0;
-		}
 	}
 
 	.primary-content {
@@ -303,9 +290,6 @@ body, h1, h2, h3, a, p, li {
 		float: left;
 		margin: 25px 7% 0 7%;
 		padding: 0;
-		h2 {
-		margin-top: 0;
-		}
 	}
 
 /* General */
@@ -344,26 +328,25 @@ body, h1, h2, h3, a, p, li {
 		border-color: $primary-color;
 		li {
 		width: 100%;
-		margin-bottom: 15px;
 		}
+		.hentry {
+			margin-bottom: 30px;
+		}
+	}
+
+	.twitter-widget {
+		margin-bottom: 30px;
 	}
 
 	.blog-post-recent {
 		width: 21.5%;
 		float: right;
 		padding: 0 7% 0 1.75%;
-		margin: 35px 0 0 1.75%;
+		margin: 25px 0 0 1.75%;
 		clear: none;
 		border-style: solid;
 		border-width: 0 0 0 1px;
 		border-color: $primary-color;
-		h2 {
-		margin: 0 0 15px 0;
-		}
-		li {
-		width: 100%;
-		margin-bottom: 15px;
-		}
 	}
 
 	.blog-post {

@@ -17,7 +17,7 @@ li {text-align: center;}
 
 .flourish-mobile {
     display: inline-block;
-    img {margin: 20px 0 5px 0;}
+    img {margin: 1em 0;}
 }
 
 .flourish-tablet-a {
@@ -112,7 +112,7 @@ header {
     
     padding: 0 7%;
     width: 86%;
-    margin-bottom: 25px;
+    margin: 25px 0;
 }
 
 /* Footer */
@@ -148,6 +148,10 @@ footer {
     list-style: none;
     }
 
+    li {
+        margin: 0;
+    }
+
     img {
         width: 100%;
     }
@@ -160,17 +164,12 @@ p {
 .blog-homepage {
     
     padding: 0 7%;
-    margin-top: 20px;
     width: 86%;
     clear: left;
+    text-align: center;
 
     h2 {
     color: $primary-color;
-    margin: 10px 0 5px 0;
-    }
-
-    h3 {
-    margin: 15px 0 5px 0;
     }
 }
 
@@ -189,10 +188,6 @@ p {
         img {width: 100%;}
     }
 
-    h2 {
-        margin-bottom: 10px; 
-    }
-
     a {
         color: #fff; 
     }
@@ -208,10 +203,7 @@ p {
 .blog-post {
     width: 86%;
     padding: 0 7%;
-
-    p {
-    margin-bottom: 15px;
-    }
+    margin-top: 25px;
 
     img {
     margin-bottom: 10px;
@@ -220,7 +212,6 @@ p {
     }
 
     h3 {
-    margin-top: 30px;
     color: $primary-color;
     }
 
@@ -238,11 +229,6 @@ p {
 
     h2 {
     color: $primary-color;
-    margin: 35px 0 5px 0;
-    }
-
-    h3 {
-    margin: 15px 0 5px 0;
     }
 }
 
@@ -265,11 +251,11 @@ p {
     width: 100%;
     }
 
-    h2 {
-    margin-bottom: 10px; 
-    }
-
     img {max-width: none;}
+}
+
+.listing li {
+    margin: 0;
 }
 
 /* Archive */
@@ -303,9 +289,6 @@ p {
     padding: 0 7%;
     text-align: center;
     display: inline-block;
-    h1 {
-    margin-top: 10px;
-    }
     img {
     margin: 35px 0 0 0;
     }
@@ -320,15 +303,16 @@ p {
     color: $primary-color;
 }
 
-.expertise h3 {
-    color: $primary-color;
+.expertise {
+    h3 {color: $primary-color;}
+    li {margin: 0;}
+}
+
+.phone-number {
+    margin: 0;
 }
 
 /* Form */
-
-.contact-form h2 {
-        margin-top: 0;
-    }
 
 form {
     border-style: solid;
@@ -429,5 +413,8 @@ form {
   transform-origin: 50% 50%;
 }
 
-.mobile-nav-links {display:none;}
+.mobile-nav-links {
+    display:none;
+    li {margin-bottom: 0;}
+}
 .mobile-nav-links.open {display:inline-block;}

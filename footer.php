@@ -14,8 +14,13 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <!-- Javascript -->
-<script src="/js/jquery-1.11.0.min.js"></script>
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous">
+</script>
 <script src="/js/menu.js"></script>
+<script src="/js/bundle.js"></script>
 <!-- Fonts -->
 <link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
 <!-- Google Analytics -->
