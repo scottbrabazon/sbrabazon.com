@@ -20,5 +20,5 @@ var current_obs = obs_for_today.timesteps[obs_for_today.timesteps.length-1]
 
 const weatherContainer = document.getElementById("weather-container");
 
-weatherContainer.innerHTML = '<p class="' + current_obs.weather.text.replace(" ", "").replace(")", "").replace("(", "").toLowerCase() + '"> It is currently ' + current_obs.weather.text.toLowerCase() + " with a temperature of " + current_obs.temperature.value + "°" + current_obs.temperature.units + " in " + forecast_site.name + "</p>";
+weatherContainer.innerHTML = '<p class="' + current_obs.weather.text.replace(/\s+/g, '').replace(")", "").replace("(", "").toLowerCase() + '"> It is currently ' + current_obs.weather.text.toLowerCase() + " with a temperature of " + current_obs.temperature.value + "°" + current_obs.temperature.units + " in " + forecast_site.name + "</p>";
 
