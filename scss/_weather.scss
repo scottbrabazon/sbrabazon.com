@@ -1,0 +1,56 @@
+#weather-container p {
+	padding: 150px 0 0 0;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 130px 130px;
+	margin: 0 0 20px 0;
+}
+
+
+// Conditions
+
+.clearnight {background-image: url(../images/weather/clearnight.svg);}
+.sunnyday {background-image: url(../images/weather/sunnyday.svg);}
+.partlycloudynight {background-image: url(../images/weather/partlycloudynight.svg);}
+.partlycloudyday {background-image: url(../images/weather/partlycloudyday.svg);}
+.notused {background-image: url(../images/weather/notused.svg);}
+.mist {background-image: url(../images/weather/mist.svg);}
+.fog {background-image: url(../images/weather/fog.svg);}
+.cloudy {background-image: url(../images/weather/cloudy.svg);}
+.overcast {background-image: url(../images/weather/overcast.svg);}
+.lightrainshowernight {background-image: url(../images/weather/lightrainshowernight.svg);}
+.lightrainshowerday {background-image: url(../images/weather/lightrainshowerday.svg);}
+.drizzle {background-image: url(../images/weather/drizzle.svg);}
+.lightrain {background-image: url(../images/weather/lightrain.svg);}
+.heavyrainshowernight {background-image: url(../images/weather/heavyrainshowernight.svg);}
+.heavyrainshowerday {background-image: url(../images/weather/heavyrainshowerday.svg);}
+.heavyrain {background-image: url(../images/weather/heavyrain.svg);}
+.sleetshowernight {background-image: url(../images/weather/sleetshowernight.svg);}
+.sleetshowerday {background-image: url(../images/weather/sleetshowerday.svg);}
+.sleet {background-image: url(../images/weather/sleet.svg);}
+.hailshowernight {background-image: url(../images/weather/hailshowernight.svg);}
+.hailshowerday {background-image: url(../images/weather/hailshowerday.svg);}
+.hail {background-image: url(../images/weather/hail.svg);}
+.lightsnowshowernight {background-image: url(../images/weather/lightsnowshowernight.svg);}
+.lightsnowshowerday {background-image: url(../images/weather/lightsnowshowerday.svg);}
+.lightsnow {background-image: url(../images/weather/lightsnow.svg);}
+.heavysnowshowernight {background-image: url(../images/weather/heavysnowshowernight.svg);}
+.heavysnowshowerday {background-image: url(../images/weather/heavysnowshowerday.svg);}
+.heavysnow {background-image: url(../images/weather/heavysnow.svg);}
+.thundershowernight {background-image: url(../images/weather/thundershowernight.svg);}
+.thundershowerday {background-image: url(../images/weather/thundershowerday.svg);}
+.thunder {background-image: url(../images/weather/thunder.svg);}
+
+
+// Media Queries
+
+@media screen and (min-width: 575px) {
+	#weather-container p {
+		padding: 0 0 0 65px;
+		background-position: left top;
+		background-size: 55px auto;
+		min-height: 60px;
+		margin-bottom: 0;
+	}
+}
+
