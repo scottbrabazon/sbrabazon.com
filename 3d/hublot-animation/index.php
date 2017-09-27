@@ -72,11 +72,11 @@
 			</nav>
 		</div>	
 		<header>
-			<h1>Support for Life Video</h1>
+			<h1>Hublot Animation</h1>
 		</header>
 		<div class="big-grid">
 			<div class="container">
-				<iframe src="http://www.youtube.com/embed/klbjW4Lb7Sg?showinfo=0&modestbranding=1&autohide=1&rel=0" 
+				<iframe src="http://www.youtube.com/embed/1naT-_0sA60?showinfo=0&modestbranding=1&autohide=1&rel=0" 
 					frameborder="0" allowfullscreen class="video">
 				</iframe>
 			</div>
@@ -84,16 +84,10 @@
 		<div class="flourish-tablet-a">
 			<img src="/images/flourish.svg" alt="Flourish">
 		</div>
-		<div class="blog-homepage">
-			<h2>Recent Blogs...</h2>	
-			<?php 
-			perch_blog_custom(array(
-				'sort'=>'postDateTime',
-				'sort-order'=>'RAND',
-				'template'=>'blog/post_in_homepage.html',
-				'count'=>'2'
-			)); ?>	
-		</div>	
+
+		<!-- Side Bar -->
+		<?php include_once($_SERVER['DOCUMENT_ROOT']."/side-bar.php"); ?>
+		
 		<!-- Footer -->
 		<?php include_once($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
 	</body>	

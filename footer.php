@@ -22,7 +22,8 @@
   crossorigin="anonymous">
 </script>
 <script src="/js/menu.js"></script>
-<script src="/js/bundle.js"></script>
+<script src="/js/weather.js"></script>
+<script src="/js/year.js"></script>
 <!-- Google Analytics -->
 <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -32,5 +33,3 @@
 	ga('create', 'UA-85329524-1', 'auto');
 	ga('send', 'pageview');
 </script>
-<!-- Date -->
-<script src="/js/year.js"></script>

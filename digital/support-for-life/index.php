@@ -84,16 +84,10 @@
 		<div class="flourish-tablet-a">
 			<img src="/images/flourish.svg" alt="Flourish">
 		</div>
-		<div class="blog-homepage">
-			<h2>Recent Blogs...</h2>	
-			<?php 
-			perch_blog_custom(array(
-				'sort'=>'postDateTime',
-				'sort-order'=>'RAND',
-				'template'=>'blog/post_in_homepage.html',
-				'count'=>'2'
-			)); ?>	
-		</div>	
+
+		<!-- Side Bar -->
+		<?php include_once($_SERVER['DOCUMENT_ROOT']."/side-bar.php"); ?>
+
 		<!-- Footer -->
 		<?php include_once($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>	
 	</body>	

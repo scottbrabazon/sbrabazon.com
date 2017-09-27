@@ -1097,8 +1097,7 @@ h1:last-child, h2:last-child, h3:last-child, a:last-child, p:last-child, li:last
   padding: 150px 0 0 0;
   background-repeat: no-repeat;
   background-position: center top;
-  background-size: 130px 130px;
-  margin: 0 0 20px 0; }
+  background-size: 130px 130px; }
 
 .clearnight {
   background-image: url(../images/weather/clearnight.svg); }
@@ -1199,4 +1198,4 @@ h1:last-child, h2:last-child, h3:last-child, a:last-child, p:last-child, li:last
     background-position: left top;
     background-size: 55px auto;
     min-height: 60px;
-    margin-bottom: 0; } }
+    margin-bottom: 25px; } }
