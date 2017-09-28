@@ -138,12 +138,21 @@
 			<div class="flourish-tablet-b">
 				<img src="/images/flourish.svg" alt="Flourish">
 			</div>
-			<div class="map">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75981.15562678434!2d-2.3384060218401936!3d53.478983829348365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487baec3817aa7d1%3A0xd560da2e52b21a42!2sShakespeare+Cres%2C+Eccles%2C+Manchester+M30+0PB!5e0!3m2!1sen!2suk!4v1494327703599" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-				</section>
-			</div>
-		</div>		
+		</div>
+		<div id="map">
+		</div>
 		<!-- Footer -->
 		<?php include_once($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>	
 	</body>	
+
+   <script src="/js/map.js"></script>
+
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD31jrGlheW0rwfgnCBE0jSTHSNYZKWrGw&callback=initMap">
+    </script>
+
+
+
 </html>
+
+key=AIzaSyD31jrGlheW0rwfgnCBE0jSTHSNYZKWrGw
