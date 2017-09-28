@@ -24,6 +24,7 @@
 <script src="/js/menu.js"></script>
 <script src="/js/weather.js"></script>
 <script src="/js/year.js"></script>
+<script src="/js/lightbox/js/lightbox.min.js"></script>
 <!-- Google Analytics -->
 <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
