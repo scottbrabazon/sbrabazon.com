@@ -18,7 +18,7 @@
 		<meta name="description" content="Developer and Artworker based in Manchester. Specialising in video production." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
 		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
-		<title>Scott Brabazon | Artworker/Developer | Manchester | Digital</title>
+		<title>Scott Brabazon | Artworker/Developer | Manchester | Digital | Support For Life Video</title>
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
