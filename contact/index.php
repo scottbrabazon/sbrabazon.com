@@ -118,9 +118,9 @@
 					M30 0PB
 				</p>
 				<h2 class="phone-number"><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
-				<div class="email">
+<!-- 				<div class="email">
 					<a href="mailto:hello@scottbrabazon.com"><h3>hello@scottbrabazon.com</h3></a>
-				</div>
+				</div> -->
 				<p>Download my latest CV by clicking <a href="/downloads/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
 			</div>
 			<div class="flourish-mobile">
