@@ -15,7 +15,7 @@
 		<meta charset="utf-8">
 		<meta name=viewport content="width=device-width, initial-scale=1">
 		<meta name="description" content="Developer and Artworker based in Manchester. Read my blogs covering the latest industry developments." />
-		<meta name="viewport" content="user-scalable=yes, width=300" />
+		<meta name="viewport" content="initial-scale=1.0,width=device-width" />
 		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
 		<title>Scott Brabazon | Developer | Manchester | Blog | <?php perch_blog_post_field(perch_get('s'), 'postTitle'); ?></title>
 		<!-- CSS -->

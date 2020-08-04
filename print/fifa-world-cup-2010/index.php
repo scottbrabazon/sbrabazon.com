@@ -15,8 +15,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name=viewport content="width=device-width, initial-scale=1">
-		<meta name="description" content="Developer and Artworker based in Manchester. Specialising in retouching and print ready artwork." />
-		<meta name="viewport" content="user-scalable=yes, width=300" />
+		<meta name="description" content="Developer based in Manchester, UK" />
+		<meta name="viewport" content="initial-scale=1.0,width=device-width" />
 		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
 		<title>Scott Brabazon | Developer | Manchester | Print | FIFA World Cup 2010</title>
 		<!-- CSS -->
