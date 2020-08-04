@@ -76,6 +76,8 @@
 		</header>
 		<div class="home-gallery">
 			<ul>
+
+				<!-- Epiphone 335 Dot -->
 				<li>
 					<p><a href="guitar" class="grow-rotate"><img src="/images/guitar_thumbnail.png" alt="Epiphone 335 Dot"><br></a>
 					<a href="guitar">Epiphone 335 Dot</a></p>
@@ -83,13 +85,17 @@
 						<img src="/images/flourish.svg">
 					</div>	
 				</li>
-				<li>
+
+				<!-- Hublot Animation -->
+				<!-- <li>
 					<p><a href="hublot-animation" class="grow-rotate"><img src="/images/hublot-thumbnail.png" alt="Hublot Animation"><br></a>
 					<a href="hublot-animation">Hublot Animation</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
-				</li>
+				</li> -->
+				
+				<!-- WD40 Cans -->
 				<li>
 					<p><a href="wd40cans" class="grow-rotate"><img src="/images/wd40cans_thumbnail.png" alt="WD40 Cans"><br></a>
 					<a href="wd40cans">WD40 Cans</a></p>
