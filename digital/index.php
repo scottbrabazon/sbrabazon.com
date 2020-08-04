@@ -156,8 +156,8 @@
 
 				<!-- Brand In Action Website -->
 				<li>
-					<p><a href="https://scottbrabazon.github.io/brandinaction/" onclick="trackOutboundLink('https://scottbrabazon.github.io/brandinaction/'); return true;" target="_blank" class="grow-rotate"><img src="/images/bia-thumbnail.png" alt="Brand In Action Website"><br></a>
-					<a href="https://scottbrabazon.github.io/brandinaction/" onclick="trackOutboundLink('https://scottbrabazon.github.io/brandinaction/'); return true;" target="_blank" class="grow-rotate">Brand In Action Website</a></p>
+					<p><a href="https://scottbrabazon.github.io/brand-in-action/" onclick="trackOutboundLink('https://scottbrabazon.github.io/brand-in-action/'); return true;" target="_blank" class="grow-rotate"><img src="/images/bia-thumbnail.png" alt="Brand In Action Website"><br></a>
+					<a href="https://scottbrabazon.github.io/brand-in-action/" onclick="trackOutboundLink('https://scottbrabazon.github.io/brand-in-action/'); return true;" target="_blank" class="grow-rotate">Brand In Action Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
