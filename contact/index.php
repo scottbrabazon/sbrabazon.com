@@ -18,7 +18,7 @@
 		<meta name="description" content="Developer and Artworker based in Manchester." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
 		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
-		<title>Scott Brabazon | Artworker/Developer | Manchester | Contact</title>
+		<title>Scott Brabazon | Developer | Manchester | Contact</title>
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/style.css">
 	</head>
@@ -45,9 +45,9 @@
 			<nav class="mobile-nav-links">
 				<ul>
 					<li><a href="/">Home</a></li>
-					<li><a href="/print">Print</a></li>	
 					<li><a href="/digital">Digital</a></li>		
 					<li><a href="/3d">3D</a></li>
+					<li><a href="/print">Print</a></li>	
 					<li><a href="/blog">Blog</a></li>
 					<li><a href="/contact" class="selected">Contact</a></li>	
 				</ul>
@@ -57,12 +57,12 @@
 			<nav>
 				<ul>
 					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
-					<li>|</li>						
-					<li><a href="/print">Print</a></li>
 					<li>|</li>		
 					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
 					<li><a href="/3d">3D</a></li>
+					<li>|</li>						
+					<li><a href="/print">Print</a></li>
 					<li>|</li>
 					<li><a href="/blog">Blog</a></li>
 					<li>|</li>
@@ -83,8 +83,8 @@
 							<li><p>CSS (SASS)</p></li>
 							<li><p>Javascript</p></li>
 							<li><p>GIT</p></li>
-							<li><p>CMS</p></li>
-							<li><p>Gulp</p></li>
+							<li><p>Wordpress</p></li>
+							<li><p>npm</p></li>
 							<li><p>Responsive Design</p></li>
 							<li><p>Mailchimp</p></li>
 							<li><p>Campaign Monitor</p></li>
@@ -104,19 +104,20 @@
 							<li><p>Adobe Photoshop</p></li>
 							<li><p>Adobe Illustrator</p></li>
 							<li><p>Adobe InDesign</p></li>
+							<li><p>Adobe After Effects</p></li>
 							<li><p>Microsoft Office</p></li>
 							<li><p>Final Cut Pro</p></li>
 							<li><p>Cinema 4D</p></li>
 						</ul>
 					</div>
 				</div>
-				<p>
+				<!-- <p>
 					19 Shakespeare Crescent,<br />
 					Eccles,<br />
 					Salford,<br />
 					Greater Manchester<br />
 					M30 0PB
-				</p>
+				</p> -->
 				<h2 class="phone-number"><a href="tel:+447963657287">+44 (0)796 365 7287</a></h2>
 <!-- 				<div class="email">
 					<a href="mailto:hello@scottbrabazon.com"><h3>hello@scottbrabazon.com</h3></a>

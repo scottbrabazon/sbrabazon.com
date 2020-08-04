@@ -18,7 +18,7 @@
 		<meta name="description" content="Developer and Artworker based in Manchester. Specialising in Cinema 4D modelling and animation." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
 		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
-		<title>Scott Brabazon | Artworker/Developer | Manchester | 3D</title>
+		<title>Scott Brabazon | Developer | Manchester | 3D</title>
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
@@ -46,9 +46,9 @@
 			<nav class="mobile-nav-links">
 				<ul>
 					<li><a href="/">Home</a></li>
-					<li><a href="/print">Print</a></li>	
 					<li><a href="/digital">Digital</a></li>		
 					<li><a href="/3d" class="selected">3D</a></li>
+					<li><a href="/print">Print</a></li>	
 					<li><a href="/blog">Blog</a></li>
 					<li><a href="/contact">Contact</a></li>	
 				</ul>
@@ -58,12 +58,12 @@
 			<nav>
 				<ul>
 					<li><a href="/"><img src="/images/home-icon-black.svg" onmouseover="this.src='/images/home-icon-gold.svg'" onmouseout="this.src='/images/home-icon-black.svg'" alt="Home"/></a></li>
-					<li>|</li>						
-					<li><a href="/print">Print</a></li>
 					<li>|</li>		
 					<li><a href="/digital">Digital</a></li>
 					<li>|</li>			
 					<li><a href="/3d" class="selected">3D</a></li>
+					<li>|</li>						
+					<li><a href="/print">Print</a></li>
 					<li>|</li>
 					<li><a href="/blog">Blog</a></li>
 					<li>|</li>

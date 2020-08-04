@@ -17,7 +17,7 @@
 		<meta name="description" content="Developer and Artworker based in Manchester. Read my blogs covering the latest industry developments." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
 		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
-		<title>Scott Brabazon | Artworker/Developer | Manchester | Blog | <?php perch_blog_post_field(perch_get('s'), 'postTitle'); ?></title>
+		<title>Scott Brabazon | Developer | Manchester | Blog | <?php perch_blog_post_field(perch_get('s'), 'postTitle'); ?></title>
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
@@ -86,22 +86,10 @@
 		    	<?php perch_blog_post_comment_form(perch_get('s')); ?>
 		    </div> 
 			<div class="blog-post-recent">
-				<h2>Latest Industry Tweets...</h2>
-				<div>
-		            <a class="twitter-timeline" href="https://twitter.com/hashtag/FrontEnd" data-widget-id="900714695769960448" data-chrome="noheader">#FrontEnd Tweets</a>
-		            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-		            </script>
-		        </div>
-				<!-- <h2>Recent Blogs...</h2>	 -->
-				// <?php 
-				// perch_blog_custom(array(
-				// 	'sort'=>'postDateTime',
-				// 	'sort-order'=>'RAND',
-				// 	'template'=>'blog/post_in_homepage.html',
-				// 	'count'=>'4'
-				// )); ?>
+
 			</div>	
 		</div>
+
 		<!-- Footer -->
 		<?php include_once($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>	
 	</body>

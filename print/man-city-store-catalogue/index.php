@@ -18,7 +18,7 @@
 		<meta name="description" content="Developer and Artworker based in Manchester. Specialising in retouching and print ready artwork." />
 		<meta name="viewport" content="user-scalable=yes, width=300" />
 		<meta name="keywords" content="scott brabazon, artworker, developer, freelancer" />
-		<title>Scott Brabazon | Artworker/Developer | Manchester | Print | City Store Catalogue 2010/11</title>
+		<title>Scott Brabazon | Developer | Manchester | Print | City Store Catalogue 2010/11</title>
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/js/lightbox/css/lightbox.css">
