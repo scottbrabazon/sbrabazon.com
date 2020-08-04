@@ -127,6 +127,15 @@
 					</div>
 				</li>
 
+				<!-- Brand In Action Website -->
+				<li>
+					<p><a href="https://scottbrabazon.github.io/brand-in-action/" onclick="trackOutboundLink('https://scottbrabazon.github.io/brand-in-action/'); return true;" target="_blank" class="grow-rotate"><img src="/images/bia-thumbnail.png" alt="Brand In Action Website"><br></a>
+					<a href="https://scottbrabazon.github.io/brand-in-action/" onclick="trackOutboundLink('https://scottbrabazon.github.io/brand-in-action/'); return true;" target="_blank" class="grow-rotate">Brand In Action Website</a></p>
+					<div class="flourish-mobile">
+						<img src="/images/flourish.svg" alt="Flourish">
+					</div>
+				</li>
+
 				<!-- LPP Website -->
 				<li>
 					<p><a href="https://www.localpensionspartnership.org.uk/" onclick="trackOutboundLink('https://www.localpensionspartnership.org.uk/'); return true;" target="_blank" class="grow-rotate"><img src="/images/lpp-thumbnail.png" alt="LPP Website"><br></a>
@@ -149,15 +158,6 @@
 				<li>
 					<p><a href="https://www.fashionworld.co.uk/" onclick="trackOutboundLink('https://www.fashionworld.co.uk/'); return true;" target="_blank" class="grow-rotate"><img src="/images/fashionworld-thumbnail.png"alt="Fashion World"><br></a>
 					<a href="https://www.fashionworld.co.uk/" onclick="trackOutboundLink('https://www.fashionworld.co.uk/'); return true;" target="_blank">Fashion World</a></p>
-					<div class="flourish-mobile">
-						<img src="/images/flourish.svg" alt="Flourish">
-					</div>
-				</li>
-
-				<!-- Brand In Action Website -->
-				<li>
-					<p><a href="https://scottbrabazon.github.io/brand-in-action/" onclick="trackOutboundLink('https://scottbrabazon.github.io/brand-in-action/'); return true;" target="_blank" class="grow-rotate"><img src="/images/bia-thumbnail.png" alt="Brand In Action Website"><br></a>
-					<a href="https://scottbrabazon.github.io/brand-in-action/" onclick="trackOutboundLink('https://scottbrabazon.github.io/brand-in-action/'); return true;" target="_blank" class="grow-rotate">Brand In Action Website</a></p>
 					<div class="flourish-mobile">
 						<img src="/images/flourish.svg" alt="Flourish">
 					</div>
