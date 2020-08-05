@@ -122,7 +122,7 @@
 <!-- 				<div class="email">
 					<a href="mailto:hello@scottbrabazon.com"><h3>hello@scottbrabazon.com</h3></a>
 				</div> -->
-				<p>Download my latest CV by clicking <a href="/downloads/scott_brabazon_cv.pdf" target="blank"><u>here</u></a></p>
+				<p>Download my <a href="/downloads/scott_brabazon_cv.pdf" target="blank"><u>latest CV</u></a> or take a look at my <a href="https://github.com/scottbrabazon" target="blank"><u>GitHub</u></a> repository.</p>
 			</div>
 			<div class="flourish-mobile">
 				<img src="/images/flourish.svg" alt="Flourish">

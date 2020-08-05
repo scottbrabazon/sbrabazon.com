@@ -15,7 +15,7 @@ h1 {
 h2 {
     font-size: 1.8em;
     line-height: 0.8em;
-    margin: 0 0 0.7em 0;
+    margin: 1em 0 0.2em 0;
     color: $primary-color;
     a {color: $primary-color;}
 }
@@ -33,12 +33,6 @@ a {
     }
 
 p {
-    margin: 0 0 0.7em 0;
-    padding: 0;
-    color: $text-color;
-}
-
-li {
     margin: 0 0 0.7em 0;
     padding: 0;
     color: $text-color;

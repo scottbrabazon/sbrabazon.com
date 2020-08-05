@@ -249,11 +249,15 @@ body, h1, h2, h3, a, p, li {
 
 	form {
 		margin-top: 0;
+		input[type=submit] {
+	    width: 20%;
+	    margin: 5px 80% 0 0;
+	    }
 	}
 
-	.contact-form {
-		margin-top: 5px;
-	}
+	// .contact-form {
+	// 	margin-top: 5px;
+	// }
 
 /* Blog Post */
 

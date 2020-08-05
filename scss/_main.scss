@@ -205,8 +205,18 @@ p {
     padding: 0 7%;
     margin-top: 25px;
 
+    p:first-of-type {
+        font-size: 1.2em;
+        font-weight: 600;
+    }
+
+    .description a {
+    color: $primary-color;
+    text-decoration: underline;
+    }
+
     img {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     max-width: none;
     width: 100%;
     }
@@ -215,11 +225,24 @@ p {
     color: $primary-color;
     }
 
+    li {
+    list-style: none;
+    list-style-position: inside;
+    }
+
+    li::before {
+        content: url('/images/bullet.gif');
+        color: $primary-color;
+        margin-right: 0.7em;
+    }
+
     ul {
-    list-style-type: circle;
-    margin-left: 7px;
+    margin: 0 0 0.7em 0;
+    padding: 0;
+    color: $text-color;
     }
 }
+
 
 .blog-post-recent {
     padding: 0 7%;
@@ -311,11 +334,11 @@ p {
 /* Form */
 
 form {
-    border-style: solid;
-    border-width: 1px;
-    border-color: $primary-color;
-    border-radius: 10px;
-    padding: 20px 20px 10px 20px;
+    // border-style: solid;
+    // border-width: 1px;
+    // border-color: $primary-color;
+    // border-radius: 10px;
+    // padding: 20px 20px 10px 20px;
     margin-top: 35px;
     text-align: left;
     font-family: 'Rokkitt', serif;
@@ -332,10 +355,11 @@ form {
     height: 200px;
     }   
     legend {
-    color: #FFF;
+    color: $primary-color;
+    font-weight: bold;
     font-size: 1.5em;
     line-height: 0.9em;
-    margin: 5px 0;
+    margin: 0 0 5px;
     }   
     label {
     color: #FFF;
@@ -349,7 +373,7 @@ form {
     }
     input[type=submit] {
     font-family: 'Rokkitt', serif;
-    font-size: 1.2em;
+    font-size: 1em;
     color: $text-color;
     margin-top: 15px;
     padding: 10px 0;

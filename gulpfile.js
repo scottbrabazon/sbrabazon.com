@@ -9,14 +9,14 @@ gulp.task('sass',function(){
     .pipe(gulp.dest('css'))
 });
 
-gulp.task('watch-sass', function(){
-	gulp.watch('scss/*.scss', ['sass']);
-});
-
 gulp.task('minify-css', () => {
   return gulp.src('css/*.css')
     .pipe(cleanCSS({compatibility: 'ie8'}))
     .pipe(gulp.dest('css'));
+});
+
+gulp.task('watch-sass', function(){
+	gulp.watch('scss/*.scss', ['sass']);
 });
 
 // gulp.task('minify-js', function(){
